@@ -346,6 +346,358 @@ p {
 
 /* Extra classes
 -------------------------------------------------------------- */
+.client_main_block {
+  width: 100%;
+  float: left;
+  margin-top: 70px;
+}
+.client_main_block .left-0 {
+  position: absolute !important;
+  left: 0%;
+  top: 0px;
+}
+.client_main_block .left-25 {
+  position: absolute !important;
+  left: 25%;
+  top: 0px;
+}
+.client_main_block .left-50 {
+  position: absolute !important;
+  left: 50%;
+  top: 0px;
+}
+.client_main_block .left-75 {
+  position: absolute !important;
+  left: 75%;
+  top: 0px;
+}
+.client_main_block .left-1 {
+  position: absolute !important;
+  left: 0%;
+  top: 1292px;
+}
+.client_main_block .left-2 {
+  position: absolute !important;
+  left: 25%;
+  top: 1292px;
+}
+.client_main_block .left-3 {
+  position: absolute !important;
+  left: 50%;
+  top: 1292px;
+}
+.client_main_block .left-4 {
+  position: absolute !important;
+  left: 75%;
+  top: 1292px;
+}
+.client_main_block .left-5 {
+  position: absolute !important;
+  left: 0%;
+  top: 1615px;
+}
+.client_main_block .left-6 {
+  position: absolute !important;
+  left: 50%;
+  top: 1615px;
+}
+.client_main_block .left-7 {
+  position: absolute !important;
+  left: 25%;
+  top: 1940px;
+}
+.client_main_block .left-8 {
+  position: absolute !important;
+  left: 75%;
+  top: 1940px;
+}
+.client_main_block .left-9 {
+  position: absolute !important;
+  left: 0%;
+  top: 2263px;
+}
+.client_main_block .left-10 {
+  position: absolute !important;
+  left: 50%;
+  top: 2263px;
+}
+.client_main_block .top-1 {
+  position: absolute !important;
+  left: 0%;
+  top: 323px;
+}
+.client_main_block .top-2 {
+  position: absolute !important;
+  left: 50%;
+  top: 323px;
+}
+.client_main_block .top-3 {
+  position: absolute !important;
+  left: 25%;
+  top: 646px;
+}
+.client_main_block .top-4 {
+  position: absolute !important;
+  left: 75%;
+  top: 646px;
+}
+.client_main_block .top-5 {
+  position: absolute !important;
+  left: 0%;
+  top: 969px;
+}
+.client_main_block .top-6 {
+  position: absolute !important;
+  left: 50%;
+  top: 969px;
+}
+.client_main_block .cs-isotop.cs-has_gutter_24 {
+  margin-left: -12px;
+  margin-right: -12px;
+  margin-bottom: -24px;
+}
+.client_main_block .cs-isotop.cs-has_gutter_24 .cs-isotop_item {
+  padding: 0 12px;
+  margin-bottom: 24px;
+}
+.client_main_block .cs-isotop {
+  -webkit-transition: all 0.4s ease;
+  transition: all 0.4s ease;
+}
+.client_main_block .cs-isotop_col_4 .cs-grid_sizer {
+  width: 25%;
+}
+.client_main_block .cs-isotop_col_4 .cs-isotop_item {
+  width: 25%;
+}
+.client_main_block .cs-isotop_item img {
+  border-radius: 5px;
+}
+.client_main_block .cs-portfolio.cs-style1 {
+  border-radius: 15px;
+  overflow: hidden;
+  position: relative;
+  height: 500px;
+  display: block;
+  position: relative;
+}
+.client_main_block .cs-portfolio.cs-style1 .cs-portfolio_hover {
+  position: absolute;
+  height: 100%;
+  width: 95%;
+  left: 12px;
+  top: 0;
+  opacity: 0;
+  background-color: rgba(22, 22, 22, 0.4);
+  -webkit-transition: all 0.4s ease;
+  transition: all 0.4s ease;
+  z-index: 2;
+  border-radius: 5px;
+}
+.client_main_block .cs-portfolio.cs-style1 .cs-plus {
+  position: absolute;
+  height: 60px;
+  width: 60px;
+  left: 50%;
+  z-index: 1;
+  top: 50%;
+  opacity: 0;
+  -webkit-transform: translate(-50%, -50%) scale(0.4);
+  transform: translate(-50%, -50%) scale(0.4);
+  -webkit-transition: all 0.4s ease;
+  transition: all 0.4s ease;
+}
+.client_main_block .cs-portfolio.cs-style1 .cs-plus::before {
+  content: "";
+  position: absolute;
+  height: 2px;
+  width: 50%;
+  background-color: #fff;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%) rotate(90deg);
+  transform: translate(-50%, -50%) rotate(90deg);
+}
+.client_main_block .cs-portfolio.cs-style1 .cs-plus::after {
+  content: "";
+  position: absolute;
+  height: 2px;
+  width: 50%;
+  background-color: #fff;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+.client_main_block .cs-portfolio.cs-style1 .cs-plus-video {
+  position: absolute;
+  height: 50px;
+  width: 50px;
+  left: 50%;
+  z-index: 111;
+  top: 50%;
+  opacity: 0;
+  -webkit-transform: translate(-50%, -50%) scale(0.4);
+  transform: translate(-50%, -50%) scale(0.4);
+  -webkit-transition: all 0.4s ease;
+  transition: all 0.4s ease;
+  font-size: 18px;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.6588235294);
+  border-radius: 100px;
+}
+.client_main_block .cs-portfolio.cs-style1:hover .cs-plus-video {
+  opacity: 1;
+  -webkit-transform: translate(-50%, -50%) scale(1);
+  transform: translate(-50%, -50%) scale(1);
+}
+.client_main_block .cs-portfolio.cs-style1:hover .cs-portfolio_hover {
+  opacity: 1;
+}
+.client_main_block .cs-portfolio.cs-style1:hover .cs-plus {
+  opacity: 1;
+  -webkit-transform: translate(-50%, -50%) scale(1);
+  transform: translate(-50%, -50%) scale(1);
+}
+.client_main_block .cs-portfolio.cs-style1 .cs-portfolio_bg {
+  height: 100%;
+  width: 100%;
+  border-radius: inherit;
+}
+.client_main_block .cs-portfolio.cs-style1 .cs-portfolio_info {
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+  padding: 105px 20px 80px 65px;
+  bottom: -60px;
+  left: -40px;
+  position: absolute;
+  z-index: 2;
+}
+.client_main_block .cs-portfolio.cs-style1 .cs-portfolio_info_bg {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  border-radius: inherit;
+  left: 0;
+  top: 0;
+}
+.client_main_block .cs-portfolio.cs-style1 .cs-portfolio_title {
+  font-size: 22px;
+  position: relative;
+  z-index: 2;
+  letter-spacing: 0;
+  text-transform: capitalize;
+  color: #fff;
+  font-weight: 600;
+}
+.client_main_block .cs-portfolio.cs-style1 .cs-portfolio_subtitle {
+  display: inline-block;
+  position: relative;
+  z-index: 2;
+  padding-right: 30px;
+  color: rgba(254, 254, 254, 0.7);
+}
+.client_main_block .cs-portfolio.cs-style1 .cs-portfolio_subtitle::after {
+  content: "";
+  height: 1px;
+  width: 20px;
+  background-color: currentColor;
+  border-radius: 3px;
+  position: absolute;
+  right: 0;
+  top: 50%;
+  margin-top: 2px;
+}
+.client_main_block .cs-portfolio.cs-style1.cs-type2 {
+  border-radius: 5px;
+}
+.client_main_block .cs-portfolio.cs-style1.cs-type2 .cs-portfolio_hover {
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 74, 23, 0.7)), to(rgba(0, 0, 0, 0.8)));
+  background: linear-gradient(180deg, rgba(77, 165, 40, 0.16) 0%, rgba(0, 0, 0, 0.79) 100%);
+}
+.client_main_block .cs-portfolio.cs-style1.cs-type2 .cs-portfolio_info {
+  height: 100%;
+  width: 100%;
+  border-radius: 0%;
+  padding: 30px 20px 30px 25px;
+  bottom: 0;
+  left: 0;
+  position: absolute;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-align: start;
+  -ms-flex-align: start;
+  align-items: flex-start;
+  -webkit-box-pack: end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+}
+.client_main_block .cs-portfolio.cs-style1.cs-type2 .cs-portfolio_info_bg {
+  display: none;
+}
+.client_main_block .cs-portfolio.cs-style1.cs-type2 .cs-portfolio_subtitle {
+  top: 15px;
+  opacity: 0;
+  -webkit-transition: all 0.4s ease;
+  transition: all 0.4s ease;
+  font-size: 16px;
+  top: 15px;
+  opacity: 0;
+  -webkit-transition: all 0.4s ease;
+  transition: all 0.4s ease;
+}
+.client_main_block .cs-portfolio.cs-style1.cs-type2 .cs-portfolio_title {
+  top: 15px;
+  opacity: 0;
+  -webkit-transition: all 0.4s ease;
+  transition: all 0.4s ease;
+}
+.client_main_block .cs-portfolio.cs-style1.cs-type2:hover .cs-portfolio_title {
+  top: 0px;
+  opacity: 1;
+  -webkit-transition-delay: 0.2s;
+  transition-delay: 0.2s;
+  color: #fff;
+}
+.client_main_block .cs-portfolio.cs-style1.cs-type2:hover .cs-portfolio_subtitle {
+  top: 0px;
+  opacity: 1;
+  -webkit-transition-delay: 0.3s;
+  transition-delay: 0.3s;
+}
+.client_main_block .cs-portfolio.cs-style1.cs-size1 {
+  height: 299px;
+}
+.client_main_block .cs-bg {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.client_main_block .cs-accent_bg {
+  background-color: #FF4A17;
+}
+.client_main_block .cs-accent_bg_hover:hover {
+  background-color: #FF4A17;
+}
+.client_main_block .cs-portfolio.cs-style1.cs-size2 {
+  height: 622px;
+}
+.client_main_block .cs-portfolio.cs-style1.cs-lightbox_item:hover {
+  cursor: -webkit-zoom-in;
+  cursor: zoom-in;
+}
+
 .float {
   position: fixed;
   width: 55px;
@@ -437,6 +789,9 @@ label.error {
 }
 .flex-three.rotate i {
   transform: rotate(90deg);
+}
+.flex-three.rotate span {
+  color: #4DA528;
 }
 
 .flex-five {

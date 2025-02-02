@@ -1708,7 +1708,7 @@
 /* widget clip text
 -------------------------------------------------------------- */
 .clip-text {
-    font-size: 105px;
+    font-size: 80px;
     font-weight: 800;
     line-height: 89px;
     text-align: center;
@@ -1719,7 +1719,7 @@
     @supports (background-clip:text) or (-webkit-background-clip:text) {
         color: transparent;
         -webkit-background-clip: text;
-        background-image: url(../../assets/images/page/clip-text.jpg);
+        background-image: url(../../assets/images/page/clip-text.webp);
         background-size: cover;
         background-position: center;
     }

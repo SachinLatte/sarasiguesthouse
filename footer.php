@@ -16,6 +16,8 @@
                                 <li class="flex-three rotate">
                                     <i class="icon-Group-9"></i>
                                     <p><a href="tel:+91 9623214125">+91 9623214125</a></p>
+                                    <span class="ms-2 me-2">/</span>
+                                    <p><a href="tel:+91 72649 20315">+91 72649 20315</a></p>
                                 </li>
                                 <li class="flex-three">
                                     <i class="icon-Layer-19"></i>

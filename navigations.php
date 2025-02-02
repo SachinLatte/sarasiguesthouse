@@ -14,7 +14,7 @@
                                         <i class="icon-phone"></i>
                                         <span><a href="tel:+91 9623214125">+91 9623214125</a></span>
                                         <span class="ms-2 me-2">/</span>
-                                        <span><a href="tel:+91 72649 20315">+91 72649 20315</a></span
+                                        <span><a href="tel:+91 72649 20315">+91 72649 20315</a></span>
                                     </li>
                                 </ul>
                             </div>

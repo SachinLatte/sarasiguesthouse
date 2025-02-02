@@ -18,6 +18,7 @@
     <script src="app/js/textanimation.js"></script>
     <script src="app/js/wow.min.js"></script>
     <script src="app/js/shortcodes.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.6.14/js/lightgallery-all.min.js"></script>
     <script src="app/js/main.js"></script>
     <script src="app/js/custom.js"></script>
 </body>

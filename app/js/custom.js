@@ -21,5 +21,16 @@ var swiper = new Swiper(".home-hero-banner", {
     },
 });
 
+//Current Year Update
 let currentYear = new Date();
 document.querySelector('.currentYear').innerText = currentYear.getFullYear();
+
+
+
+$(document).ready(() => {
+    $('.static-thumbnails-lightgallery').lightGallery({
+        animateThumb: false,
+        zoomFromOrigin: false,
+        thumbnail: false
+    });
+});
