@@ -4,7 +4,7 @@
 
 /*----------------------breadcumb--------------------*/
 .breadcumb-section {
-    padding: 137px 0px 135px 0px;
+    padding: 250px 0px 135px 0px;
     background-image: url(../../assets/images/page/breakcrumb.jpg);
     position: relative;
     background-position: center;
@@ -626,8 +626,8 @@
     }
 
     .video-box {
-        width: 138px;
-        height: 134px;
+        width: 120px;
+        height: 116px;
         background-color: $primary;
         border-radius: 25px;
         rotate: 45deg;
@@ -640,7 +640,7 @@
     }
 
     .text-video {
-        font-size: 121px;
+        font-size: 85px;
         font-weight: 400;
         line-height: 121px;
         margin-top: 46px;
@@ -666,11 +666,10 @@
         .content {
 
             .title-call {
-                font-size: 36px;
-                font-weight: 700;
-                line-height: 45px;
+                font-size: 35px;
+                font-weight: 600;
+                line-height: 50px;
                 color: $white;
-                margin-bottom: 10px;
             }
 
             .des {
@@ -797,9 +796,10 @@
         }
 
         span {
-            font-size: 16px;
-            font-weight: 700;
+            font-size: 18px;
+            font-weight: 500;
             line-height: 30px;
+            font-style: italic;
         }
     }
 }
@@ -978,7 +978,7 @@
 
 .about-us-h4 {
     padding-top: 103px;
-    padding-bottom: 128px;
+    padding-bottom: 250px;
 
     .image-about-h4-wrap {
         margin-right: 5.5em;
@@ -1603,9 +1603,9 @@
 }
 
 /*----------------------destination--------------------*/
-.widget-destination {
-    padding-top: 317px;
-}
+// .widget-destination {
+//     padding-top: 120px;
+// }
 
 .grid-three-destination {
     display: grid;
@@ -1720,8 +1720,8 @@
 
 /*----------------------Testimonial--------------------*/
 .widget-testimonial-style01 {
-    padding-top: 289px;
-    padding-bottom: 158px;
+    // padding-top: 170px;
+    padding-bottom: 220px !important;
     background-color: $bg8;
     background-image: url(../../assets/images/page/bg2.png);
     background-position: center;
@@ -3140,7 +3140,7 @@
 .contact-us {
     .box-contact {
         border-radius: 8px;
-        border: 1px solid $border;
+        border: 1px solid #cfcfcf;
         padding: 61px 40px 54px 40px;
         box-shadow: 0px 15px 10px 0px rgba(242, 242, 242, 0.18);
 
@@ -3162,7 +3162,7 @@
     }
 
     .contact-us-wrap {
-        padding: 56px 65px 57px 65px;
+        padding: 50px;
         margin-left: -25px;
 
         &>.inner-header {
@@ -3178,19 +3178,21 @@
     }
 
     .contact-us-map {
-        padding-right: 4.5em;
+        height: 100%;
 
         .inner-header {
-
             .title {
                 margin-bottom: 36px;
 
             }
         }
 
-        .map,
-        #map {
-            height: 559px;
+        .map {
+            height: 100%;
+
+            #contact-map {
+                height: 100%;
+            }
         }
     }
 }

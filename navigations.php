@@ -34,8 +34,8 @@
                                         </div>
                                         <div class="logo-box">
                                             <div class="logo">
-                                                <a href="index.html">
-                                                    <img src="assets/images/logo.png" alt="Logo">
+                                                <a href="index.php">
+                                                    <img src="assets/images/logo.webp" alt="Logo">
                                                 </a>
                                             </div>
                                         </div>
@@ -45,11 +45,11 @@
                                                 <div class="navbar-collapse collapse clearfix"
                                                     id="navbarSupportedContent">
                                                     <ul class="navigation clearfix">
-                                                        <li class="current">
-                                                            <a href="index.php">Home</a>
+                                                        <li class="current <?php if($page=='home'){echo 'active';}?>">
+                                                            <a href="index.php" >Home</a>
                                                         </li>
-                                                        <li>
-                                                            <a href="javascript:void(0)">About Us</a>
+                                                        <li class="<?php if($page=='about-us'){echo 'active';}?>">
+                                                            <a href="about-us.php">About Us</a>
                                                         </li>
                                                         <li class="dropdown2">
                                                             <a href="javascript:void(0)">Services</a>
@@ -61,7 +61,7 @@
                                                                 </li>
                                                             </ul>
                                                         </li>
-                                                        <li><a href="javascript:void(0)">Sightseeing</a>
+                                                        <li class="<?php if($page=='sightseeing'){echo 'active';}?>"><a href="sightseeing.php">Sightseeing</a>
                                                         </li>
                                                         <li><a href="javascript:void(0)">Gallery</a>
                                                         </li>
@@ -69,7 +69,7 @@
                                                         </li>
                                                         <li><a href="javascript:void(0)">Testimonials</a>
                                                         </li>
-                                                        <li><a href="javascript:void(0)">Contact Us</a></li>
+                                                        <li class="<?php if($page=='contact-us'){echo 'active';}?>"><a href="contact-us.php">Contact Us</a></li>
                                                     </ul>
                                                 </div>
                                             </nav>

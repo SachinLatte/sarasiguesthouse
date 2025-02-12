@@ -8,7 +8,7 @@
 @import "../../assets/fonts/style.css";
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&family=Yesteryear&display=swap');
 @import "../css/bootstrap.css";
-
+@import url('https://fonts.googleapis.com/css2?family=Parkinsans:wght@300..800&display=swap');
 
 html,
 body,
@@ -320,7 +320,7 @@ h1 {
 h2 {
     font-size: $h2-fs;
     line-height: $h2-lh;
-    font-weight: 800;
+    font-weight: 600;
 }
 
 h3 {
@@ -353,6 +353,14 @@ p {
 
 /* Extra classes
 -------------------------------------------------------------- */
+.pb-120 {
+    padding-bottom: 120px;
+}
+
+.mt-50 {
+    margin-top: 50px;
+}
+
 .client_main_block {
     width: 100%;
     float: left;
@@ -547,7 +555,7 @@ p {
             height: 60px;
             width: 60px;
             left: 50%;
-            z-index: 1;
+            z-index: 11;
             top: 50%;
             opacity: 0;
             -webkit-transform: translate(-50%, -50%) scale(0.4);
@@ -654,7 +662,8 @@ p {
             letter-spacing: 0;
             text-transform: capitalize;
             color: $color_2;
-            font-weight: 600;
+            font-weight: 500;
+            line-height: 50px;
         }
 
         .cs-portfolio_subtitle {
@@ -662,7 +671,8 @@ p {
             position: relative;
             z-index: 2;
             padding-right: 30px;
-            color: $color_3;
+            color: $white;
+
 
             &::after {
                 content: "";
@@ -683,7 +693,7 @@ p {
 
         .cs-portfolio_hover {
             background: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 74, 23, 0.7)), to(rgba(0, 0, 0, 0.8)));
-            background: linear-gradient(180deg, rgb(77 165 40 / 16%) 0%, rgb(0 0 0 / 79%) 100%);
+            background: linear-gradient(180deg, rgba(77, 165, 40, 0.16) 0%, rgb(0 0 0 / 88%) 100%);
         }
 
         .cs-portfolio_info {
@@ -1010,7 +1020,7 @@ button,
 input[type=submit] {
     font-family: $font-family;
     border: unset;
-    padding: 20px 60px;
+    padding: 15px 25px;
     font-size: 16px;
     font-weight: 500;
     line-height: 20px;
@@ -1019,6 +1029,7 @@ input[type=submit] {
     background-color: $primary;
     @include transition3;
     cursor: pointer;
+    border-radius: 50px;
 
     &:hover {
         background-color: $secondary;
@@ -1207,12 +1218,11 @@ input[type=submit] {
 }
 
 .text-main {
-    color: $primary !important;
+    color: $secondary !important;
 }
 
 .font-yes {
     display: inline-block;
-    margin-left: 15px;
     color: #4da528;
 }
 

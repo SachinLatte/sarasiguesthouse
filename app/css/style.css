@@ -6,6 +6,7 @@
 @import "../../assets/fonts/style.css";
 @import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&family=Yesteryear&display=swap");
 @import "../css/bootstrap.css";
+@import url("https://fonts.googleapis.com/css2?family=Parkinsans:wght@300..800&display=swap");
 html,
 body,
 div,
@@ -126,7 +127,7 @@ html {
 }
 
 body {
-  font-family: "Plus Jakarta Sans", sans-serif;
+  font-family: "Parkinsans", serif;
   font-size: 16px;
   line-height: 30.8px;
   font-weight: 400;
@@ -298,7 +299,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Plus Jakarta Sans", sans-serif;
+  font-family: "Parkinsans", serif;
   text-rendering: optimizeLegibility;
   color: #081E2A;
   text-transform: capitalize;
@@ -313,7 +314,7 @@ h1 {
 h2 {
   font-size: 35px;
   line-height: 60px;
-  font-weight: 800;
+  font-weight: 600;
 }
 
 h3 {
@@ -341,11 +342,19 @@ h6 {
 }
 
 p {
-  font-family: "Plus Jakarta Sans", sans-serif;
+  font-family: "Parkinsans", serif;
 }
 
 /* Extra classes
 -------------------------------------------------------------- */
+.pb-120 {
+  padding-bottom: 120px;
+}
+
+.mt-50 {
+  margin-top: 50px;
+}
+
 .client_main_block {
   width: 100%;
   float: left;
@@ -499,7 +508,7 @@ p {
   height: 60px;
   width: 60px;
   left: 50%;
-  z-index: 1;
+  z-index: 11;
   top: 50%;
   opacity: 0;
   -webkit-transform: translate(-50%, -50%) scale(0.4);
@@ -594,14 +603,15 @@ p {
   letter-spacing: 0;
   text-transform: capitalize;
   color: #fff;
-  font-weight: 600;
+  font-weight: 500;
+  line-height: 50px;
 }
 .client_main_block .cs-portfolio.cs-style1 .cs-portfolio_subtitle {
   display: inline-block;
   position: relative;
   z-index: 2;
   padding-right: 30px;
-  color: rgba(254, 254, 254, 0.7);
+  color: #FFFFFF;
 }
 .client_main_block .cs-portfolio.cs-style1 .cs-portfolio_subtitle::after {
   content: "";
@@ -619,7 +629,7 @@ p {
 }
 .client_main_block .cs-portfolio.cs-style1.cs-type2 .cs-portfolio_hover {
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 74, 23, 0.7)), to(rgba(0, 0, 0, 0.8)));
-  background: linear-gradient(180deg, rgba(77, 165, 40, 0.16) 0%, rgba(0, 0, 0, 0.79) 100%);
+  background: linear-gradient(180deg, rgba(77, 165, 40, 0.16) 0%, rgba(0, 0, 0, 0.88) 100%);
 }
 .client_main_block .cs-portfolio.cs-style1.cs-type2 .cs-portfolio_info {
   height: 100%;
@@ -900,10 +910,10 @@ label.error {
 
 button {
   border: none;
-  font-family: "Plus Jakarta Sans", sans-serif;
+  font-family: "Parkinsans", serif;
 }
 button:hover {
-  background-color: #FF970D;
+  background-color: #e49421;
   transition: all 0.3s;
   border: unset;
 }
@@ -916,9 +926,9 @@ button[type=submit]:hover {
 
 button,
 input[type=submit] {
-  font-family: "Plus Jakarta Sans", sans-serif;
+  font-family: "Parkinsans", serif;
   border: unset;
-  padding: 20px 60px;
+  padding: 15px 25px;
   font-size: 16px;
   font-weight: 500;
   line-height: 20px;
@@ -931,10 +941,11 @@ input[type=submit] {
   -o-transition: all 0.3s ease;
   transition: all 0.3s ease;
   cursor: pointer;
+  border-radius: 50px;
 }
 button:hover,
 input[type=submit]:hover {
-  background-color: #FF970D;
+  background-color: #e49421;
   transition: all 0.3s;
   border: unset;
 }
@@ -1115,16 +1126,15 @@ input[type=submit]:hover {
 }
 
 .text-second {
-  color: #FF970D;
+  color: #e49421;
 }
 
 .text-main {
-  color: #4DA528 !important;
+  color: #e49421 !important;
 }
 
 .font-yes {
   display: inline-block;
-  margin-left: 15px;
   color: #4da528;
 }
 
@@ -1177,7 +1187,7 @@ input[type=submit]:hover {
 }
 
 .bg-2 {
-  background-color: #FF970D !important;
+  background-color: #e49421 !important;
 }
 
 .bg-3 {

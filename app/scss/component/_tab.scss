@@ -2,18 +2,19 @@
 
 .tab-list {
     .nav-link {
-        font-size: 15px;
+        font-size: 16px;
         font-weight: 600;
         line-height: 18.9px;
         letter-spacing: 0.03em;
         color: $main;
-        padding: 10px 22px;
+        padding: 12px 22px;
         background-color: $white;
         border-radius: 2px;
         margin: 0 7px;
         position: relative;
         transition: all 0.3s ease;
         min-width: 134px;
+
         &::before {
             position: absolute;
             content: '';
@@ -32,6 +33,7 @@
         &:hover {
             background-color: $primary;
             color: $white;
+
             &::before {
                 position: absolute;
                 content: '';
@@ -76,8 +78,8 @@
 
     .nav-item {
         .nav-link {
-            font-size: 18px;
-            font-weight: 700;
+            font-size: 17px;
+            font-weight: 600;
             line-height: 27px;
             color: $main;
             background-color: $white;

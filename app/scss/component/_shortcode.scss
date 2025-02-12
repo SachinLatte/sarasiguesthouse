@@ -909,23 +909,25 @@
         .nation {
             max-width: 245px;
             width: 100%;
-            font-size: 17px;
-            font-weight: 600;
+            font-size: 19px;
+            font-weight: 500;
             line-height: 28.76px;
             color: $white;
             background-color: $primary;
             text-transform: capitalize;
             display: inline-block;
-            padding: 4px 19px 9px 19px;
+            padding: 10px;
             margin-top: -1px;
             clip-path: polygon(0 0, 100% 0, 88% 100%, 0% 100%);
+            display: flex;
+            align-items: center;
         }
 
         .btn-destination {
-            padding: 14px 36px 18px 19px;
+            padding: 15px;
 
             .title {
-                font-size: 18px;
+                font-size: 17px;
                 font-weight: 500;
                 line-height: 22.68px;
                 color: $black;
@@ -1091,7 +1093,7 @@
 
         p {
             font-size: 24px;
-            font-weight: 600;
+            font-weight: 500;
             line-height: 40px;
         }
     }
@@ -1810,6 +1812,9 @@
 
     .title-icon {
         margin-bottom: 23px;
+        font-size: 21px;
+        line-height: 30px;
+        font-weight: 600;
     }
 }
 
@@ -2047,7 +2052,7 @@
     .testimonial-content {
         .profile {
             .name {
-                font-size: 29px;
+                font-size: 23px;
                 line-height: 31px;
                 letter-spacing: -0.02em;
                 margin-bottom: 4px;
@@ -2055,7 +2060,7 @@
 
             .job {
                 display: inline-block;
-                font-size: 18px;
+                font-size: 16px;
                 font-weight: 500;
                 line-height: 31px;
                 letter-spacing: -0.02em;
@@ -2064,9 +2069,9 @@
         }
 
         .tes {
-            font-size: 29px;
-            font-weight: 700;
-            line-height: 57px;
+            font-size: 18px;
+            font-weight: 600;
+            line-height: 40px;
             color: $main;
             text-transform: capitalize;
             letter-spacing: -0.02em;

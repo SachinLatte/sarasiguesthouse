@@ -118,21 +118,22 @@
 }
 
 .get-call {
-  font-size: 15px;
+  font-size: 17px;
   font-weight: 600;
   line-height: 18.9px;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.02em;
   text-transform: uppercase;
-  padding: 23px 36px;
+  padding: 17px 25px;
   background-color: $white;
   color: $primary;
   display: inline-block;
   border-radius: 5px;
   text-align: center;
+  border-radius: 50px;
   @include transition3;
 
   &:hover {
-    background-color: $secondary;
+    background-color: $black;
     color: $white;
   }
 }
@@ -158,7 +159,7 @@
   border-radius: 5px;
   border: none;
   overflow: hidden;
-  background: #4DA528;
+  background: $secondary;
   color: #FFFFFF;
   border-radius: 50px;
 

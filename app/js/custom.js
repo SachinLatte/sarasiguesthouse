@@ -33,4 +33,13 @@ $(document).ready(() => {
         zoomFromOrigin: false,
         thumbnail: false
     });
+
+    //Photo Lightgallery
+    $(document).ready(function () {
+        $('.photo-lightgallery').each(function (i, v) {
+            $(v).lightGallery({
+                thumbnail: false
+            });
+        });
+    });
 });

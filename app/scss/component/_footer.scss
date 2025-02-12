@@ -19,13 +19,15 @@
 
     .footer-main {
         display: flex;
-        padding-top: 165px;
+        padding-top: 100px;
         padding-bottom: 83px;
 
         .title {
             margin-bottom: 25px;
             color: $white;
             line-height: 35px;
+            font-weight: 600;
+
         }
 
         .footer-logo {
@@ -39,7 +41,7 @@
                 color: $primary;
 
                 img {
-                    width: 130px;
+                    width: 170px;
                 }
             }
 
@@ -86,7 +88,7 @@
 
                     a {
                         font-size: 16px;
-                        font-weight: 600;
+                        font-weight: 500;
                         line-height: 35px;
                         color: $white;
                         transition: all 0.0.3ss ease-in-out;
