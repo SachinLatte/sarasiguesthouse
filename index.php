@@ -615,22 +615,6 @@
                     </div>
                 </section>
                 <!-- Widget Testimonial -->
-                <section class="mb--93" style="background-color: #F1F6F4;">
-                    <div class="tf-container">
-                        <div class="callt-to-action flex-two">
-                            <div class="callt-to-action-content flex-three">
-                                <div class="content">
-                                    <h2 class="title-call">Ready to stay in the beautiful resort <br> and explore the nature </h2>
-
-                                </div>
-                            </div>
-                            <img src="./assets/images/page/vector4.png" alt="" class="shape-ab">
-                            <div class="callt-to-action-button">
-                                <a href="contact-us.php" class="get-call">Contact Us</a>
-                            </div>
-                        </div>
-                    </div>
-                </section>
             </main>
         <?php include 'footer.php' ?>
         </div>

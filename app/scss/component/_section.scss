@@ -3177,6 +3177,38 @@
 
     }
 
+    .contact-us-wrap-reach {
+        padding: 0 110px;
+
+        &>.inner-header {
+            .title {
+                font-size: 25px;
+                font-weight: 600;
+                line-height: 48px;
+                letter-spacing: 1px;
+                margin-bottom: 20px;
+                color: $primary;
+            }
+        }
+
+        ul {
+            margin: 0;
+            padding: 0;
+
+            li {
+                margin-bottom: 20px;
+
+                span {
+                    display: block;
+                    font-size: 20px;
+                    font-weight: 600;
+                    color: $bg12;
+                    margin-bottom: 10px;
+                }
+            }
+        }
+    }
+
     .contact-us-map {
         height: 100%;
 

@@ -55,19 +55,19 @@
                                                             <a href="javascript:void(0)">Services</a>
                                                             <ul>
                                                                 <li><a
-                                                                        href="archieve-tour.html">Cottages</a>
+                                                                        href="javascript:void(0)">Cottages</a>
                                                                 </li>
-                                                                <li><a href="tour-package-v2.html">Food</a>
+                                                                <li><a href="javascript:void(0)">Food</a>
                                                                 </li>
                                                             </ul>
                                                         </li>
                                                         <li class="<?php if($page=='sightseeing'){echo 'active';}?>"><a href="sightseeing.php">Sightseeing</a>
                                                         </li>
-                                                        <li><a href="javascript:void(0)">Gallery</a>
+                                                        <li class="<?php if($page=='gallery'){echo 'active';}?>"><a href="gallery.php">Gallery</a>
                                                         </li>
-                                                        <li><a href="javascript:void(0)">How to Reach</a>
+                                                        <li class="<?php if($page=='how-to-reach'){echo 'active';}?>"><a href="how-to-reach.php">How to Reach</a>
                                                         </li>
-                                                        <li><a href="javascript:void(0)">Testimonials</a>
+                                                        <li class="<?php if($page=='testimonials'){echo 'active';}?>"><a href="testimonials.php">Testimonials</a>
                                                         </li>
                                                         <li class="<?php if($page=='contact-us'){echo 'active';}?>"><a href="contact-us.php">Contact Us</a></li>
                                                     </ul>

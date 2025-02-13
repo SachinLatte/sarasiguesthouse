@@ -34,6 +34,11 @@ $(document).ready(() => {
         thumbnail: false
     });
 
+    $('#video-gallery').lightGallery({
+        animateThumb: false,
+        zoomFromOrigin: false,
+        thumbnail: false
+    });
     //Photo Lightgallery
     $(document).ready(function () {
         $('.photo-lightgallery').each(function (i, v) {

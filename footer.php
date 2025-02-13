@@ -33,10 +33,13 @@
                                     <a href="about-us.php">About Us</a>
                                 </li>
                                 <li>
-                                    <a href="gallery.php">Services</a>
+                                    <a href="javascript:void(0)">Services</a>
                                 </li>
                                 <li>
                                     <a href="sightseeing.php">Sightseeing</a>
+                                </li>
+                                <li>
+                                    <a href="gallery.php">Gallery</a>
                                 </li>
                                 <li>
                                     <a href="how-to-reach.php">How To Reach</a>
@@ -90,7 +93,7 @@
                         <div class="col-md-6">
                             <ul class="social flex-six">
                                 <li>
-                                    <a href="#">
+                                    <a href="https://www.facebook.com/people/Sarasi-Guest-House/61573205546095/" target="_blank">
                                         <i class="icon-icon-2"></i>
                                     </a>
                                 </li>
