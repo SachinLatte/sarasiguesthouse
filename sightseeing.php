@@ -14,99 +14,95 @@
     <?php $page = 'sightseeing'; include "navigations.php" ?>
     <div id="wrapper">
         <div id="pagee" class="clearfix">
-                <?php include 'navigations.php' ?>
             <!-- End Main Header -->
             <main id="main">
-
-<section class="breadcumb-section">
-    <div class="tf-container">
-        <div class="row">
-            <div class="col-lg-12 center z-index1">
-                <h1 class="title">Sightseeing</h1>
-                <ul class="breadcumb-list flex-five">
-                    <li><a href="index.php">Home</a></li>
-                    <li><span>Sightseeing</span></li>
-                </ul>
-            </div>
-        </div>
-
-    </div>
-</section>
-
-<section class="tour-destination pd-main">
-    <div class="tf-container">
-        <div class="row">
-            <div class="col-md-5 mb-37 photo-lightgallery">
-            <a href="./assets/images/tour/1.jpg" class="destination-style relative">
-                <img src="./assets/images/tour/1.jpg" alt="">
-                <div class="destination-content">
-                    <p class="text-white">Beaches</p>
-                </div>
-            </a>
-            <a style="display:none;" href="./assets/images/tour/2.jpg">
-                <img src="./assets/images/tour/2.jpg" />
-            </a>
-            </div>
-            <div class="col-md-4 mb-37 photo-lightgallery">
-                <a href="./assets/images/tour/2.jpg" class="destination-style relative">
-                    <img src="./assets/images/tour/2.jpg" alt="">
-                    <div class="destination-content">
-                        <p class="text-white">Temples</p>
+                <section class="breadcumb-section">
+                    <div class="tf-container">
+                        <div class="row">
+                            <div class="col-lg-12 center z-index1">
+                                <h1 class="title">Sightseeing</h1>
+                                <ul class="breadcumb-list flex-five">
+                                    <li><a href="index.php">Home</a></li>
+                                    <li><span>Sightseeing</span></li>
+                                </ul>
+                            </div>
+                        </div>
                     </div>
-                </a>
-            <a style="display:none;" href="./assets/images/tour/1.jpg">
-                <img src="./assets/images/tour/1.jpg" />
-            </a>
-            </div>
-            <div class="col-md-3 mb-37 photo-lightgallery">
-                <a href="./assets/images/tour/3.jpg" class="destination-style relative">
-                    <img src="./assets/images/tour/3.jpg" alt="">
-                    <div class="destination-content">
-                        <p class="text-white">Forts</p>
+                </section>
+                <section class="tour-destination pd-main">
+                    <div class="tf-container">
+                        <div class="row">
+                            <div class="col-md-5 mb-37 photo-lightgallery">
+                            <a href="./assets/images/tour/1.jpg" class="destination-style relative">
+                                <img src="./assets/images/tour/1.jpg" alt="">
+                                <div class="destination-content">
+                                    <p class="text-white">Beaches</p>
+                                </div>
+                            </a>
+                            <a style="display:none;" href="./assets/images/tour/2.jpg">
+                                <img src="./assets/images/tour/2.jpg" />
+                            </a>
+                            </div>
+                            <div class="col-md-4 mb-37 photo-lightgallery">
+                                <a href="./assets/images/tour/2.jpg" class="destination-style relative">
+                                    <img src="./assets/images/tour/2.jpg" alt="">
+                                    <div class="destination-content">
+                                        <p class="text-white">Temples</p>
+                                    </div>
+                                </a>
+                            <a style="display:none;" href="./assets/images/tour/1.jpg">
+                                <img src="./assets/images/tour/1.jpg" />
+                            </a>
+                            </div>
+                            <div class="col-md-3 mb-37 photo-lightgallery">
+                                <a href="./assets/images/tour/3.jpg" class="destination-style relative">
+                                    <img src="./assets/images/tour/3.jpg" alt="">
+                                    <div class="destination-content">
+                                        <p class="text-white">Forts</p>
+                                    </div>
+                                </a>
+                                <a style="display:none;" href="./assets/images/tour/1.jpg">
+                                <img src="./assets/images/tour/1.jpg" />
+                            </a>
+                            </div>
+                            <div class="col-md-3 mb-37 photo-lightgallery">
+                                <a href="./assets/images/tour/4.jpg" class="destination-style relative">
+                                    <img src="./assets/images/tour/4.jpg" alt="">
+                                    <div class="destination-content">
+                                        <p class="text-white">Water Sports</p>
+                                    </div>
+                                </a>
+                                <a style="display:none;" href="./assets/images/tour/1.jpg">
+                                <img src="./assets/images/tour/1.jpg" />
+                            </a>
+                            </div>
+                            <div class="col-md-5 mb-37 photo-lightgallery">
+                                <a href="./assets/images/tour/5.jpg" class="destination-style relative">
+                                    <img src="./assets/images/tour/5.jpg" alt="">
+                                    <div class="destination-content">
+                                        <p class="text-white">Birds Watching</p>
+                                    </div>
+                                </a>
+                                <a style="display:none;" href="./assets/images/tour/1.jpg">
+                                <img src="./assets/images/tour/1.jpg" />
+                            </a>
+                            </div>
+                            <div class="col-md-4 mb-37 photo-lightgallery">
+                                <a href="./assets/images/tour/6.jpg" class="destination-style relative">
+                                    <img src="./assets/images/tour/6.jpg" alt="">
+                                    <div class="destination-content">
+                                        <p class="text-white">Bauman Ghal</p>
+                                    </div>
+                                </a>
+                                <a style="display:none;" href="./assets/images/tour/1.jpg">
+                                <img src="./assets/images/tour/1.jpg" />
+                            </a>
+                            </div>
+                        </div>
                     </div>
-                </a>
-                <a style="display:none;" href="./assets/images/tour/1.jpg">
-                <img src="./assets/images/tour/1.jpg" />
-            </a>
-            </div>
-            <div class="col-md-3 mb-37 photo-lightgallery">
-                <a href="./assets/images/tour/4.jpg" class="destination-style relative">
-                    <img src="./assets/images/tour/4.jpg" alt="">
-                    <div class="destination-content">
-                        <p class="text-white">Water Sports</p>
-                    </div>
-                </a>
-                <a style="display:none;" href="./assets/images/tour/1.jpg">
-                <img src="./assets/images/tour/1.jpg" />
-            </a>
-            </div>
-            <div class="col-md-5 mb-37 photo-lightgallery">
-                <a href="./assets/images/tour/5.jpg" class="destination-style relative">
-                    <img src="./assets/images/tour/5.jpg" alt="">
-                    <div class="destination-content">
-                        <p class="text-white">Birds Watching</p>
-                    </div>
-                </a>
-                <a style="display:none;" href="./assets/images/tour/1.jpg">
-                <img src="./assets/images/tour/1.jpg" />
-            </a>
-            </div>
-            <div class="col-md-4 mb-37 photo-lightgallery">
-                <a href="./assets/images/tour/6.jpg" class="destination-style relative">
-                    <img src="./assets/images/tour/6.jpg" alt="">
-                    <div class="destination-content">
-                        <p class="text-white">Bauman Ghal</p>
-                    </div>
-                </a>
-                <a style="display:none;" href="./assets/images/tour/1.jpg">
-                <img src="./assets/images/tour/1.jpg" />
-            </a>
-            </div>
-        </div>
-    </div>
-</section>
-</main>
-        <?php include 'footer.php' ?>
+                </section>
+                </main>
+            <?php include 'footer.php' ?>
         </div>
     </div>
 <?php include 'tail.php' ?>

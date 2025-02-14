@@ -501,6 +501,11 @@
 	color: $primary;
 }
 
+.main-header .main-menu .navigation>li>ul>li.active>a {
+	opacity: 1;
+	color: $primary;
+}
+
 
 .main-header .main-menu .navigation>li>ul {
 	position: absolute;

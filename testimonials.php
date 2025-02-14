@@ -14,7 +14,6 @@
     <?php $page = 'testimonials'; include "navigations.php" ?>
     <div id="wrapper">
         <div id="pagee" class="clearfix">
-            <?php include 'navigations.php' ?>
             <!-- End Main Header -->
                 <main id="main">
                     <section class="breadcumb-section">
@@ -105,7 +104,6 @@
                                                 </div>
                                             </div>
                                         </div>
-
                                     <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
                                     <div class="swiper testimonial-image swiper-container-initialized swiper-container-horizontal swiper-container-pointer-events swiper-container-free-mode swiper-container-thumbs">
                                         <div class="swiper-wrapper" id="swiper-wrapper-c99e26a3bccf7a010" aria-live="polite" style="transform: translate3d(0px, 0px, 0px); transition-duration: 0ms;">
@@ -123,7 +121,6 @@
                                 </div>
                             </div>
                         </div>
-
                     </div>
                 </section>
                 <section class="widget-destination pd-main">
@@ -192,7 +189,6 @@
                                             <i class="icon-Vector-32"></i>
                                         </a>
                                     </div>
-
                                 </div>
                             </div>
                             <div class="tf-widget-destination wow fadeInUp   animated" data-wow-delay="0.5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">
@@ -226,8 +222,8 @@
                         </div>
                     </div>
                 </section>
-                </main>
-        <?php include 'footer.php' ?>
+            </main>
+            <?php include 'footer.php' ?>
         </div>
     </div>
 <?php include 'tail.php' ?>

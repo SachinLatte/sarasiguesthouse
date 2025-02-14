@@ -442,6 +442,11 @@
   color: #4DA528;
 }
 
+.main-header .main-menu .navigation > li > ul > li.active > a {
+  opacity: 1;
+  color: #4DA528;
+}
+
 .main-header .main-menu .navigation > li > ul {
   position: absolute;
   width: 243px;
@@ -8493,6 +8498,7 @@
 .common-items {
   background-size: cover;
   background-repeat: no-repeat;
+  border-radius: 6px;
 }
 
 .item-1 {
@@ -9400,7 +9406,7 @@ h1 {
 
 h2 {
   font-size: 35px;
-  line-height: 60px;
+  line-height: 55px;
   font-weight: 600;
 }
 

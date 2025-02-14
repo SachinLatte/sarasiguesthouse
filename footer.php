@@ -33,7 +33,7 @@
                                     <a href="about-us.php">About Us</a>
                                 </li>
                                 <li>
-                                    <a href="javascript:void(0)">Services</a>
+                                    <a href="cotteges.php">Services</a>
                                 </li>
                                 <li>
                                     <a href="sightseeing.php">Sightseeing</a>

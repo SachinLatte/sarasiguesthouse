@@ -51,13 +51,12 @@
                                                         <li class="<?php if($page=='about-us'){echo 'active';}?>">
                                                             <a href="about-us.php">About Us</a>
                                                         </li>
-                                                        <li class="dropdown2">
+                                                        <li class="dropdown2 <?php if($page=='cotteges'){echo 'active';} if($page=='food-services'){echo 'active';}?>">
                                                             <a href="javascript:void(0)">Services</a>
                                                             <ul>
-                                                                <li><a
-                                                                        href="javascript:void(0)">Cottages</a>
+                                                                <li class=" <?php if($page=='cotteges'){echo 'active';}?>"><a href="cotteges.php">Cottages</a>
                                                                 </li>
-                                                                <li><a href="javascript:void(0)">Food</a>
+                                                                <li class=" <?php if($page=='food-services'){echo 'active';}?>"><a href="food-services.php">Food</a>
                                                                 </li>
                                                             </ul>
                                                         </li>

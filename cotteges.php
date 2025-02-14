@@ -11,189 +11,44 @@
                 stroke-dasharray="0 440" stroke-linecap="round"></circle>
         </svg>
     </div>
-    <?php $page = 'home'; include "navigations.php" ?>
+    <?php $page = 'cotteges'; include "navigations.php" ?>
     <div id="wrapper">
         <div id="pagee" class="clearfix">
             <!-- End Main Header -->
-            <main id="main">
-                <!-- Widget Slider -->
-                <section class="slider hero-banner">
-                    <div class="swiper home-hero-banner">
-                        <div class="swiper-wrapper">
-                            <div class="slider-home1 relative overflow-hidden swiper-slide">
-                                <div class="silider-image">
-                                    <img src="./assets/images/slide/hero-banner-1.webp" alt="Image" class="image-slide">
-                                </div>
-                                <div class="container">
-                                    <div class="slider-content">
-                                        <div class="tf-container">
-                                            <div class="row">
-                                                <div class="col-lg-8">
-                                                    <h1 class="title-slide text-white mb-32 fadeInDown wow">Tour Travel &
-                                                        adventure
-                                                        <span class="animationtext clip text-main">
-                                                            <span class="cd-words-wrapper">
-                                                                <span class="item-text is-visible">Camping</span>
-                                                                <span class="item-text is-hidden">Camping</span>
-                                                            </span>                                          
-                                                        </span>
-                                                    </h1>
-                                                    <div class="btn-group">
-                                                        <a href="javascript:void(0)" class="btn-main fadeInDown wow">
-                                                            <p class="btn-main-text">Book Now</p>
-                                                            <p class="iconer">
-                                                                <i class="icon-arrow-right"></i>
-                                                            </p>
-                                                        </a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="slider-home1 relative overflow-hidden swiper-slide">
-                                <div class="silider-image">
-                                    <img src="./assets/images/slide/hero-banner-2.webp" alt="Image" class="image-slide">
-                                </div>
-                                <div class="container">
-                                    <div class="slider-content">
-                                        <div class="tf-container">
-                                            <div class="row">
-                                                <div class="col-lg-8">
-                                                    <h1 class="title-slide text-white mb-32 fadeInDown wow">Tour Travel &
-                                                        adventure
-                                                        <span class="animationtext clip text-main">
-                                                            <span class="cd-words-wrapper">
-                                                                <span class="item-text is-visible">Camping</span>
-                                                                <span class="item-text is-hidden">Camping</span>
-                                                            </span>                                          
-                                                        </span>
-                                                    </h1>
-                                                    <div class="btn-group">
-                                                        <a href="javascript:void(0)" class="btn-main fadeInDown wow">
-                                                            <p class="btn-main-text">Book Now</p>
-                                                            <p class="iconer">
-                                                                <i class="icon-arrow-right"></i>
-                                                            </p>
-                                                        </a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="slider-home1 relative overflow-hidden swiper-slide">
-                                <div class="silider-image">
-                                    <img src="./assets/images/slide/hero-banner-3.webp" alt="Image" class="image-slide">
-                                </div>
-                                <div class="container">
-                                    <div class="slider-content">
-                                        <div class="tf-container">
-                                            <div class="row">
-                                                <div class="col-lg-8">
-                                                    <h1 class="title-slide text-white mb-32 fadeInDown wow">Tour Travel &
-                                                        adventure
-                                                        <span class="animationtext clip text-main">
-                                                            <span class="cd-words-wrapper">
-                                                                <span class="item-text is-visible">Camping</span>
-                                                                <span class="item-text is-hidden">Camping</span>
-                                                            </span>                                          
-                                                        </span>
-                                                    </h1>
-                                                    <div class="btn-group">
-                                                        <a href="javascript:void(0)" class="btn-main fadeInDown wow">
-                                                            <p class="btn-main-text">Book Now</p>
-                                                            <p class="iconer">
-                                                                <i class="icon-arrow-right"></i>
-                                                            </p>
-                                                        </a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
+                <main id="main">
+                    <section class="breadcumb-section">
+                        <div class="tf-container">
+                            <div class="row">
+                                <div class="col-lg-12 center z-index1">
+                                    <h1 class="title">Cotteges</h1>
+                                    <ul class="breadcumb-list flex-five">
+                                        <li><a href="index.php">Home</a></li>
+                                        <li><span>Room Services</span></li>
+                                    </ul>
                                 </div>
                             </div>
                         </div>
-                        <div class="custom-nav-btn">
-                            <div class="btn-nex-prev">
-                                <div class="swiper-button-next  next-home1"></div>
-                                <div class="swiper-button-prev  prev-home1"></div>
-                            </div>
-                        </div>
-                    </div>
-                </section>
-                <!-- Widget Slider -->
-                <!-- Widget Aboutus -->
-                <section class="about-us pd-main">
-                    <div class="tf-container">
-                        <div class="row">
-                            <div class="col-lg-6">
-                                <div class="travel-video relative">
-                                    <img src="./assets/images/about-us/image-video.png" alt="Image" class="image-video">
-                                    <div class="video-wrap">
-                                        <a href="https://www.youtube.com/watch?v=n9LgeoJE4EI"
-                                            class="widget-icon-video widget-videos flex-five z-index3">
-                                            <i class="icon-Polygon-4"></i>
-                                        </a>
-                                    </div>
-                                </div>
-
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="inner-content-about">
-                                    <h2 class="title-heading mb-18 fadeInUp wow"><span
-                                            class="text-gray font-yes">Sarasi Guest House</span></h2>
-                                    <p class="des-heading fadeInUp wow mb-2">Located within a spacious 'wadi' in Modkagar just 5 kms from the pristine Guhagar beach Sarasi Guest House is an ideal place to stay in Guhagar for families during a holiday to Guhagar.</p>
-                                    <p class="des-heading fadeInUp wow mb-2">Sarasi Guest House has tastefully adorned, well appointed, spacious cottage rooms with L.C.D tvs, attached toilets and good quality linen & bed spreads to ensure a comfortable stay in this beautiful beach town of Guhagar.</p>
-                                    <p class="des-heading fadeInUp wow">Food served at Sarasi Guest House seperate it from other hotels and resorts in Guhagar. Delicious home made veg and non veg cuisines prepared in the famous kokani culinary style is served in Sarsi Guest House in its dining area.</p>
-                                    <div class="map-check flex-three fadeInUp wow mt-4">
-                                        <div class="icon">
-                                            <img src="./assets/images/map-icon.svg" alt="">
-                                        </div>
-                                        <span class="text-main">Checkout the Beautiful Places Arround the Guhagar.</span>
-                                    </div>
-                                    <div class="flex-three btn-wrap-about mb-30 fadeInUp wow">
-                                        <a href="about-us.php" class="btn-main">
-                                            <p class="btn-main-text">Know More</p>
-                                            <p class="iconer">
-                                                <i class="icon-arrow-right"></i>
-                                            </p>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </section>
-                <!-- Widget Aboutus -->
-                <!-- Widget Tourpackage -->
-                <section class="tour-package pd-main">
+                    </section>
+                    <section class="tour-package pd-main">
                     <div class="container-fluid">
                         <div class="row">
                             <div class="col-lg-12">
                                 <div class="center m0-auto w-text-heading">
-                                    <span class="sub-title-heading text-main mb-15 fadeInUp wow">We Offers</span>
-                                    <h2 class="title-heading mb-40 fadeInUp wow">Amazing Room Services</h2>
+                                    <span class="sub-title-heading text-main mb-15 fadeInUp wow" style="visibility: visible; animation-name: fadeInUp;">We Offers</span>
+                                    <h2 class="title-heading mb-4 fadeInUp wow" style="visibility: visible; animation-name: fadeInUp;">Amazing Room Services by <span class="text-gray font-yes">Sarsi Guest House</span></h2>
+                                    <p>Guhagar is well connected to the other parts of the state and is just about 40 Kms off the National Higway (NH 17)</p>
                                 </div>
-                                <div class="tab-tour-list">
-                                    <ul class="nav justify-content-center tab-list mb-37" id="myTab" role="tablist">
+                                <div class="tab-tour-list mt-5">
+                                    <ul class="nav justify-content-center tab-list" id="myTab" role="tablist">
                                         <li class="nav-item" role="presentation">
-                                            <button class="nav-link active" id="new-york-tab" data-bs-toggle="tab"
-                                                data-bs-target="#new-york-tab-pane" type="button" role="tab"
-                                                aria-controls="new-york-tab-pane" aria-selected="true">AC Rooms</button>
+                                            <button class="nav-link active" id="new-york-tab" data-bs-toggle="tab" data-bs-target="#new-york-tab-pane" type="button" role="tab" aria-controls="new-york-tab-pane" aria-selected="true">AC Rooms</button>
                                         </li>
                                         <li class="nav-item" role="presentation">
-                                            <button class="nav-link" id="london-tab" data-bs-toggle="tab"
-                                                data-bs-target="#london-tab-pane" type="button" role="tab"
-                                                aria-controls="london-tab-pane" aria-selected="false">Non AC Rooms</button>
+                                            <button class="nav-link" id="london-tab" data-bs-toggle="tab" data-bs-target="#london-tab-pane" type="button" role="tab" aria-controls="london-tab-pane" aria-selected="false">Non AC Rooms</button>
                                         </li>
                                     </ul>
                                     <div class="tab-content" id="myTabContent">
-                                        <div class="tab-pane fade show active" id="new-york-tab-pane" role="tabpanel"
-                                            aria-labelledby="new-york-tab" tabindex="0">
+                                        <div class="tab-pane fade show active" id="new-york-tab-pane" role="tabpanel" aria-labelledby="new-york-tab" tabindex="0">
                                             <div class="client_main_block">
                                                 <div class="container-fluid">
                                                 <div class="container-fluid">
@@ -286,8 +141,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="tab-pane fade" id="london-tab-pane" role="tabpanel"
-                                            aria-labelledby="profile-tab" tabindex="0">
+                                        <div class="tab-pane fade" id="london-tab-pane" role="tabpanel" aria-labelledby="profile-tab" tabindex="0">
                                             <div class="client_main_block">
                                                 <div class="container-fluid">
                                                 <div class="container-fluid">
@@ -387,21 +241,19 @@
 
                     </div>
                 </section>
-                <!-- Widget Tourpackage -->
-                <!-- Widget destination -->
                 <section class="widget-destination pd-main">
                     <div class="tf-container">
                         <div class="row">
                             <div class="col-lg-12">
                                 <div class="center m0-auto w-text-heading mb-40">
-                                    <span class="sub-title-heading text-main mb-15 fadeInUp wow">Explore the
+                                    <span class="sub-title-heading text-main mb-15 fadeInUp wow" style="visibility: visible; animation-name: fadeInUp;">Explore the
                                         Guhagar</span>
-                                    <h2 class="title-heading fadeInUp wow"><span class="font-yes">Sarsi Guest House</span> is surrounded by lots of sightseeings.</h2>
+                                    <h2 class="title-heading fadeInUp wow" style="visibility: visible; animation-name: fadeInUp;"><span class="font-yes">Sarsi Guest House</span> is surrounded by lots of sightseeings.</h2>
                                 </div>
                             </div>
                         </div>
                         <div class="grid-three-destination">
-                            <div class="tf-widget-destination wow fadeInUp animated " data-wow-delay="0.1s">
+                            <div class="tf-widget-destination wow fadeInUp   animated" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
                                 <a href="sightseeing.php" class="destination-imgae">
                                     <img src="./assets/images/destination/list.jpg" alt="">
                                 </a>
@@ -415,7 +267,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="tf-widget-destination wow fadeInUp animated " data-wow-delay="0.2s">
+                            <div class="tf-widget-destination wow fadeInUp   animated" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
                                 <a href="sightseeing.php" class="destination-imgae">
                                     <img src="./assets/images/destination/list1.jpg" alt="">
                                 </a>
@@ -429,7 +281,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="tf-widget-destination wow fadeInUp animated " data-wow-delay="0.3s">
+                            <div class="tf-widget-destination wow fadeInUp   animated" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
                                 <a href="sightseeing.php" class="destination-imgae">
                                     <img src="./assets/images/destination/list2.jpg" alt="">
                                 </a>
@@ -443,7 +295,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="tf-widget-destination wow fadeInUp animated " data-wow-delay="0.4s">
+                            <div class="tf-widget-destination wow fadeInUp   animated" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
                                 <a href="sightseeing.php" class="destination-imgae">
                                     <img src="./assets/images/destination/list3.jpg" alt="">
                                 </a>
@@ -455,9 +307,10 @@
                                             <i class="icon-Vector-32"></i>
                                         </a>
                                     </div>
+
                                 </div>
                             </div>
-                            <div class="tf-widget-destination wow fadeInUp animated " data-wow-delay="0.5s">
+                            <div class="tf-widget-destination wow fadeInUp   animated" data-wow-delay="0.5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">
                                 <a href="sightseeing.php" class="destination-imgae">
                                     <img src="./assets/images/destination/list4.jpg" alt="">
                                 </a>
@@ -471,7 +324,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="tf-widget-destination wow fadeInUp animated " data-wow-delay="0.6s">
+                            <div class="tf-widget-destination wow fadeInUp   animated" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
                                 <a href="sightseeing.php" class="destination-imgae">
                                     <img src="./assets/images/destination/list.jpg" alt="">
                                 </a>
@@ -488,130 +341,7 @@
                         </div>
                     </div>
                 </section>
-                <!-- Widget destination -->
-                <!-- Widget Banner Contact -->
-                <section class="widget-banner-contact relative">
-                    <div class="tf-container">
-                        <div class="row z-index3 relative">
-                            <div class="col-lg-7 content-banner-contact">
-                                <div class="mb-32">
-                                    <h2 class="title-heading text-white wow fadeInUp animated">Ready to travel with real
-                                        adventure & enjoy
-                                        natural</h2>
-                                </div>
-                                <div class="flex-three">
-                                    <div class="video-wrap wow fadeInUp animated">
-                                        <a href="https://www.youtube.com/watch?v=n9LgeoJE4EI"
-                                            class="widget-icon-video flex-five widget-videos">
-                                            <i class="icon-Polygon-4"></i>
-                                        </a>
-                                    </div>
-                                    <address class="wow fadeInUp animated"><a href="mailto:sarasighvarveli@gmail.com">sarasighvarveli@gmail.com</a><br>
-                                    </address>
-                                </div>
-                                <img src="./assets/images/page/vector2.png" alt="image" class="mask-icon-banner">
-                            </div>
-                            <div class="col-lg-5">
-                                <div class="image-banner-contact">
-                                    <img src="./assets/images/page/ewewe1.png" alt="">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </section>
-                <!-- Widget Banner Contact -->
-                <!-- Widget Testimonial -->
-                <section class="widget-testimonial-style01 pd-main">
-                    <div class="tf-container">
-                        <div class="row mt-50">
-                            <div class="col-md-5 relative">
-                                <div class="image-box-tesimonial box-testimonial1 wow fadeInLeft animated "
-                                    data-wow-delay="0.1s">
-                                    <img src="./assets/images/page/testimonial1.jpg" alt="">
-                                </div>
-                                <div class="image-box-tesimonial box-testimonial2 wow fadeInUp animated "
-                                    data-wow-delay="0.3s">
-                                    <img src="./assets/images/page/testimonial2.jpg" alt="">
-                                </div>
-                            </div>
-                            <div class="col-md-7">
-                                <div class="widget-testimonial overflow-hidden ">
-                                    <div class="swiper mySwiper2">
-                                        <div class="swiper-wrapper">
-                                            <div class="swiper-slide">
-                                                <div class="testimonial-content relative">
-                                                    <div class="profile mb-15">
-                                                        <h3 class="name">Piter Bowman</h3>
-                                                        <span class="job">Business CEO</span>
-                                                    </div>
-                                                    <p class="tes">Leverage agile frameworks to provide a robust
-                                                        synopsis for high level overviews. Iterative in
-                                                        approaches to corporate strategy data foster go
-                                                        to collaborative thinking.
-                                                    </p>
-                                                    <span class="line"></span>
-                                                    <div class="icon-tes flex-five">
-                                                        <i class="icon-Group-1000002944"></i>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="swiper-slide">
-                                                <div class="testimonial-content relative">
-                                                    <div class="profile mb-15">
-                                                        <h3 class="name">Piter Bowman</h3>
-                                                        <span class="job">Business CEO</span>
-                                                    </div>
-                                                    <p class="tes">Leverage agile frameworks to provide a robust
-                                                        synopsis for high level overviews. Iterative in
-                                                        approaches to corporate strategy data foster go
-                                                        to collaborative thinking.
-                                                    </p>
-                                                    <span class="line"></span>
-                                                    <div class="icon-tes flex-five">
-                                                        <i class="icon-Group-1000002944"></i>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="swiper-slide">
-                                                <div class="testimonial-content relative">
-                                                    <div class="profile mb-15">
-                                                        <h3 class="name">Piter Bowman</h3>
-                                                        <span class="job">Business CEO</span>
-                                                    </div>
-                                                    <p class="tes">Leverage agile frameworks to provide a robust
-                                                        synopsis for high level overviews. Iterative in
-                                                        approaches to corporate strategy data foster go
-                                                        to collaborative thinking.
-                                                    </p>
-                                                    <span class="line"></span>
-                                                    <div class="icon-tes flex-five">
-                                                        <i class="icon-Group-1000002944"></i>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                    <div class="swiper testimonial-image">
-                                        <div class="swiper-wrapper">
-                                            <div class="swiper-slide avata">
-                                                <img src="./assets/images/avata/9.jpg" alt="Image Testimonial">
-                                            </div>
-                                            <div class="swiper-slide avata">
-                                                <img src="./assets/images/avata/7.jpg" alt="Image Testimonial">
-                                            </div>
-                                            <div class="swiper-slide avata">
-                                                <img src="./assets/images/avata/8.jpg" alt="Image Testimonial">
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </section>
-                <!-- Widget Testimonial -->
-            </main>
+                </main>
         <?php include 'footer.php' ?>
         </div>
     </div>

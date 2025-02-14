@@ -427,6 +427,11 @@
   color: #4DA528;
 }
 
+.main-header .main-menu .navigation > li > ul > li.active > a {
+  opacity: 1;
+  color: #4DA528;
+}
+
 .main-header .main-menu .navigation > li > ul {
   position: absolute;
   width: 243px;
@@ -8478,6 +8483,7 @@
 .common-items {
   background-size: cover;
   background-repeat: no-repeat;
+  border-radius: 6px;
 }
 
 .item-1 {

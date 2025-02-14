@@ -12,10 +12,8 @@
         </svg>
     </div>
     <?php $page = 'contact-us'; include "navigations.php" ?>
-
     <div id="wrapper">
         <div id="pagee" class="clearfix">
-        <?php include 'navigations.php' ?>
             <main id="main">
                 <section class="breadcumb-section">
                     <div class="tf-container">
@@ -29,10 +27,8 @@
                                 
                             </div>
                         </div>
-
                     </div>
                 </section>
-
                 <section class="contact-us pd-main">
                     <div class="tf-container">
                         <div class="row mb-60">
@@ -98,9 +94,7 @@
                                     <span>Email</span>
                                     <p class="des"><a href="mailto:sarasighvarveli@gmail.com">sarasighvarveli@gmail.com</a></p>
                                 </div>
-
                             </div>
-
                         </div>
                         <div class="row" id="contact-form">
                             <div class="col-md-6">
@@ -108,11 +102,9 @@
                                     <div class="map relative">
                                         <div id="contact-map">
                                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4682.759744274636!2d73.21866277591168!3d17.475434400261197!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be9f11d3651d56b%3A0xe7e29db2f9d3d6e8!2sSARASI%20GUEST%20HOUSE!5e1!3m2!1sen!2sin!4v1738435586156!5m2!1sen!2sin" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                        </div>
                                     </div>
-                                    </div>
-
                                 </div>
-
                             </div>
                             <div class="col-md-6">
                                 <div class="contact-us-wrap bg-4">
@@ -138,14 +130,12 @@
                                         <button type="submit" class="btn-submit-contact"><i class="icon-Group-121"></i>
                                             Submit</button>
                                     </form>
-
                                 </div>
-
                             </div>
                         </div>
                     </div>
                 </section>
-            </main>
+                </main>
             <?php include 'footer.php' ?>
         </div>
     </div>
