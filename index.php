@@ -174,12 +174,13 @@
                     <div class="container-fluid">
                         <div class="row">
                             <div class="col-lg-12">
-                                <div class="center m0-auto w-text-heading">
-                                    <span class="sub-title-heading text-main mb-15 fadeInUp wow">We Offers</span>
-                                    <h2 class="title-heading mb-40 fadeInUp wow">Amazing Room Services</h2>
+                            <div class="center m0-auto w-text-heading">
+                                    <span class="sub-title-heading text-main mb-15 fadeInUp wow" style="visibility: visible; animation-name: fadeInUp;">We Offers</span>
+                                    <h2 class="title-heading mb-4 fadeInUp wow" style="visibility: visible; animation-name: fadeInUp;">Amazing Room Services by <span class="text-gray font-yes">Sarsi Guest House</span></h2>
+                                    <p>Guhagar is well connected to the other parts of the state and is just about 40 Kms off the National Higway (NH 17)</p>
                                 </div>
                                 <div class="tab-tour-list">
-                                    <ul class="nav justify-content-center tab-list mb-37" id="myTab" role="tablist">
+                                    <ul class="nav justify-content-center tab-list mt-5" id="myTab" role="tablist">
                                         <li class="nav-item" role="presentation">
                                             <button class="nav-link active" id="new-york-tab" data-bs-toggle="tab"
                                                 data-bs-target="#new-york-tab-pane" type="button" role="tab"
@@ -220,60 +221,60 @@
                                                                     <div class="cs-portfolio_subtitle">View Large</div>
                                                                     </div>
                                                                 </a>
-                                                                <a href="./assets/images/gallery/ac-rooms/img1.webp" class="content-grid cs-portfolio cs-style1 cs-lightbox_item cs-size1 cs-type2 cs-isotop_item left-50">
+                                                                <a href="./assets/images/gallery/ac-rooms/img3.webp" class="content-grid cs-portfolio cs-style1 cs-lightbox_item cs-size1 cs-type2 cs-isotop_item left-50">
                                                                     <div class="cs-portfolio_hover"></div>
                                                                     <span class="cs-plus"></span>
-                                                                    <div class="cs-portfolio_bg cs-bg" data-src="./assets/images/gallery/ac-rooms/img1.webp" style="background-image: url(&quot;./assets/images/gallery/ac-rooms/img1.webp&quot;);"></div>
+                                                                    <div class="cs-portfolio_bg cs-bg" data-src="./assets/images/gallery/ac-rooms/img3.webp" style="background-image: url(&quot;./assets/images/gallery/ac-rooms/img3.webp&quot;);"></div>
                                                                     <div class="cs-portfolio_info">
                                                                     <div class="cs-portfolio_info_bg cs-accent_bg"></div>
                                                                         <h2 class="cs-portfolio_title">AC Rooms</h2>
                                                                     <div class="cs-portfolio_subtitle">View Large</div>
                                                                     </div>
                                                                 </a>
-                                                                <a href="./assets/images/gallery/ac-rooms/img2.webp" class="content-grid cs-portfolio cs-style1 cs-lightbox_item cs-size2 cs-type2 cs-isotop_item left-75">
+                                                                <a href="./assets/images/gallery/ac-rooms/img4.webp" class="content-grid cs-portfolio cs-style1 cs-lightbox_item cs-size2 cs-type2 cs-isotop_item left-75">
                                                                     <div class="cs-portfolio_hover"></div>
                                                                     <span class="cs-plus"></span>
-                                                                    <div class="cs-portfolio_bg cs-bg" data-src="./assets/images/gallery/ac-rooms/img2.webp" style="background-image: url(&quot;./assets/images/gallery/ac-rooms/img2.webp&quot;);"></div>
+                                                                    <div class="cs-portfolio_bg cs-bg" data-src="./assets/images/gallery/ac-rooms/img4.webp" style="background-image: url(&quot;./assets/images/gallery/ac-rooms/img4.webp&quot;);"></div>
                                                                     <div class="cs-portfolio_info">
                                                                     <div class="cs-portfolio_info_bg cs-accent_bg"></div>
                                                                         <h2 class="cs-portfolio_title">AC Rooms</h2>
                                                                     <div class="cs-portfolio_subtitle">View Large</div>
                                                                     </div>
                                                                 </a>
-                                                                <a href="./assets/images/gallery/ac-rooms/img2.webp" class="content-grid cs-portfolio cs-style1 cs-lightbox_item cs-size2 cs-type2 cs-isotop_item top-1">
+                                                                <a href="./assets/images/gallery/ac-rooms/img5.webp" class="content-grid cs-portfolio cs-style1 cs-lightbox_item cs-size2 cs-type2 cs-isotop_item top-1">
                                                                     <div class="cs-portfolio_hover"></div>
                                                                     <span class="cs-plus"></span>
-                                                                    <div class="cs-portfolio_bg cs-bg" data-src="./assets/images/gallery/ac-rooms/img2.webp" style="background-image: url(&quot;./assets/images/gallery/ac-rooms/img2.webp&quot;);"></div>
+                                                                    <div class="cs-portfolio_bg cs-bg" data-src="./assets/images/gallery/ac-rooms/img5.webp" style="background-image: url(&quot;./assets/images/gallery/ac-rooms/img5.webp&quot;);"></div>
                                                                     <div class="cs-portfolio_info">
                                                                     <div class="cs-portfolio_info_bg cs-accent_bg"></div>
                                                                         <h2 class="cs-portfolio_title">AC Rooms</h2>
                                                                     <div class="cs-portfolio_subtitle">View Large</div>
                                                                     </div>
                                                                 </a>
-                                                                <a href="./assets/images/gallery/ac-rooms/img2.webp" class="content-grid cs-portfolio cs-style1 cs-lightbox_item cs-size2 cs-type2 cs-isotop_item top-2">
+                                                                <a href="./assets/images/gallery/ac-rooms/img6.webp" class="content-grid cs-portfolio cs-style1 cs-lightbox_item cs-size2 cs-type2 cs-isotop_item top-2">
                                                                     <div class="cs-portfolio_hover"></div>
                                                                     <span class="cs-plus"></span>
-                                                                    <div class="cs-portfolio_bg cs-bg" data-src="./assets/images/gallery/ac-rooms/img2.webp" style="background-image: url(&quot;./assets/images/gallery/ac-rooms/img2.webp&quot;);"></div>
+                                                                    <div class="cs-portfolio_bg cs-bg" data-src="./assets/images/gallery/ac-rooms/img6.webp" style="background-image: url(&quot;./assets/images/gallery/ac-rooms/img6.webp&quot;);"></div>
                                                                     <div class="cs-portfolio_info">
                                                                     <div class="cs-portfolio_info_bg cs-accent_bg"></div>
                                                                         <h2 class="cs-portfolio_title">AC Rooms</h2>
                                                                     <div class="cs-portfolio_subtitle">View Large</div>
                                                                     </div>
                                                                 </a>
-                                                                <a href="./assets/images/gallery/ac-rooms/img1.webp" class="content-grid cs-portfolio cs-style1 cs-lightbox_item cs-size1 cs-type2 cs-isotop_item top-3">
+                                                                <a href="./assets/images/gallery/ac-rooms/img7.webp" class="content-grid cs-portfolio cs-style1 cs-lightbox_item cs-size1 cs-type2 cs-isotop_item top-3">
                                                                     <div class="cs-portfolio_hover"></div>
                                                                     <span class="cs-plus"></span>
-                                                                    <div class="cs-portfolio_bg cs-bg" data-src="./assets/images/gallery/ac-rooms/img1.webp" style="background-image: url(&quot;./assets/images/gallery/ac-rooms/img1.webp&quot;);"></div>
+                                                                    <div class="cs-portfolio_bg cs-bg" data-src="./assets/images/gallery/ac-rooms/img7.webp" style="background-image: url(&quot;./assets/images/gallery/ac-rooms/img7.webp&quot;);"></div>
                                                                     <div class="cs-portfolio_info">
                                                                     <div class="cs-portfolio_info_bg cs-accent_bg"></div>
                                                                         <h2 class="cs-portfolio_title">AC Rooms</h2>
                                                                     <div class="cs-portfolio_subtitle">View Large</div>
                                                                     </div>
                                                                 </a>
-                                                                <a href="./assets/images/gallery/ac-rooms/img1.webp" class="content-grid cs-portfolio cs-style1 cs-lightbox_item cs-size1 cs-type2 cs-isotop_item top-4">
+                                                                <a href="./assets/images/gallery/ac-rooms/img8.webp" class="content-grid cs-portfolio cs-style1 cs-lightbox_item cs-size1 cs-type2 cs-isotop_item top-4">
                                                                     <div class="cs-portfolio_hover"></div>
                                                                     <span class="cs-plus"></span>
-                                                                    <div class="cs-portfolio_bg cs-bg" data-src="./assets/images/gallery/ac-rooms/img1.webp" style="background-image: url(&quot;./assets/images/gallery/ac-rooms/img1.webp&quot;);"></div>
+                                                                    <div class="cs-portfolio_bg cs-bg" data-src="./assets/images/gallery/ac-rooms/img8.webp" style="background-image: url(&quot;./assets/images/gallery/ac-rooms/img8.webp&quot;);"></div>
                                                                     <div class="cs-portfolio_info">
                                                                     <div class="cs-portfolio_info_bg cs-accent_bg"></div>
                                                                         <h2 class="cs-portfolio_title">AC Rooms</h2>
@@ -294,80 +295,80 @@
                                                     <div class="cs-isotop cs-style1 cs-isotop_col_4 cs-has_gutter_24 cs-lightgallery" style="position: relative; height: 990px;">
                                                         <div class="cs-grid_sizer"></div>
                                                             <div class="static-thumbnails-lightgallery">
-                                                                <a data-src="./assets/images/gallery/ac-rooms/img1.webp" class="content-grid cs-portfolio cs-style1 cs-lightbox_item cs-size1 cs-type2 cs-isotop_item left-0">
+                                                                <a data-src="./assets/images/gallery/non-ac-rooms/img1.webp" class="content-grid cs-portfolio cs-style1 cs-lightbox_item cs-size1 cs-type2 cs-isotop_item left-0">
                                                                     <div class="cs-portfolio_hover"></div>
                                                                     <span class="cs-plus"></span>
-                                                                    <div class="cs-portfolio_bg cs-bg" data-src="./assets/images/gallery/ac-rooms/img1.webp" style="background-image: url(&quot;./assets/images/gallery/ac-rooms/img1.webp&quot;);"></div>
+                                                                    <div class="cs-portfolio_bg cs-bg" data-src="./assets/images/gallery/non-ac-rooms/img1.webp" style="background-image: url(&quot;./assets/images/gallery/non-ac-rooms/img1.webp&quot;);"></div>
                                                                     <div class="cs-portfolio_info">
                                                                     <div class="cs-portfolio_info_bg cs-accent_bg"></div>
                                                                     <h2 class="cs-portfolio_title">AC Rooms</h2>
                                                                     <div class="cs-portfolio_subtitle">View Large</div>
                                                                     </div>
                                                                 </a>
-                                                                <a href="./assets/images/gallery/ac-rooms/img2.webp" class="content-grid cs-isotop_item cs-portfolio cs-style1 cs-lightbox_item cs-size2 cs-type2 left-25">
+                                                                <a href="./assets/images/gallery/non-ac-rooms/img2.webp" class="content-grid cs-isotop_item cs-portfolio cs-style1 cs-lightbox_item cs-size2 cs-type2 left-25">
                                                                     <div class="cs-portfolio_hover"></div>
                                                                     <span class="cs-plus"></span>
-                                                                    <div class="cs-portfolio_bg cs-bg" data-src="./assets/images/gallery/ac-rooms/img2.webp" style="background-image: url(&quot;./assets/images/gallery/ac-rooms/img2.webp&quot;);"></div>
+                                                                    <div class="cs-portfolio_bg cs-bg" data-src="./assets/images/gallery/non-ac-rooms/img2.webp" style="background-image: url(&quot;./assets/images/gallery/non-ac-rooms/img2.webp&quot;);"></div>
                                                                     <div class="cs-portfolio_info">
                                                                     <div class="cs-portfolio_info_bg cs-accent_bg"></div>
                                                                     <h2 class="cs-portfolio_title">AC Rooms</h2>
                                                                     <div class="cs-portfolio_subtitle">View Large</div>
                                                                     </div>
                                                                 </a>
-                                                                <a href="./assets/images/gallery/ac-rooms/img1.webp" class="content-grid cs-portfolio cs-style1 cs-lightbox_item cs-size1 cs-type2 cs-isotop_item left-50">
+                                                                <a href="./assets/images/gallery/non-ac-rooms/img3.webp" class="content-grid cs-portfolio cs-style1 cs-lightbox_item cs-size1 cs-type2 cs-isotop_item left-50">
                                                                     <div class="cs-portfolio_hover"></div>
                                                                     <span class="cs-plus"></span>
-                                                                    <div class="cs-portfolio_bg cs-bg" data-src="./assets/images/gallery/ac-rooms/img1.webp" style="background-image: url(&quot;./assets/images/gallery/ac-rooms/img1.webp&quot;);"></div>
+                                                                    <div class="cs-portfolio_bg cs-bg" data-src="./assets/images/gallery/non-ac-rooms/img3.webp" style="background-image: url(&quot;./assets/images/gallery/non-ac-rooms/img3.webp&quot;);"></div>
                                                                     <div class="cs-portfolio_info">
                                                                     <div class="cs-portfolio_info_bg cs-accent_bg"></div>
                                                                         <h2 class="cs-portfolio_title">AC Rooms</h2>
                                                                     <div class="cs-portfolio_subtitle">View Large</div>
                                                                     </div>
                                                                 </a>
-                                                                <a href="./assets/images/gallery/ac-rooms/img2.webp" class="content-grid cs-portfolio cs-style1 cs-lightbox_item cs-size2 cs-type2 cs-isotop_item left-75">
+                                                                <a href="./assets/images/gallery/non-ac-rooms/img4.webp" class="content-grid cs-portfolio cs-style1 cs-lightbox_item cs-size2 cs-type2 cs-isotop_item left-75">
                                                                     <div class="cs-portfolio_hover"></div>
                                                                     <span class="cs-plus"></span>
-                                                                    <div class="cs-portfolio_bg cs-bg" data-src="./assets/images/gallery/ac-rooms/img2.webp" style="background-image: url(&quot;./assets/images/gallery/ac-rooms/img2.webp&quot;);"></div>
+                                                                    <div class="cs-portfolio_bg cs-bg" data-src="./assets/images/gallery/non-ac-rooms/img4.webp" style="background-image: url(&quot;./assets/images/gallery/non-ac-rooms/img4.webp&quot;);"></div>
                                                                     <div class="cs-portfolio_info">
                                                                     <div class="cs-portfolio_info_bg cs-accent_bg"></div>
                                                                         <h2 class="cs-portfolio_title">AC Rooms</h2>
                                                                     <div class="cs-portfolio_subtitle">View Large</div>
                                                                     </div>
                                                                 </a>
-                                                                <a href="./assets/images/gallery/ac-rooms/img2.webp" class="content-grid cs-portfolio cs-style1 cs-lightbox_item cs-size2 cs-type2 cs-isotop_item top-1">
+                                                                <a href="./assets/images/gallery/non-ac-rooms/img5.webp" class="content-grid cs-portfolio cs-style1 cs-lightbox_item cs-size2 cs-type2 cs-isotop_item top-1">
                                                                     <div class="cs-portfolio_hover"></div>
                                                                     <span class="cs-plus"></span>
-                                                                    <div class="cs-portfolio_bg cs-bg" data-src="./assets/images/gallery/ac-rooms/img2.webp" style="background-image: url(&quot;./assets/images/gallery/ac-rooms/img2.webp&quot;);"></div>
+                                                                    <div class="cs-portfolio_bg cs-bg" data-src="./assets/images/gallery/non-ac-rooms/img5.webp" style="background-image: url(&quot;./assets/images/gallery/non-ac-rooms/img5.webp&quot;);"></div>
                                                                     <div class="cs-portfolio_info">
                                                                     <div class="cs-portfolio_info_bg cs-accent_bg"></div>
                                                                         <h2 class="cs-portfolio_title">AC Rooms</h2>
                                                                     <div class="cs-portfolio_subtitle">View Large</div>
                                                                     </div>
                                                                 </a>
-                                                                <a href="./assets/images/gallery/ac-rooms/img2.webp" class="content-grid cs-portfolio cs-style1 cs-lightbox_item cs-size2 cs-type2 cs-isotop_item top-2">
+                                                                <a href="./assets/images/gallery/non-ac-rooms/img6.webp" class="content-grid cs-portfolio cs-style1 cs-lightbox_item cs-size2 cs-type2 cs-isotop_item top-2">
                                                                     <div class="cs-portfolio_hover"></div>
                                                                     <span class="cs-plus"></span>
-                                                                    <div class="cs-portfolio_bg cs-bg" data-src="./assets/images/gallery/ac-rooms/img2.webp" style="background-image: url(&quot;./assets/images/gallery/ac-rooms/img2.webp&quot;);"></div>
+                                                                    <div class="cs-portfolio_bg cs-bg" data-src="./assets/images/gallery/non-ac-rooms/img6.webp" style="background-image: url(&quot;./assets/images/gallery/non-ac-rooms/img6.webp&quot;);"></div>
                                                                     <div class="cs-portfolio_info">
                                                                     <div class="cs-portfolio_info_bg cs-accent_bg"></div>
                                                                         <h2 class="cs-portfolio_title">AC Rooms</h2>
                                                                     <div class="cs-portfolio_subtitle">View Large</div>
                                                                     </div>
                                                                 </a>
-                                                                <a href="./assets/images/gallery/ac-rooms/img1.webp" class="content-grid cs-portfolio cs-style1 cs-lightbox_item cs-size1 cs-type2 cs-isotop_item top-3">
+                                                                <a href="./assets/images/gallery/non-ac-rooms/img7.webp" class="content-grid cs-portfolio cs-style1 cs-lightbox_item cs-size1 cs-type2 cs-isotop_item top-3">
                                                                     <div class="cs-portfolio_hover"></div>
                                                                     <span class="cs-plus"></span>
-                                                                    <div class="cs-portfolio_bg cs-bg" data-src="./assets/images/gallery/ac-rooms/img1.webp" style="background-image: url(&quot;./assets/images/gallery/ac-rooms/img1.webp&quot;);"></div>
+                                                                    <div class="cs-portfolio_bg cs-bg" data-src="./assets/images/gallery/non-ac-rooms/img7.webp" style="background-image: url(&quot;./assets/images/gallery/non-ac-rooms/img7.webp&quot;);"></div>
                                                                     <div class="cs-portfolio_info">
                                                                     <div class="cs-portfolio_info_bg cs-accent_bg"></div>
                                                                         <h2 class="cs-portfolio_title">AC Rooms</h2>
                                                                     <div class="cs-portfolio_subtitle">View Large</div>
                                                                     </div>
                                                                 </a>
-                                                                <a href="./assets/images/gallery/ac-rooms/img1.webp" class="content-grid cs-portfolio cs-style1 cs-lightbox_item cs-size1 cs-type2 cs-isotop_item top-4">
+                                                                <a href="./assets/images/gallery/non-ac-rooms/img8.webp" class="content-grid cs-portfolio cs-style1 cs-lightbox_item cs-size1 cs-type2 cs-isotop_item top-4">
                                                                     <div class="cs-portfolio_hover"></div>
                                                                     <span class="cs-plus"></span>
-                                                                    <div class="cs-portfolio_bg cs-bg" data-src="./assets/images/gallery/ac-rooms/img1.webp" style="background-image: url(&quot;./assets/images/gallery/ac-rooms/img1.webp&quot;);"></div>
+                                                                    <div class="cs-portfolio_bg cs-bg" data-src="./assets/images/gallery/non-ac-rooms/img8.webp" style="background-image: url(&quot;./assets/images/gallery/non-ac-rooms/img8.webp&quot;);"></div>
                                                                     <div class="cs-portfolio_info">
                                                                     <div class="cs-portfolio_info_bg cs-accent_bg"></div>
                                                                         <h2 class="cs-portfolio_title">AC Rooms</h2>
@@ -403,7 +404,7 @@
                         <div class="grid-three-destination">
                             <div class="tf-widget-destination wow fadeInUp animated " data-wow-delay="0.1s">
                                 <a href="sightseeing.php" class="destination-imgae">
-                                    <img src="./assets/images/destination/list.jpg" alt="">
+                                    <img src="./assets/images/destination/beaches/beaches-main-thumb.webp" alt="">
                                 </a>
                                 <div class="destination-content">
                                     <span class="nation">Beautiful Beaches</span>
@@ -417,7 +418,7 @@
                             </div>
                             <div class="tf-widget-destination wow fadeInUp animated " data-wow-delay="0.2s">
                                 <a href="sightseeing.php" class="destination-imgae">
-                                    <img src="./assets/images/destination/list1.jpg" alt="">
+                                    <img src="./assets/images/destination/temples/temples-main-thumb.webp" alt="">
                                 </a>
                                 <div class="destination-content">
                                     <span class="nation">Temples</span>
@@ -431,7 +432,7 @@
                             </div>
                             <div class="tf-widget-destination wow fadeInUp animated " data-wow-delay="0.3s">
                                 <a href="sightseeing.php" class="destination-imgae">
-                                    <img src="./assets/images/destination/list2.jpg" alt="">
+                                    <img src="./assets/images/destination/bauman-ghal/bauman-ghal-main-thumb.webp" alt="">
                                 </a>
                                 <div class="destination-content">
                                     <span class="nation">Bauman Ghal</span>
@@ -476,7 +477,7 @@
                                     <img src="./assets/images/destination/list.jpg" alt="">
                                 </a>
                                 <div class="destination-content">
-                                    <span class="nation">Water Sports</span>
+                                    <span class="nation">Lake Boating</span>
                                     <div class="flex-two btn-destination">
                                         <h6 class="title"><a href="sightseeing.php">Know More</a></h6>
                                         <a href="sightseeing.php" class="flex-five btn-view">
@@ -501,7 +502,7 @@
                                 </div>
                                 <div class="flex-three">
                                     <div class="video-wrap wow fadeInUp animated">
-                                        <a href="https://www.youtube.com/watch?v=n9LgeoJE4EI"
+                                        <a href="https://www.youtube.com/watch?v=1LDgLfovNiE"
                                             class="widget-icon-video flex-five widget-videos">
                                             <i class="icon-Polygon-4"></i>
                                         </a>
@@ -509,7 +510,6 @@
                                     <address class="wow fadeInUp animated"><a href="mailto:sarasighvarveli@gmail.com">sarasighvarveli@gmail.com</a><br>
                                     </address>
                                 </div>
-                                <img src="./assets/images/page/vector2.png" alt="image" class="mask-icon-banner">
                             </div>
                             <div class="col-lg-5">
                                 <div class="image-banner-contact">
@@ -527,11 +527,11 @@
                             <div class="col-md-5 relative">
                                 <div class="image-box-tesimonial box-testimonial1 wow fadeInLeft animated "
                                     data-wow-delay="0.1s">
-                                    <img src="./assets/images/page/testimonial1.jpg" alt="">
+                                    <img src="./assets/images/page/testimonial1.webp" alt="">
                                 </div>
                                 <div class="image-box-tesimonial box-testimonial2 wow fadeInUp animated "
                                     data-wow-delay="0.3s">
-                                    <img src="./assets/images/page/testimonial2.jpg" alt="">
+                                    <img src="./assets/images/page/testimonial2.webp" alt="">
                                 </div>
                             </div>
                             <div class="col-md-7">
@@ -595,13 +595,13 @@
                                     <div class="swiper testimonial-image">
                                         <div class="swiper-wrapper">
                                             <div class="swiper-slide avata">
-                                                <img src="./assets/images/avata/9.jpg" alt="Image Testimonial">
+                                                <img src="./assets/images/avata/img1.webp" alt="Image Testimonial">
                                             </div>
                                             <div class="swiper-slide avata">
-                                                <img src="./assets/images/avata/7.jpg" alt="Image Testimonial">
+                                                <img src="./assets/images/avata/img2.webp" alt="Image Testimonial">
                                             </div>
                                             <div class="swiper-slide avata">
-                                                <img src="./assets/images/avata/8.jpg" alt="Image Testimonial">
+                                                <img src="./assets/images/avata/img1.webp" alt="Image Testimonial">
                                             </div>
                                         </div>
                                     </div>

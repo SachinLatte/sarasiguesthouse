@@ -37,11 +37,11 @@
                             <div class="col-md-6">
                                 <div class="image-about-h4-wrap relative">
                                     <div class="image-about-item relative about-wrap-left">
-                                        <img src="./assets/images/about-us/about-h41.jpg" alt="image">
+                                        <img src="./assets/images/about-us/about-h41.webp" alt="image">
                                         <img src="./assets/images/page/shape5.1.png" alt="image" class="shape-about-h4">
                                     </div>
                                     <div class="image-about-item relative about-wrap-right">
-                                        <img src="./assets/images/about-us/about-h4.jpg" alt="image">
+                                        <img src="./assets/images/about-us/about-h4.webp" alt="image">
                                         <img src="./assets/images/page/shape5.1.png" alt="image" class="shape-about-h4">
                                     </div>
                                     <div class="box-year center">
@@ -89,7 +89,7 @@
                         <div class="row al-i-end mb-40">
                             <div class="col-md-7">
                                 <div class="">
-                                    <h2 class="title-heading">Great opportunity for <br><span class="text-gray font-yes">Sightseeing</span> &amp; <span class="text-gray font-yes">Water Sports</span></h2>
+                                    <h2 class="title-heading">Great opportunity for <br><span class="text-gray font-yes">Sightseeing</span> &amp; <span class="text-gray font-yes">Lake Boating</span></h2>
                                 </div>
                             </div>
                         </div>
@@ -144,7 +144,7 @@
                                         <i class="icon-cabin-1"></i>
                                     </div>
                                     <div class="content">
-                                        <h4 class="title-icon"><a href="#">Water Sports</a></h4>
+                                        <h4 class="title-icon"><a href="#">Lake Boating</a></h4>
                                         <p class="des-icon">Pellentesque habitant morbi tristique senectus
                                             netus et
                                             malesuada fames ac</p>

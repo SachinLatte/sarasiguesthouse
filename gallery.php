@@ -32,11 +32,17 @@
             </section>
             <section class="gallery-page pd-main">
                 <div class="tf-container">
-                    <div class="row">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="center m0-auto w-text-heading mb-40">
+                            <span class="sub-title-heading text-main mb-15 fadeInUp wow" style="visibility: visible; animation-name: fadeInUp;">Explore the
+                                Guhagar</span>
+                            <h2 class="title-heading fadeInUp wow" style="visibility: visible; animation-name: fadeInUp;"><span class="font-yes">Sarsi Guest House</span> is surrounded by lots of sightseeings.</h2>
+                        </div>
+                    </div>
+                </div>
+                    <div class="row mt-3">
                         <div class="col-lg-12">
-                            <div class="center m0-auto w-text-heading">
-                                <h2 class="title-heading mb-40 fadeInUp wow" style="visibility: visible; animation-name: fadeInUp;">Gallery</h2>
-                            </div>
                             <div class="tab-tour-list">
                                 <ul class="nav justify-content-center tab-list mb-37" id="myTab" role="tablist">
                                     <li class="nav-item" role="presentation">
@@ -46,77 +52,77 @@
                                         <button class="nav-link" id="london-tab" data-bs-toggle="tab" data-bs-target="#london-tab-pane" type="button" role="tab" aria-controls="london-tab-pane" aria-selected="false">Video Gallery</button>
                                     </li>
                                 </ul>
-                                <div class="tab-content" id="myTabContent">
+                                <div class="tab-content mt-85" id="myTabContent">
                                     <div class="tab-pane fade show active" id="new-york-tab-pane" role="tabpanel" aria-labelledby="new-york-tab" tabindex="0">
                                     <div class="row">
                                         <div class="col-lg-12">
                                             <div class="grid-gallery static-thumbnails-lightgallery">
-                                                <div class="item-1 common-items" data-src="./assets/images/gallery/gallery7.jpg" style="background-image: url(&quot;./assets/images/gallery/gallery7.jpg&quot;);">
+                                                <div class="item-1 common-items" data-src="./assets/images/gallery/image-gallery/img1.webp" style="background-image: url(&quot;./assets/images/gallery/image-gallery/img1.webp&quot;);">
                                                     <div class="tf-gallery">
-                                                        <a href="./assets/images/gallery/gallery7.jpg" class="btn-gallery flex-five" data-fancybox="gallery">
+                                                        <a href="./assets/images/gallery/image-gallery/img1.webp" class="btn-gallery flex-five" data-fancybox="gallery">
                                                             <i class="icon-Group-14"></i>
                                                         </a>
                                                     </div>
                                                 </div>
-                                                <div class="item-2 common-items" data-src="./assets/images/gallery/gallery9.jpg" style="background-image: url(&quot;./assets/images/gallery/gallery9.jpg&quot;)";>
+                                                <div class="item-2 common-items" data-src="./assets/images/gallery/image-gallery/img2.webp" style="background-image: url(&quot;./assets/images/gallery/image-gallery/img2.webp&quot;)";>
                                                     <div class="tf-gallery">
-                                                        <a href="./assets/images/gallery/gallery9.jpg" data-fancybox="gallery" class="btn-gallery flex-five">
+                                                        <a href="./assets/images/gallery/image-gallery/img2.webp" data-fancybox="gallery" class="btn-gallery flex-five">
                                                             <i class="icon-Group-14"></i>
                                                         </a>
                                                     </div>
                                                 </div>
-                                                <div class="item-3 common-items" data-src="./assets/images/gallery/gallery11.jpg" style="background-image: url(&quot;./assets/images/gallery/gallery11.jpg&quot;)";>
+                                                <div class="item-3 common-items" data-src="./assets/images/gallery/image-gallery/img3.webp" style="background-image: url(&quot;./assets/images/gallery/image-gallery/img3.webp&quot;)";>
                                                     <div class="tf-gallery">
-                                                        <a href="./assets/images/gallery/gallery11.jpg" class="btn-gallery flex-five " data-fancybox="gallery">
+                                                        <a href="./assets/images/gallery/image-gallery/img3.webp" class="btn-gallery flex-five " data-fancybox="gallery">
                                                             <i class="icon-Group-14"></i>
                                                         </a>
                                                     </div>
                                                 </div>
-                                                <div class="item-4 common-items" data-src="./assets/images/gallery/gallery8.jpg" style="background-image: url(&quot;./assets/images/gallery/gallery8.jpg&quot;)";>
+                                                <div class="item-4 common-items" data-src="./assets/images/gallery/image-gallery/img4.webp" style="background-image: url(&quot;./assets/images/gallery/image-gallery/img4.webp&quot;)";>
                                                     <div class="tf-gallery">
-                                                        <a href="./assets/images/gallery/gallery8.jpg" class="btn-gallery flex-five" data-fancybox="gallery">
+                                                        <a href="./assets/images/gallery/image-gallery/img4.webp" class="btn-gallery flex-five" data-fancybox="gallery">
                                                             <i class="icon-Group-14"></i>
                                                         </a>
                                                     </div>
                                                 </div>
-                                                <div class="item-5 common-items" data-src="./assets/images/gallery/gallery10.jpg" style="background-image: url(&quot;./assets/images/gallery/gallery10.jpg&quot;)";>
+                                                <div class="item-5 common-items" data-src="./assets/images/gallery/image-gallery/img5.webp" style="background-image: url(&quot;./assets/images/gallery/image-gallery/img5.webp&quot;)";>
                                                     <div class="tf-gallery">
-                                                        <a href="./assets/images/gallery/gallery10.jpg" class="btn-gallery flex-five" data-fancybox="gallery">
+                                                        <a href="./assets/images/gallery/image-gallery/img5.webp" class="btn-gallery flex-five" data-fancybox="gallery">
                                                             <i class="icon-Group-14"></i>
                                                         </a>
                                                     </div>
                                                 </div>
-                                                <div class="item-6 common-items" data-src="./assets/images/gallery/gallery12.jpg" style="background-image: url(&quot;./assets/images/gallery/gallery12.jpg&quot;)";>
+                                                <div class="item-6 common-items" data-src="./assets/images/gallery/image-gallery/img6.webp" style="background-image: url(&quot;./assets/images/gallery/image-gallery/img6.webp&quot;)";>
                                                     <div class="tf-gallery">
-                                                        <a href="./assets/images/gallery/gallery12.jpg" class="btn-gallery flex-five" data-fancybox="gallery">
+                                                        <a href="./assets/images/gallery/image-gallery/img6.webp" class="btn-gallery flex-five" data-fancybox="gallery">
                                                             <i class="icon-Group-14"></i>
                                                         </a>
                                                     </div>
                                                 </div>
-                                                <div class="item-7 common-items" data-src="./assets/images/gallery/gallery7.jpg" style="background-image: url(&quot;./assets/images/gallery/gallery7.jpg&quot;)";>
+                                                <div class="item-7 common-items" data-src="./assets/images/gallery/image-gallery/img7.webp" style="background-image: url(&quot;./assets/images/gallery/image-gallery/img7.webp&quot;)";>
                                                     <div class="tf-gallery">
-                                                        <a href="./assets/images/gallery/gallery7.jpg" class="btn-gallery flex-five" data-fancybox="gallery">
+                                                        <a href="./assets/images/gallery/image-gallery/img7.webp" class="btn-gallery flex-five" data-fancybox="gallery">
                                                             <i class="icon-Group-14"></i>
                                                         </a>
                                                     </div>
                                                 </div>
-                                                <div class="item-8 common-items" data-src="./assets/images/gallery/gallery9.jpg" style="background-image: url(&quot;./assets/images/gallery/gallery9.jpg&quot;)";>
+                                                <div class="item-8 common-items" data-src="./assets/images/gallery/image-gallery/img8.webp" style="background-image: url(&quot;./assets/images/gallery/image-gallery/img8.webp&quot;)";>
                                                     <div class="tf-gallery">
-                                                        <a href="./assets/images/gallery/gallery9.jpg" data-fancybox="gallery" class="btn-gallery flex-five">
+                                                        <a href="./assets/images/gallery/image-gallery/img8.webp" data-fancybox="gallery" class="btn-gallery flex-five">
                                                             <i class="icon-Group-14"></i>
                                                         </a>
                                                     </div>
                                                 </div>
-                                                <div class="item-9 common-items" data-src="./assets/images/gallery/gallery11.jpg" style="background-image: url(&quot;./assets/images/gallery/gallery11.jpg&quot;)";>
+                                                <div class="item-9 common-items" data-src="./assets/images/gallery/image-gallery/img9.webp" style="background-image: url(&quot;./assets/images/gallery/image-gallery/img9.webp&quot;)";>
                                                     <div class="tf-gallery">
-                                                        <a href="./assets/images/gallery/gallery11.jpg" class="btn-gallery flex-five " data-fancybox="gallery">
+                                                        <a href="./assets/images/gallery/image-gallery/img9.webp" class="btn-gallery flex-five " data-fancybox="gallery">
                                                             <i class="icon-Group-14"></i>
                                                         </a>
                                                     </div>
                                                 </div>
-                                                <div class="item-10 common-items" data-src="./assets/images/gallery/gallery8.jpg" style="background-image: url(&quot;./assets/images/gallery/gallery8.jpg&quot;)";>
+                                                <div class="item-10 common-items" data-src="./assets/images/gallery/image-gallery/img10.webp" style="background-image: url(&quot;./assets/images/gallery/image-gallery/img10.webp&quot;)";>
                                                     <div class="tf-gallery">
-                                                        <a href="./assets/images/gallery/gallery8.jpg" class="btn-gallery flex-five" data-fancybox="gallery">
+                                                        <a href="./assets/images/gallery/image-gallery/img10.webp" class="btn-gallery flex-five" data-fancybox="gallery">
                                                             <i class="icon-Group-14"></i>
                                                         </a>
                                                     </div>
@@ -132,7 +138,7 @@
                                     <div class="grid-gallery" id="video-gallery">
                                                 <div class="item-1" data-src="https://www.youtube.com/watch?v=lXItSmPeYzQ">
                                                     <div class="tf-gallery">
-                                                    <img src="./assets/images/gallery/gallery7.jpg" alt="">
+                                                    <img src="./assets/images/gallery/video-gallery/img1.webp" alt="">
                                                         <a href="https://www.youtube.com/watch?v=lXItSmPeYzQ" class="btn-gallery flex-five" data-fancybox="gallery">
                                                         <i class="fa-solid fa-play"></i>
                                                         </a>
@@ -140,7 +146,7 @@
                                                 </div>
                                                 <div class="item-2 common-items" data-src="https://www.youtube.com/watch?v=lXItSmPeYzQ">
                                                     <div class="tf-gallery">
-                                                        <img src="./assets/images/gallery/gallery9.jpg" alt="">
+                                                        <img src="./assets/images/gallery/video-gallery/img2.webp" alt="">
                                                         <a href="https://www.youtube.com/watch?v=lXItSmPeYzQ" data-fancybox="gallery" class="btn-gallery flex-five">
                                                         <i class="fa-solid fa-play"></i>
                                                         </a>
@@ -148,7 +154,7 @@
                                                 </div>
                                                 <div class="item-3 common-items" data-src="https://www.youtube.com/watch?v=lXItSmPeYzQ" style="background-image: url(&quot;./assets/images/gallery/gallery11.jpg&quot;)";>
                                                     <div class="tf-gallery">
-                                                        <img src="./assets/images/gallery/gallery11.jpg" alt="">
+                                                        <img src="./assets/images/gallery/video-gallery/img3.webp" alt="">
                                                         <a href="https://www.youtube.com/watch?v=lXItSmPeYzQ" class="btn-gallery flex-five " data-fancybox="gallery">
                                                         <i class="fa-solid fa-play"></i>
                                                         </a>
@@ -156,7 +162,7 @@
                                                 </div>
                                                 <div class="item-4 common-items" data-src="https://www.youtube.com/watch?v=lXItSmPeYzQ">
                                                     <div class="tf-gallery">
-                                                        <img src="./assets/images/gallery/gallery8.jpg" alt="">
+                                                        <img src="./assets/images/gallery/video-gallery/img4.webp" alt="">
                                                         <a href="https://www.youtube.com/watch?v=lXItSmPeYzQ" class="btn-gallery flex-five" data-fancybox="gallery">
                                                         <i class="fa-solid fa-play"></i>
                                                         </a>
@@ -164,7 +170,7 @@
                                                 </div>
                                                 <div class="item-5 common-items" data-src="https://www.youtube.com/watch?v=lXItSmPeYzQ">
                                                     <div class="tf-gallery">
-                                                    <img src="./assets/images/gallery/gallery10.jpg" alt="">
+                                                    <img src="./assets/images/gallery/video-gallery/img5.webp" alt="">
                                                         <a href="https://www.youtube.com/watch?v=lXItSmPeYzQ" class="btn-gallery flex-five" data-fancybox="gallery">
                                                         <i class="fa-solid fa-play"></i>
                                                         </a>
@@ -172,7 +178,7 @@
                                                 </div>
                                                 <div class="item-6 common-items" data-src="https://www.youtube.com/watch?v=lXItSmPeYzQ">
                                                     <div class="tf-gallery">
-                                                    <img src="./assets/images/gallery/gallery12.jpg" alt="">
+                                                    <img src="./assets/images/gallery/video-gallery/img6.webp" alt="">
                                                         <a href="https://www.youtube.com/watch?v=lXItSmPeYzQ" class="btn-gallery flex-five" data-fancybox="gallery">
                                                         <i class="fa-solid fa-play"></i>
                                                         </a>
@@ -180,7 +186,7 @@
                                                 </div>
                                                 <div class="item-7 common-items" data-src="https://www.youtube.com/watch?v=lXItSmPeYzQ">
                                                     <div class="tf-gallery">
-                                                    <img src="./assets/images/gallery/gallery7.jpg" alt="">
+                                                    <img src="./assets/images/gallery/video-gallery/img7.webp" alt="">
                                                         <a href="https://www.youtube.com/watch?v=lXItSmPeYzQ" class="btn-gallery flex-five" data-fancybox="gallery">
                                                         <i class="fa-solid fa-play"></i>
                                                         </a>
@@ -188,7 +194,7 @@
                                                 </div>
                                                 <div class="item-8 common-items" data-src="https://www.youtube.com/watch?v=lXItSmPeYzQ">
                                                     <div class="tf-gallery">
-                                                        <img src="./assets/images/gallery/gallery9.jpg" alt="">
+                                                        <img src="./assets/images/gallery/video-gallery/img8.webp" alt="">
                                                         <a href="https://www.youtube.com/watch?v=lXItSmPeYzQ" data-fancybox="gallery" class="btn-gallery flex-five">
                                                         <i class="fa-solid fa-play"></i>
                                                         </a>
@@ -196,7 +202,7 @@
                                                 </div>
                                                 <div class="item-9 common-items" data-src="https://www.youtube.com/watch?v=lXItSmPeYzQ">
                                                     <div class="tf-gallery">
-                                                    <img src="./assets/images/gallery/gallery11.jpg" alt="">
+                                                    <img src="./assets/images/gallery/video-gallery/img9.webp" alt="">
                                                         <a href="https://www.youtube.com/watch?v=lXItSmPeYzQ" class="btn-gallery flex-five " data-fancybox="gallery">
                                                         <i class="fa-solid fa-play"></i>
                                                         </a>
@@ -204,7 +210,7 @@
                                                 </div>
                                                 <div class="item-10 common-items" data-src="https://www.youtube.com/watch?v=lXItSmPeYzQ">
                                                     <div class="tf-gallery">
-                                                    <img src="./assets/images/gallery/gallery8.jpg" alt="">
+                                                    <img src="./assets/images/gallery/video-gallery/img10.webp" alt="">
                                                         <a href="https://www.youtube.com/watch?v=lXItSmPeYzQ" class="btn-gallery flex-five" data-fancybox="gallery">
                                                         <i class="fa-solid fa-play"></i>
                                                         </a>

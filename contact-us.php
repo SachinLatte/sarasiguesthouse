@@ -31,7 +31,16 @@
                 </section>
                 <section class="contact-us pd-main">
                     <div class="tf-container">
-                        <div class="row mb-60">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="center m0-auto w-text-heading mb-40">
+                                <span class="sub-title-heading text-main mb-15 fadeInUp wow" style="visibility: visible; animation-name: fadeInUp;">Explore the
+                                    Guhagar</span>
+                                <h2 class="title-heading fadeInUp wow" style="visibility: visible; animation-name: fadeInUp;"><span class="font-yes">Sarsi Guest House</span> is surrounded by lots of sightseeings.</h2>
+                            </div>
+                        </div>
+                    </div>
+                        <div class="row mb-60 mt-5">
                             <div class="col-md-4">
                                 <div class="box-contact center">
                                     <div class="icon">

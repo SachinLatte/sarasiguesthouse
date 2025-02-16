@@ -54,26 +54,34 @@
 
                         </div>
                         <div class="footer-gallery">
-                            <h5 class="title">SightSeeing</h5>
-
+                            <h5 class="title">Gallery</h5>
                             <div class="gallery-img">
-                                <a href="sightseeing.php">
-                                    <img src="./assets/images/gallery/gl1.jpg" alt="image gallery">
+                                <a href="gallery.php">
+                                    <img src="./assets/images/gallery/footer-gallery/img1.webp" alt="image gallery">
                                 </a>
-                                <a href="sightseeing.php">
-                                    <img src="./assets/images/gallery/gl1.jpg" alt="image gallery">
+                                <a href="gallery.php">
+                                    <img src="./assets/images/gallery/footer-gallery/img2.webp" alt="image gallery">
                                 </a>
-                                <a href="sightseeing.php">
-                                    <img src="./assets/images/gallery/gl1.jpg" alt="image gallery">
+                                <a href="gallery.php">
+                                    <img src="./assets/images/gallery/footer-gallery/img3.webp" alt="image gallery">
                                 </a>
-                                <a href="sightseeing.php">
-                                    <img src="./assets/images/gallery/gl1.jpg" alt="image gallery">
+                                <a href="gallery.php">
+                                    <img src="./assets/images/gallery/footer-gallery/img4.webp" alt="image gallery">
                                 </a>
-                                <a href="sightseeing.php">
-                                    <img src="./assets/images/gallery/gl1.jpg" alt="image gallery">
+                                <a href="gallery.php">
+                                    <img src="./assets/images/gallery/footer-gallery/img5.webp" alt="image gallery">
                                 </a>
-                                <a href="sightseeing.php">
-                                    <img src="./assets/images/gallery/gl1.jpg" alt="image gallery">
+                                <a href="gallery.php">
+                                    <img src="./assets/images/gallery/footer-gallery/img6.webp" alt="image gallery">
+                                </a>
+                                <a href="gallery.php">
+                                    <img src="./assets/images/gallery/footer-gallery/img7.webp" alt="image gallery">
+                                </a>
+                                <a href="gallery.php">
+                                    <img src="./assets/images/gallery/footer-gallery/img8.webp" alt="image gallery">
+                                </a>
+                                <a href="gallery.php">
+                                    <img src="./assets/images/gallery/footer-gallery/img9.webp" alt="image gallery">
                                 </a>
                             </div>
 

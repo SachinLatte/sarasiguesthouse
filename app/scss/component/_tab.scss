@@ -8,12 +8,13 @@
         letter-spacing: 0.03em;
         color: $main;
         padding: 12px 22px;
-        background-color: $white;
+        background-color: #f3f3f3;
         border-radius: 2px;
         margin: 0 7px;
         position: relative;
         transition: all 0.3s ease;
         min-width: 134px;
+        border: 1px solid #4da528;
 
         &::before {
             position: absolute;

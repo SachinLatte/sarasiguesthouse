@@ -84,14 +84,13 @@
                                 </div>
                                 <div class="flex-three">
                                     <div class="video-wrap wow fadeInUp  animated" style="visibility: visible; animation-name: fadeInUp;">
-                                        <a href="https://www.youtube.com/watch?v=n9LgeoJE4EI" class="widget-icon-video flex-five widget-videos">
+                                        <a href="https://www.youtube.com/watch?v=1LDgLfovNiE" class="widget-icon-video flex-five widget-videos">
                                             <i class="icon-Polygon-4"></i>
                                         </a>
                                     </div>
                                     <address class="wow fadeInUp  animated" style="visibility: visible; animation-name: fadeInUp;"><a href="mailto:sarasighvarveli@gmail.com">sarasighvarveli@gmail.com</a><br>
                                     </address>
                                 </div>
-                                <img src="./assets/images/page/vector2.png" alt="image" class="mask-icon-banner">
                             </div>
                             <div class="col-lg-5">
                                 <div class="image-banner-contact">

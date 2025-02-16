@@ -42,10 +42,10 @@
                         <div class="row mt-135">
                             <div class="col-md-5 relative">
                                 <div class="image-box-tesimonial box-testimonial1 wow fadeInLeft animated  animated" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: dot-anim-2;">
-                                    <img src="./assets/images/page/testimonial1.jpg" alt="">
+                                    <img src="./assets/images/page/testimonial1.webp" alt="">
                                 </div>
                                 <div class="image-box-tesimonial box-testimonial2 wow fadeInUp   animated" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
-                                    <img src="./assets/images/page/testimonial2.jpg" alt="">
+                                    <img src="./assets/images/page/testimonial2.webp" alt="">
                                 </div>
                             </div>
                             <div class="col-md-7">
@@ -108,13 +108,13 @@
                                     <div class="swiper testimonial-image swiper-container-initialized swiper-container-horizontal swiper-container-pointer-events swiper-container-free-mode swiper-container-thumbs">
                                         <div class="swiper-wrapper" id="swiper-wrapper-c99e26a3bccf7a010" aria-live="polite" style="transform: translate3d(0px, 0px, 0px); transition-duration: 0ms;">
                                             <div class="swiper-slide avata swiper-slide-active swiper-slide-thumb-active" role="group" aria-label="1 / 3" style="width: 212.667px; margin-right: 22px;">
-                                                <img src="./assets/images/avata/9.jpg" alt="Image Testimonial">
+                                                <img src="./assets/images/avata/img1.webp" alt="Image Testimonial">
                                             </div>
                                             <div class="swiper-slide avata swiper-slide-next" role="group" aria-label="2 / 3" style="width: 212.667px; margin-right: 22px;">
-                                                <img src="./assets/images/avata/7.jpg" alt="Image Testimonial">
+                                                <img src="./assets/images/avata/img2.webp" alt="Image Testimonial">
                                             </div>
                                             <div class="swiper-slide avata" role="group" aria-label="3 / 3" style="width: 212.667px; margin-right: 22px;">
-                                                <img src="./assets/images/avata/8.jpg" alt="Image Testimonial">
+                                                <img src="./assets/images/avata/img1.webp" alt="Image Testimonial">
                                             </div>
                                         </div>
                                     <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
@@ -210,7 +210,7 @@
                                     <img src="./assets/images/destination/list.jpg" alt="">
                                 </a>
                                 <div class="destination-content">
-                                    <span class="nation">Water Sports</span>
+                                    <span class="nation">Lake Boating</span>
                                     <div class="flex-two btn-destination">
                                         <h6 class="title"><a href="sightseeing.php">Know More</a></h6>
                                         <a href="sightseeing.php" class="flex-five btn-view">

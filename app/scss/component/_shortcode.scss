@@ -2070,7 +2070,7 @@
 
         .tes {
             font-size: 18px;
-            font-weight: 600;
+            font-weight: 400;
             line-height: 40px;
             color: $main;
             text-transform: capitalize;
@@ -2120,12 +2120,12 @@
 
         .swiper-slide {
             border-radius: 100%;
-            border: 3px solid $white;
+            border: 2px solid $white;
             box-shadow: 0px 10px 15px 0px rgba(0, 0, 0, 0.06);
         }
 
         .swiper-slide-thumb-active {
-            border: 3px solid $primary;
+            border: 2px solid $primary;
         }
     }
 }
@@ -2461,6 +2461,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 6px;
+    background-position: center;
 }
 
 .item-1 {
@@ -2566,6 +2567,7 @@
     img {
         height: 100%;
         object-fit: cover;
+        transition: all 0.5s ease;
     }
 
     &:hover .btn-gallery {
@@ -2585,7 +2587,7 @@
     &::before {
         @include absolute;
         content: '';
-        background: linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 1));
+        background: linear-gradient(180deg, rgba(0, 0, 0, 0), rgb(0 0 0 / 9%));
     }
 
     .btn-gallery {

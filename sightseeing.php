@@ -31,7 +31,16 @@
                 </section>
                 <section class="tour-destination pd-main">
                     <div class="tf-container">
-                        <div class="row">
+                    <div class="row">
+                            <div class="col-lg-12">
+                                <div class="center m0-auto w-text-heading mb-40">
+                                    <span class="sub-title-heading text-main mb-15 fadeInUp wow" style="visibility: visible; animation-name: fadeInUp;">Explore the
+                                        Guhagar</span>
+                                    <h2 class="title-heading fadeInUp wow" style="visibility: visible; animation-name: fadeInUp;"><span class="font-yes">Sarsi Guest House</span> is surrounded by lots of sightseeings.</h2>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row mt-5">
                             <div class="col-md-5 mb-37 photo-lightgallery">
                             <a href="./assets/images/tour/1.jpg" class="destination-style relative">
                                 <img src="./assets/images/tour/1.jpg" alt="">
@@ -69,7 +78,7 @@
                                 <a href="./assets/images/tour/4.jpg" class="destination-style relative">
                                     <img src="./assets/images/tour/4.jpg" alt="">
                                     <div class="destination-content">
-                                        <p class="text-white">Water Sports</p>
+                                        <p class="text-white">Lake Boating</p>
                                     </div>
                                 </a>
                                 <a style="display:none;" href="./assets/images/tour/1.jpg">

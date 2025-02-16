@@ -41,84 +41,87 @@
                                 <div class="tab-tour-list">
                                     <div class="tf-container">
                                         <ul class="nav justify-content-center tab-list mb-5 mt-5" id="myTab" role="tablist">
-                                            <li class="nav-item" role="presentation">
-                                                <button class="nav-link active" id="new-york-tab" data-bs-toggle="tab" data-bs-target="#new-york-tab-pane" type="button" role="tab" aria-controls="new-york-tab-pane" aria-selected="true">Veg</button>
+                                        <li class="nav-item" role="presentation">
+                                                <button class="nav-link active" id="all-menu-tab" data-bs-toggle="tab" data-bs-target="#all-menu-tab-pane" type="button" role="tab" aria-controls="all-menu-tab-pane" aria-selected="true">All</button>
                                             </li>
                                             <li class="nav-item" role="presentation">
-                                                <button class="nav-link" id="london-tab" data-bs-toggle="tab" data-bs-target="#london-tab-pane" type="button" role="tab" aria-controls="london-tab-pane" aria-selected="false">Nonveg</button>
+                                                <button class="nav-link" id="veg-menu-tab" data-bs-toggle="tab" data-bs-target="#veg-menu-tab-pane" type="button" role="tab" aria-controls="veg-menu-tab-pane" aria-selected="true">Veg</button>
+                                            </li>
+                                            <li class="nav-item" role="presentation">
+                                                <button class="nav-link" id="nov-veg-menu-tab" data-bs-toggle="tab" data-bs-target="#nov-veg-menu-tab-pane" type="button" role="tab" aria-controls="nov-veg-menu-tab-pane" aria-selected="false">Non veg</button>
                                             </li>
                                         </ul>
                                         <div class="tab-content" id="myTabContent">
-                                            <div class="tab-pane fade active show" id="new-york-tab-pane" role="tabpanel" aria-labelledby="new-york-tab" tabindex="0">
+                                        <div class="tab-pane fade active show" id="all-menu-tab-pane" role="tabpanel" aria-labelledby="all-menu-tab" tabindex="0">
                                             <div class="row">
                                                 <div class="col-lg-12">
                                                     <div class="grid-gallery static-thumbnails-lightgallery">
-                                                        <div class="item-1 common-items" data-src="./assets/images/gallery/gallery7.jpg" style="background-image: url(&quot;./assets/images/gallery/gallery7.jpg&quot;);">
+                                                        <div class="item-1 common-items" data-src="./assets/images/food-services/non-veg/img1.webp" style="background-image: url(&quot;./assets/images/food-services/non-veg/img1.webp&quot;);">
                                                             <div class="tf-gallery">
-                                                                <a href="./assets/images/gallery/gallery7.jpg" class="btn-gallery flex-five" data-fancybox="gallery">
+                                                                <a href="./assets/images/food-services/non-veg/img1.webp" class="btn-gallery flex-five" data-fancybox="gallery">
                                                                     <i class="icon-Group-14"></i>
                                                                 </a>
                                                             </div>
                                                         </div>
-                                                        <div class="item-2 common-items" data-src="./assets/images/gallery/gallery9.jpg" style="background-image: url(&quot;./assets/images/gallery/gallery9.jpg&quot;)" ;="">
+                                                        <div class="item-2 common-items" data-src="./assets/images/food-services/veg/img2.webp" style="background-image: url(&quot;./assets/images/food-services/veg/img2.webp&quot;)">
                                                             <div class="tf-gallery">
-                                                                <a href="./assets/images/gallery/gallery9.jpg" data-fancybox="gallery" class="btn-gallery flex-five">
+                                                                <a href="./assets/images/food-services/veg/img2.webp" data-fancybox="gallery" class="btn-gallery flex-five">
                                                                     <i class="icon-Group-14"></i>
                                                                 </a>
                                                             </div>
                                                         </div>
-                                                        <div class="item-3 common-items" data-src="./assets/images/gallery/gallery11.jpg" style="background-image: url(&quot;./assets/images/gallery/gallery11.jpg&quot;)" ;="">
+                                                        <div class="item-3 common-items" data-src="./assets/images/food-services/non-veg/img3.webp" style="background-image: url(&quot;./assets/images/food-services/non-veg/img3.webp&quot;)">
                                                             <div class="tf-gallery">
-                                                                <a href="./assets/images/gallery/gallery11.jpg" class="btn-gallery flex-five " data-fancybox="gallery">
+                                                                <a href="./assets/images/food-services/non-veg/img3.webp" class="btn-gallery flex-five " data-fancybox="gallery">
                                                                     <i class="icon-Group-14"></i>
                                                                 </a>
                                                             </div>
                                                         </div>
-                                                        <div class="item-4 common-items" data-src="./assets/images/gallery/gallery8.jpg" style="background-image: url(&quot;./assets/images/gallery/gallery8.jpg&quot;)" ;="">
+                                                        <div class="item-4 common-items" data-src="./assets/images/food-services/non-veg/img4.webp" style="background-image: url(&quot;./assets/images/food-services/non-veg/img4.webp&quot;)">
                                                             <div class="tf-gallery">
-                                                                <a href="./assets/images/gallery/gallery8.jpg" class="btn-gallery flex-five" data-fancybox="gallery">
+                                                                <a href="./assets/images/food-services/non-veg/img4.webp" class="btn-gallery flex-five" data-fancybox="gallery">
                                                                     <i class="icon-Group-14"></i>
                                                                 </a>
                                                             </div>
                                                         </div>
-                                                        <div class="item-5 common-items" data-src="./assets/images/gallery/gallery10.jpg" style="background-image: url(&quot;./assets/images/gallery/gallery10.jpg&quot;)" ;="">
+                                                        <div class="item-5 common-items" data-src="./assets/images/food-services/non-veg/img11.webp" style="background-image: url(&quot;./assets/images/food-services/non-veg/img11.webp&quot;)">
                                                             <div class="tf-gallery">
-                                                                <a href="./assets/images/gallery/gallery10.jpg" class="btn-gallery flex-five" data-fancybox="gallery">
+                                                                <a href="./assets/images/food-services/non-veg/img11.webp" class="btn-gallery flex-five" data-fancybox="gallery">
                                                                     <i class="icon-Group-14"></i>
                                                                 </a>
                                                             </div>
                                                         </div>
-                                                        <div class="item-6 common-items" data-src="./assets/images/gallery/gallery12.jpg" style="background-image: url(&quot;./assets/images/gallery/gallery12.jpg&quot;)" ;="">
+                                                        <div class="item-6 common-items" data-src="./assets/images/food-services/veg/img6.webp" style="background-image: url(&quot;./assets/images/food-services/veg/img6.webp&quot;)">
                                                             <div class="tf-gallery">
-                                                                <a href="./assets/images/gallery/gallery12.jpg" class="btn-gallery flex-five" data-fancybox="gallery">
+                                                                <a href="./assets/images/food-services/veg/img6.webp" class="btn-gallery flex-five" data-fancybox="gallery">
                                                                     <i class="icon-Group-14"></i>
                                                                 </a>
                                                             </div>
                                                         </div>
-                                                        <div class="item-7 common-items" data-src="./assets/images/gallery/gallery7.jpg" style="background-image: url(&quot;./assets/images/gallery/gallery7.jpg&quot;)" ;="">
+                                                        <div class="item-7 common-items" data-src="./assets/images/food-services/non-veg/img7.webp" style="background-image: url(&quot;./assets/images/food-services/non-veg/img7.webp&quot;)">
                                                             <div class="tf-gallery">
-                                                                <a href="./assets/images/gallery/gallery7.jpg" class="btn-gallery flex-five" data-fancybox="gallery">
+                                                                <a href="./assets/images/food-services/non-veg/img7.webp" class="btn-gallery flex-five" data-fancybox="gallery">
                                                                     <i class="icon-Group-14"></i>
                                                                 </a>
                                                             </div>
                                                         </div>
-                                                        <div class="item-8 common-items" data-src="./assets/images/gallery/gallery9.jpg" style="background-image: url(&quot;./assets/images/gallery/gallery9.jpg&quot;)" ;="">
+                                                        <div class="item-8 common-items" data-src="./assets/images/food-services/non-veg/img9.webp" style="background-image: url(&quot;./assets/images/food-services/non-veg/img9.webp&quot;)">
                                                             <div class="tf-gallery">
-                                                                <a href="./assets/images/gallery/gallery9.jpg" data-fancybox="gallery" class="btn-gallery flex-five">
+                                                                <a href="./assets/images/food-services/non-veg/img9.webp" data-fancybox="gallery" class="btn-gallery flex-five">
                                                                     <i class="icon-Group-14"></i>
                                                                 </a>
                                                             </div>
                                                         </div>
-                                                        <div class="item-9 common-items" data-src="./assets/images/gallery/gallery11.jpg" style="background-image: url(&quot;./assets/images/gallery/gallery11.jpg&quot;)" ;="">
+                                                        <div class="item-9 common-items" data-src="./assets/images/food-services/veg/img9.webp" style="background-image: url(&quot;./assets/images/food-services/veg/img9.webp&quot;)">
                                                             <div class="tf-gallery">
-                                                                <a href="./assets/images/gallery/gallery11.jpg" class="btn-gallery flex-five " data-fancybox="gallery">
+                                                                <a href="./assets/images/food-services/veg/img9.webp" class="btn-gallery flex-five " data-fancybox="gallery">
                                                                     <i class="icon-Group-14"></i>
                                                                 </a>
                                                             </div>
                                                         </div>
-                                                        <div class="item-10 common-items" data-src="./assets/images/gallery/gallery8.jpg" style="background-image: url(&quot;./assets/images/gallery/gallery8.jpg&quot;)" ;="">
+                                                        <div class="item-10 common-items" data-src="./assets/images/food-services/veg/img10.webp" style="background-image: url(&quot;./assets/images/food-services/veg/img10.webp&quot;)">
                                                             <div class="tf-gallery">
-                                                                <a href="./assets/images/gallery/gallery8.jpg" class="btn-gallery flex-five" data-fancybox="gallery">
+                                                                <a href="./assets/images/food-services/veg/img10.webp" class="btn-gallery flex-five" data-fancybox="gallery">
                                                                     <i class="icon-Group-14"></i>
                                                                 </a>
                                                             </div>
@@ -127,95 +130,164 @@
                                                     </div>
                                                 </div>
                                             </div>
+                                        </div>
+                                        <div class="tab-pane fade" id="veg-menu-tab-pane" role="tabpanel" aria-labelledby="veg-menu-tab" tabindex="0">
+                                            <div class="row">
+                                                <div class="col-lg-12">
+                                                    <div class="grid-gallery static-thumbnails-lightgallery">
+                                                        <div class="item-1 common-items" data-src="./assets/images/food-services/veg/img1.webp" style="background-image: url(&quot;./assets/images/food-services/veg/img1.webp&quot;);">
+                                                            <div class="tf-gallery">
+                                                                <a href="./assets/images/food-services/veg/img1.webp" class="btn-gallery flex-five" data-fancybox="gallery">
+                                                                    <i class="icon-Group-14"></i>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                        <div class="item-2 common-items" data-src="./assets/images/food-services/veg/img2.webp" style="background-image: url(&quot;./assets/images/food-services/veg/img2.webp&quot;)">
+                                                            <div class="tf-gallery">
+                                                                <a href="./assets/images/food-services/veg/img2.webp" data-fancybox="gallery" class="btn-gallery flex-five">
+                                                                    <i class="icon-Group-14"></i>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                        <div class="item-3 common-items" data-src="./assets/images/food-services/veg/img3.webp" style="background-image: url(&quot;./assets/images/food-services/veg/img3.webp&quot;)">
+                                                            <div class="tf-gallery">
+                                                                <a href="./assets/images/food-services/veg/img3.webp" class="btn-gallery flex-five " data-fancybox="gallery">
+                                                                    <i class="icon-Group-14"></i>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                        <div class="item-4 common-items" data-src="./assets/images/food-services/veg/img4.webp" style="background-image: url(&quot;./assets/images/food-services/veg/img4.webp&quot;)">
+                                                            <div class="tf-gallery">
+                                                                <a href="./assets/images/food-services/veg/img4.webp" class="btn-gallery flex-five" data-fancybox="gallery">
+                                                                    <i class="icon-Group-14"></i>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                        <div class="item-5 common-items" data-src="./assets/images/food-services/veg/img5.webp" style="background-image: url(&quot;./assets/images/food-services/veg/img5.webp&quot;)">
+                                                            <div class="tf-gallery">
+                                                                <a href="./assets/images/food-services/veg/img5.webp" class="btn-gallery flex-five" data-fancybox="gallery">
+                                                                    <i class="icon-Group-14"></i>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                        <div class="item-6 common-items" data-src="./assets/images/food-services/veg/img6.webp" style="background-image: url(&quot;./assets/images/food-services/veg/img6.webp&quot;)">
+                                                            <div class="tf-gallery">
+                                                                <a href="./assets/images/food-services/veg/img6.webp" class="btn-gallery flex-five" data-fancybox="gallery">
+                                                                    <i class="icon-Group-14"></i>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                        <div class="item-7 common-items" data-src="./assets/images/food-services/veg/img7.webp" style="background-image: url(&quot;./assets/images/food-services/veg/img7.webp&quot;)">
+                                                            <div class="tf-gallery">
+                                                                <a href="./assets/images/food-services/veg/img7.webp" class="btn-gallery flex-five" data-fancybox="gallery">
+                                                                    <i class="icon-Group-14"></i>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                        <div class="item-8 common-items" data-src="./assets/images/food-services/veg/img8.webp" style="background-image: url(&quot;./assets/images/food-services/veg/img8.webp&quot;)">
+                                                            <div class="tf-gallery">
+                                                                <a href="./assets/images/food-services/veg/img8.webp" data-fancybox="gallery" class="btn-gallery flex-five">
+                                                                    <i class="icon-Group-14"></i>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                        <div class="item-9 common-items" data-src="./assets/images/food-services/veg/img9.webp" style="background-image: url(&quot;./assets/images/food-services/veg/img9.webp&quot;)">
+                                                            <div class="tf-gallery">
+                                                                <a href="./assets/images/food-services/veg/img9.webp" class="btn-gallery flex-five " data-fancybox="gallery">
+                                                                    <i class="icon-Group-14"></i>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                        <div class="item-10 common-items" data-src="./assets/images/food-services/veg/img10.webp" style="background-image: url(&quot;./assets/images/food-services/veg/img10.webp&quot;)">
+                                                            <div class="tf-gallery">
+                                                                <a href="./assets/images/food-services/veg/img10.webp" class="btn-gallery flex-five" data-fancybox="gallery">
+                                                                    <i class="icon-Group-14"></i>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+
+                                                    </div>
+                                                </div>
                                             </div>
-                                            <div class="tab-pane fade" id="london-tab-pane" role="tabpanel" aria-labelledby="profile-tab" tabindex="0">
+                                        </div>
+                                        <div class="tab-pane fade" id="nov-veg-menu-tab-pane" role="tabpanel" aria-labelledby="nov-veg-menu-tab" tabindex="0">
                                             <div class="row">
                                             <div class="col-lg-12">
                                             <div class="grid-gallery" id="video-gallery">
-                                                        <div class="item-1" data-src="https://www.youtube.com/watch?v=lXItSmPeYzQ">
+                                                        <div class="item-1 common-items"  data-src="./assets/images/food-services/non-veg/img1.webp" style="background-image: url(&quot;./assets/images/food-services/non-veg/img1.webp&quot;);">
                                                             <div class="tf-gallery">
-                                                            <img src="./assets/images/gallery/gallery7.jpg" alt="">
-                                                                <a href="https://www.youtube.com/watch?v=lXItSmPeYzQ" class="btn-gallery flex-five" data-fancybox="gallery">
-                                                                <i class="fa-solid fa-play"></i>
+                                                                <a href="./assets/images/food-services/non-veg/img1.webp" class="btn-gallery flex-five" data-fancybox="gallery">
+                                                                <i class="icon-Group-14"></i>
                                                                 </a>
                                                             </div>
                                                         </div>
-                                                        <div class="item-2 common-items" data-src="https://www.youtube.com/watch?v=lXItSmPeYzQ">
+                                                        <div class="item-2 common-items" data-src="./assets/images/food-services/non-veg/img2.webp" style="background-image: url(&quot;./assets/images/food-services/non-veg/img2.webp&quot;);">
                                                             <div class="tf-gallery">
-                                                                <img src="./assets/images/gallery/gallery9.jpg" alt="">
-                                                                <a href="https://www.youtube.com/watch?v=lXItSmPeYzQ" data-fancybox="gallery" class="btn-gallery flex-five">
-                                                                <i class="fa-solid fa-play"></i>
+                                                                <a href="./assets/images/food-services/non-veg/img2.webp" data-fancybox="gallery" class="btn-gallery flex-five">
+                                                                <i class="icon-Group-14"></i>
                                                                 </a>
                                                             </div>
                                                         </div>
-                                                        <div class="item-3 common-items" data-src="https://www.youtube.com/watch?v=lXItSmPeYzQ" style="background-image: url(&quot;./assets/images/gallery/gallery11.jpg&quot;)" ;="">
+                                                        <div class="item-3 common-items" data-src="./assets/images/food-services/non-veg/img3.webp" style="background-image: url(&quot;./assets/images/food-services/non-veg/img3.webp&quot;);">
                                                             <div class="tf-gallery">
-                                                                <img src="./assets/images/gallery/gallery11.jpg" alt="">
-                                                                <a href="https://www.youtube.com/watch?v=lXItSmPeYzQ" class="btn-gallery flex-five " data-fancybox="gallery">
-                                                                <i class="fa-solid fa-play"></i>
+                                                                <a href="./assets/images/food-services/non-veg/img3.webp" class="btn-gallery flex-five " data-fancybox="gallery">
+                                                                <i class="icon-Group-14"></i>
                                                                 </a>
                                                             </div>
                                                         </div>
-                                                        <div class="item-4 common-items" data-src="https://www.youtube.com/watch?v=lXItSmPeYzQ">
+                                                        <div class="item-4 common-items" data-src="./assets/images/food-services/non-veg/img4.webp" style="background-image: url(&quot;./assets/images/food-services/non-veg/img4.webp&quot;);">
                                                             <div class="tf-gallery">
-                                                                <img src="./assets/images/gallery/gallery8.jpg" alt="">
-                                                                <a href="https://www.youtube.com/watch?v=lXItSmPeYzQ" class="btn-gallery flex-five" data-fancybox="gallery">
-                                                                <i class="fa-solid fa-play"></i>
+                                                                <a href="./assets/images/food-services/non-veg/img4.webp" class="btn-gallery flex-five" data-fancybox="gallery">
+                                                                <i class="icon-Group-14"></i>
                                                                 </a>
                                                             </div>
                                                         </div>
-                                                        <div class="item-5 common-items" data-src="https://www.youtube.com/watch?v=lXItSmPeYzQ">
+                                                        <div class="item-5 common-items" data-src="./assets/images/food-services/non-veg/img5.webp" style="background-image: url(&quot;./assets/images/food-services/non-veg/img5.webp&quot;);">
                                                             <div class="tf-gallery">
-                                                            <img src="./assets/images/gallery/gallery10.jpg" alt="">
-                                                                <a href="https://www.youtube.com/watch?v=lXItSmPeYzQ" class="btn-gallery flex-five" data-fancybox="gallery">
-                                                                <i class="fa-solid fa-play"></i>
+                                                                <a href="./assets/images/food-services/non-veg/img5.webp" class="btn-gallery flex-five" data-fancybox="gallery">
+                                                                <i class="icon-Group-14"></i>
                                                                 </a>
                                                             </div>
                                                         </div>
-                                                        <div class="item-6 common-items" data-src="https://www.youtube.com/watch?v=lXItSmPeYzQ">
+                                                        <div class="item-6 common-items" data-src="./assets/images/food-services/non-veg/img6.webp" style="background-image: url(&quot;./assets/images/food-services/non-veg/img6.webp&quot;);">
                                                             <div class="tf-gallery">
-                                                            <img src="./assets/images/gallery/gallery12.jpg" alt="">
-                                                                <a href="https://www.youtube.com/watch?v=lXItSmPeYzQ" class="btn-gallery flex-five" data-fancybox="gallery">
-                                                                <i class="fa-solid fa-play"></i>
+                                                                <a href="./assets/images/food-services/non-veg/img6.webp" class="btn-gallery flex-five" data-fancybox="gallery">
+                                                                <i class="icon-Group-14"></i>
                                                                 </a>
                                                             </div>
                                                         </div>
-                                                        <div class="item-7 common-items" data-src="https://www.youtube.com/watch?v=lXItSmPeYzQ">
+                                                        <div class="item-7 common-items" data-src="./assets/images/food-services/non-veg/img7.webp" style="background-image: url(&quot;./assets/images/food-services/non-veg/img7.webp&quot;);">
                                                             <div class="tf-gallery">
-                                                            <img src="./assets/images/gallery/gallery7.jpg" alt="">
-                                                                <a href="https://www.youtube.com/watch?v=lXItSmPeYzQ" class="btn-gallery flex-five" data-fancybox="gallery">
-                                                                <i class="fa-solid fa-play"></i>
+                                                                <a href="./assets/images/food-services/non-veg/img7.webp" class="btn-gallery flex-five" data-fancybox="gallery">
+                                                                <i class="icon-Group-14"></i>
                                                                 </a>
                                                             </div>
                                                         </div>
-                                                        <div class="item-8 common-items" data-src="https://www.youtube.com/watch?v=lXItSmPeYzQ">
+                                                        <div class="item-8 common-items" data-src="./assets/images/food-services/non-veg/img8.webp" style="background-image: url(&quot;./assets/images/food-services/non-veg/img8.webp&quot;);">
                                                             <div class="tf-gallery">
-                                                                <img src="./assets/images/gallery/gallery9.jpg" alt="">
-                                                                <a href="https://www.youtube.com/watch?v=lXItSmPeYzQ" data-fancybox="gallery" class="btn-gallery flex-five">
-                                                                <i class="fa-solid fa-play"></i>
+                                                                <a href="./assets/images/food-services/non-veg/img8.webp" data-fancybox="gallery" class="btn-gallery flex-five">
+                                                                <i class="icon-Group-14"></i>
                                                                 </a>
                                                             </div>
                                                         </div>
-                                                        <div class="item-9 common-items" data-src="https://www.youtube.com/watch?v=lXItSmPeYzQ">
+                                                        <div class="item-9 common-items" data-src="./assets/images/food-services/non-veg/img9.webp" style="background-image: url(&quot;./assets/images/food-services/non-veg/img9.webp&quot;);">
                                                             <div class="tf-gallery">
-                                                            <img src="./assets/images/gallery/gallery11.jpg" alt="">
-                                                                <a href="https://www.youtube.com/watch?v=lXItSmPeYzQ" class="btn-gallery flex-five " data-fancybox="gallery">
-                                                                <i class="fa-solid fa-play"></i>
+                                                                <a href="./assets/images/food-services/non-veg/img9.webp" class="btn-gallery flex-five " data-fancybox="gallery">
+                                                                <i class="icon-Group-14"></i>
                                                                 </a>
                                                             </div>
                                                         </div>
-                                                        <div class="item-10 common-items" data-src="https://www.youtube.com/watch?v=lXItSmPeYzQ">
+                                                        <div class="item-10 common-items" data-src="./assets/images/food-services/non-veg/img10.webp" style="background-image: url(&quot;./assets/images/food-services/non-veg/img10.webp&quot;);">
                                                             <div class="tf-gallery">
-                                                            <img src="./assets/images/gallery/gallery8.jpg" alt="">
-                                                                <a href="https://www.youtube.com/watch?v=lXItSmPeYzQ" class="btn-gallery flex-five" data-fancybox="gallery">
-                                                                <i class="fa-solid fa-play"></i>
+                                                                <a href="./assets/images/food-services/non-veg/img10.webp" class="btn-gallery flex-five" data-fancybox="gallery">
+                                                                <i class="icon-Group-14"></i>
                                                                 </a>
                                                             </div>
                                                         </div>
                                                     </div>
                                                 </div>
                                             </div>
-                                            </div>
+                                        </div>
                                         </div>
                                     </div>
                                 </div>
@@ -234,14 +306,13 @@
                                 </div>
                                 <div class="flex-three">
                                     <div class="video-wrap wow fadeInUp  animated" style="visibility: visible; animation-name: fadeInUp;">
-                                        <a href="https://www.youtube.com/watch?v=n9LgeoJE4EI" class="widget-icon-video flex-five widget-videos">
+                                        <a href="https://www.youtube.com/watch?v=1LDgLfovNiE" class="widget-icon-video flex-five widget-videos">
                                             <i class="icon-Polygon-4"></i>
                                         </a>
                                     </div>
                                     <address class="wow fadeInUp  animated" style="visibility: visible; animation-name: fadeInUp;"><a href="mailto:sarasighvarveli@gmail.com">sarasighvarveli@gmail.com</a><br>
                                     </address>
                                 </div>
-                                <img src="./assets/images/page/vector2.png" alt="image" class="mask-icon-banner">
                             </div>
                             <div class="col-lg-5">
                                 <div class="image-banner-contact">
