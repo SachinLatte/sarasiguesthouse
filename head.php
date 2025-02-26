@@ -2,10 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
 <head>
     <meta charset="utf-8">
-    <title>SarsiGuestHouse - Guhagar</title>
+    <title>SarasiGuestHouse - Guhagar</title>
     <meta name="author" content="themesflat.com">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <link rel="stylesheet" href="app/css/app.css">
+    <link rel="stylesheet" href="app/css/forms.css">
     <link rel="stylesheet" type="text/css" href="app/css/magnific-popup.css">
     <link rel="stylesheet" type="text/css" href="app/css/jquery.fancybox.min.css">
     <link rel="stylesheet" type="text/css" href="app/css/textanimation.css">

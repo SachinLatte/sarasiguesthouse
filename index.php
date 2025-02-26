@@ -134,7 +134,7 @@
                                 <div class="travel-video relative">
                                     <img src="./assets/images/about-us/image-video.png" alt="Image" class="image-video">
                                     <div class="video-wrap">
-                                        <a href="https://www.youtube.com/watch?v=n9LgeoJE4EI"
+                                        <a href="https://www.youtube.com/watch?v=1LDgLfovNiE"
                                             class="widget-icon-video widget-videos flex-five z-index3">
                                             <i class="icon-Polygon-4"></i>
                                         </a>

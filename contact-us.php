@@ -120,7 +120,7 @@
                                     <div class="inner-header mb-60">
                                         <h2 class="title">Enquiry Form</h2>
                                     </div>
-                                    <form action="/" id="form-contact-us">
+                                    <!-- <form action="/" id="form-contact-us">
                                         <div class="input-wrap relative">
                                             <input type="text" placeholder="Your Name*">
                                         </div>
@@ -138,7 +138,8 @@
                                         </div>
                                         <button type="submit" class="btn-submit-contact"><i class="icon-Group-121"></i>
                                             Submit</button>
-                                    </form>
+                                    </form> -->
+                                    <?php include "enquiry-form.php"?>
                                 </div>
                             </div>
                         </div>
