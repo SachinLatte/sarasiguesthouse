@@ -34,9 +34,8 @@
                     <div class="row">
                             <div class="col-lg-12">
                                 <div class="center m0-auto w-text-heading mb-40">
-                                    <span class="sub-title-heading text-main mb-15 fadeInUp wow" style="visibility: visible; animation-name: fadeInUp;">Explore the
-                                        Guhagar</span>
-                                    <h2 class="title-heading fadeInUp wow" style="visibility: visible; animation-name: fadeInUp;"><span class="font-yes">Sarsi Guest House</span> is surrounded by lots of sightseeings.</h2>
+                                <span class="sub-title-heading text-main mb-15 fadeInUp wow">Endless views, endless memories.</span>
+                                <h2 class="title-heading fadeInUp wow">Beaches, temples, and nature, a paradise packed with must-see sights. Lose yourself in the beauty of <span class="text-gray font-yes">Guhagar!</span></h2>
                                 </div>
                             </div>
                         </div>
@@ -100,7 +99,7 @@
                                 <a href="./assets/images/tour/6.jpg" class="destination-style relative">
                                     <img src="./assets/images/tour/6.jpg" alt="">
                                     <div class="destination-content">
-                                        <p class="text-white">Bauman Ghal</p>
+                                        <p class="text-white">Baman Ghal</p>
                                     </div>
                                 </a>
                                 <a style="display:none;" href="./assets/images/tour/1.jpg">

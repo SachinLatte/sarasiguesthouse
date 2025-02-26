@@ -33,13 +33,17 @@
                                                         adventure
                                                         <span class="animationtext clip text-main">
                                                             <span class="cd-words-wrapper">
-                                                                <span class="item-text is-visible">Camping</span>
-                                                                <span class="item-text is-hidden">Camping</span>
+                                                                <span class="item-text is-visible">Kayaking</span>
+                                                                <span class="item-text is-hidden">Trekking</span>
+                                                                <span class="item-text is-hidden">Bonfires</span>
+                                                                <span class="item-text is-hidden">Exploring</span>
+                                                                <span class="item-text is-hidden">Everything</span>
+                                                                <span class="item-text is-hidden">Boating</span>                                                               
                                                             </span>                                          
                                                         </span>
                                                     </h1>
                                                     <div class="btn-group">
-                                                        <a href="javascript:void(0)" class="btn-main fadeInDown wow">
+                                                        <a href="contact-us.php#contactForm" class="btn-main fadeInDown wow">
                                                             <p class="btn-main-text">Book Now</p>
                                                             <p class="iconer">
                                                                 <i class="icon-arrow-right"></i>
@@ -65,13 +69,16 @@
                                                         adventure
                                                         <span class="animationtext clip text-main">
                                                             <span class="cd-words-wrapper">
-                                                                <span class="item-text is-visible">Camping</span>
-                                                                <span class="item-text is-hidden">Camping</span>
+                                                            <span class="item-text is-hidden">Trekking</span>
+                                                                <span class="item-text is-hidden">Bonfires</span>
+                                                                <span class="item-text is-hidden">Exploring</span>
+                                                                <span class="item-text is-hidden">Everything</span>
+                                                                <span class="item-text is-hidden">Boating</span> 
                                                             </span>                                          
                                                         </span>
                                                     </h1>
                                                     <div class="btn-group">
-                                                        <a href="javascript:void(0)" class="btn-main fadeInDown wow">
+                                                        <a href="contact-us.php#contactForm" class="btn-main fadeInDown wow">
                                                             <p class="btn-main-text">Book Now</p>
                                                             <p class="iconer">
                                                                 <i class="icon-arrow-right"></i>
@@ -103,7 +110,7 @@
                                                         </span>
                                                     </h1>
                                                     <div class="btn-group">
-                                                        <a href="javascript:void(0)" class="btn-main fadeInDown wow">
+                                                        <a href="contact-us.php#contactForm" class="btn-main fadeInDown wow">
                                                             <p class="btn-main-text">Book Now</p>
                                                             <p class="iconer">
                                                                 <i class="icon-arrow-right"></i>
@@ -176,8 +183,8 @@
                             <div class="col-lg-12">
                             <div class="center m0-auto w-text-heading">
                                     <span class="sub-title-heading text-main mb-15 fadeInUp wow" style="visibility: visible; animation-name: fadeInUp;">We Offers</span>
-                                    <h2 class="title-heading mb-4 fadeInUp wow" style="visibility: visible; animation-name: fadeInUp;">Amazing Room Services by <span class="text-gray font-yes">Sarsi Guest House</span></h2>
-                                    <p>Guhagar is well connected to the other parts of the state and is just about 40 Kms off the National Higway (NH 17)</p>
+                                    <h2 class="title-heading mb-4 fadeInUp wow" style="visibility: visible; animation-name: fadeInUp;">More than just a stay,  experience <span class="text-gray font-yes">Sarsi's</span> hospitality.</h2>
+                                    <p>Well-connected and easy to reach. Hop off NH-17, and in just 40 km, Guhagar's charm awaits.</p>
                                 </div>
                                 <div class="tab-tour-list">
                                     <ul class="nav justify-content-center tab-list mt-5" id="myTab" role="tablist">
@@ -395,9 +402,8 @@
                         <div class="row">
                             <div class="col-lg-12">
                                 <div class="center m0-auto w-text-heading mb-40">
-                                    <span class="sub-title-heading text-main mb-15 fadeInUp wow">Explore the
-                                        Guhagar</span>
-                                    <h2 class="title-heading fadeInUp wow"><span class="font-yes">Sarsi Guest House</span> is surrounded by lots of sightseeings.</h2>
+                                    <span class="sub-title-heading text-main mb-15 fadeInUp wow">Endless views, endless memories.</span>
+                                    <h2 class="title-heading fadeInUp wow">Beaches, temples, and nature, a paradise packed with must-see sights. Lose yourself in the beauty of <span class="text-gray font-yes">Guhagar!</span></h2>
                                 </div>
                             </div>
                         </div>
@@ -432,10 +438,10 @@
                             </div>
                             <div class="tf-widget-destination wow fadeInUp animated " data-wow-delay="0.3s">
                                 <a href="sightseeing.php" class="destination-imgae">
-                                    <img src="./assets/images/destination/bauman-ghal/bauman-ghal-main-thumb.webp" alt="">
+                                    <img src="./assets/images/destination/Baman-ghal/Baman-ghal-main-thumb.webp" alt="">
                                 </a>
                                 <div class="destination-content">
-                                    <span class="nation">Bauman Ghal</span>
+                                    <span class="nation">Baman Ghal</span>
                                     <div class="flex-two btn-destination">
                                         <h6 class="title"><a href="sightseeing.php">Know More</a></h6>
                                         <a href="sightseeing.php" class="flex-five btn-view">
@@ -449,7 +455,7 @@
                                     <img src="./assets/images/destination/list3.jpg" alt="">
                                 </a>
                                 <div class="destination-content">
-                                    <span class="nation">Gopalgarh Fort</span>
+                                    <span class="nation">Forts</span>
                                     <div class="flex-two btn-destination">
                                         <h6 class="title"><a href="sightseeing.php">Know More</a></h6>
                                         <a href="sightseeing.php" class="flex-five btn-view">
@@ -463,7 +469,7 @@
                                     <img src="./assets/images/destination/list4.jpg" alt="">
                                 </a>
                                 <div class="destination-content">
-                                    <span class="nation">Bird Watching</span>
+                                    <span class="nation">Birds Watching</span>
                                     <div class="flex-two btn-destination">
                                         <h6 class="title"><a href="sightseeing.php">Know More</a></h6>
                                         <a href="sightseeing.php" class="flex-five btn-view">
@@ -496,9 +502,7 @@
                         <div class="row z-index3 relative">
                             <div class="col-lg-7 content-banner-contact">
                                 <div class="mb-32">
-                                    <h2 class="title-heading text-white wow fadeInUp animated">Ready to travel with real
-                                        adventure & enjoy
-                                        natural</h2>
+                                    <h2 class="title-heading text-white wow fadeInUp animated">Craving adventure? Let nature be your playground!</h2>
                                 </div>
                                 <div class="flex-three">
                                     <div class="video-wrap wow fadeInUp animated">
@@ -541,13 +545,10 @@
                                             <div class="swiper-slide">
                                                 <div class="testimonial-content relative">
                                                     <div class="profile mb-15">
-                                                        <h3 class="name">Piter Bowman</h3>
-                                                        <span class="job">Business CEO</span>
+                                                        <h3 class="name">Rohan Mehta</h3>
+                                                        <span class="job">Travel Blogger</span>
                                                     </div>
-                                                    <p class="tes">Leverage agile frameworks to provide a robust
-                                                        synopsis for high level overviews. Iterative in
-                                                        approaches to corporate strategy data foster go
-                                                        to collaborative thinking.
+                                                    <p class="tes">"Sarasi Guest House is a hidden gem! The rooms are cozy, the staff is welcoming, and the location is just perfect for a peaceful getaway. Highly recommend!"
                                                     </p>
                                                     <span class="line"></span>
                                                     <div class="icon-tes flex-five">
@@ -558,13 +559,10 @@
                                             <div class="swiper-slide">
                                                 <div class="testimonial-content relative">
                                                     <div class="profile mb-15">
-                                                        <h3 class="name">Piter Bowman</h3>
-                                                        <span class="job">Business CEO</span>
+                                                        <h3 class="name">Ananya Iyer</h3>
+                                                        <span class="job">Graphic Designer</span>
                                                     </div>
-                                                    <p class="tes">Leverage agile frameworks to provide a robust
-                                                        synopsis for high level overviews. Iterative in
-                                                        approaches to corporate strategy data foster go
-                                                        to collaborative thinking.
+                                                    <p class="tes">"I loved waking up to the sound of waves and chirping Birdss. The place is serene, well-maintained, and gives you the perfect break from city life."
                                                     </p>
                                                     <span class="line"></span>
                                                     <div class="icon-tes flex-five">
@@ -575,13 +573,10 @@
                                             <div class="swiper-slide">
                                                 <div class="testimonial-content relative">
                                                     <div class="profile mb-15">
-                                                        <h3 class="name">Piter Bowman</h3>
-                                                        <span class="job">Business CEO</span>
+                                                        <h3 class="name">Rahul Saxena</h3>
+                                                        <span class="job">Photographer</span>
                                                     </div>
-                                                    <p class="tes">Leverage agile frameworks to provide a robust
-                                                        synopsis for high level overviews. Iterative in
-                                                        approaches to corporate strategy data foster go
-                                                        to collaborative thinking.
+                                                    <p class="tes">"If you love capturing nature, this is the place to be! Stunning views, beautiful sunsets, and a calm environment. Will be back soon!"
                                                     </p>
                                                     <span class="line"></span>
                                                     <div class="icon-tes flex-five">
@@ -589,6 +584,7 @@
                                                     </div>
                                                 </div>
                                             </div>
+                                            
                                         </div>
 
                                     </div>

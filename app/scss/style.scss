@@ -319,7 +319,7 @@ h1 {
 
 h2 {
     font-size: $h2-fs;
-    line-height: 50px;
+    line-height: 60px;
     font-weight: 600;
 }
 
@@ -804,7 +804,37 @@ p {
     }
 
 }
-
+#contactForm{
+    input[type=number]::-webkit-inner-spin-button, 
+    input[type=number]::-webkit-outer-spin-button { 
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin: 0; 
+}
+input::placeholder, textarea::placeholder{
+    font-size: 15px;
+    color: #4F545A;
+}
+    input{
+        padding: 12px;
+        border: 1px solid #4DA528;
+        &:focus{
+            outline: none;
+            box-shadow: none;
+        }
+    }
+    textarea{
+        border: 1px solid #4DA528;
+        background-color: transparent;
+        resize: none;
+        &:focus{
+            outline: none;
+            box-shadow: none;
+            background-color: #fff;
+        }
+    }
+}
 .float {
     position: fixed;
     width: 55px;
@@ -1025,9 +1055,11 @@ button {
         border: unset;
     }
 }
-
+button[type=submit]{
+    background-color: $primary!important;
+}
 button[type=submit]:hover {
-    background-color: $primary;
+    background-color: $secondary!important;
     transition: all 0.3s;
     border: unset;
 }

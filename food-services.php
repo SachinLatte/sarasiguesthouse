@@ -35,8 +35,8 @@
                             <div class="col-lg-12">
                                 <div class="center m0-auto w-text-heading">
                                     <span class="sub-title-heading text-main mb-15 fadeInUp wow" style="visibility: visible; animation-name: fadeInUp;">We Offers</span>
-                                    <h2 class="title-heading mb-4 fadeInUp wow" style="visibility: visible; animation-name: fadeInUp;">Variety of tasty food at <span class="text-gray font-yes">Sarsi Guest House</span></h2>
-                                    <p>Guhagar is well connected to the other parts of the state and is just about 40 Kms off the National Higway (NH 17)</p>
+                                    <h2 class="title-heading mb-4 fadeInUp wow" style="visibility: visible; animation-name: fadeInUp;">A <span class="text-gray font-yes">Culinary Delight</span> Awaits You!</h2>
+                                    <p>At <b class="fw-bold">Sarasi Guest House</b>, we offer an exquisite variety of Vegetarian and Non-Vegetarian dishes, crafted to satisfy every palate.</p>
                                 </div>
                                 <div class="tab-tour-list">
                                     <div class="tf-container">

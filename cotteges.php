@@ -35,8 +35,8 @@
                             <div class="col-lg-12">
                                 <div class="center m0-auto w-text-heading">
                                     <span class="sub-title-heading text-main mb-15 fadeInUp wow" style="visibility: visible; animation-name: fadeInUp;">We Offers</span>
-                                    <h2 class="title-heading mb-4 fadeInUp wow" style="visibility: visible; animation-name: fadeInUp;">Amazing Room Services by <span class="text-gray font-yes">Sarsi Guest House</span></h2>
-                                    <p>Guhagar is well connected to the other parts of the state and is just about 40 Kms off the National Higway (NH 17)</p>
+                                    <h2 class="title-heading mb-4 fadeInUp wow" style="visibility: visible; animation-name: fadeInUp;">More than just a stay,  experience <span class="text-gray font-yes">Sarsi's</span> hospitality.</h2>
+                                    <p>Well-connected and easy to reach. Hop off NH-17, and in just 40 km, Guhagar's charm awaits.</p>
                                 </div>
                                 <div class="tab-tour-list mt-5">
                                     <ul class="nav justify-content-center tab-list" id="myTab" role="tablist">
@@ -246,9 +246,8 @@
                         <div class="row">
                             <div class="col-lg-12">
                                 <div class="center m0-auto w-text-heading mb-40">
-                                    <span class="sub-title-heading text-main mb-15 fadeInUp wow" style="visibility: visible; animation-name: fadeInUp;">Explore the
-                                        Guhagar</span>
-                                    <h2 class="title-heading fadeInUp wow" style="visibility: visible; animation-name: fadeInUp;"><span class="font-yes">Sarsi Guest House</span> is surrounded by lots of sightseeings.</h2>
+                                <span class="sub-title-heading text-main mb-15 fadeInUp wow">Endless views, endless memories.</span>
+                                <h2 class="title-heading fadeInUp wow">Beaches, temples, and nature, a paradise packed with must-see sights. Lose yourself in the beauty of <span class="text-gray font-yes">Guhagar!</span></h2>
                                 </div>
                             </div>
                         </div>
@@ -286,7 +285,7 @@
                                     <img src="./assets/images/destination/list2.jpg" alt="">
                                 </a>
                                 <div class="destination-content">
-                                    <span class="nation">Bauman Ghal</span>
+                                    <span class="nation">Baman Ghal</span>
                                     <div class="flex-two btn-destination">
                                         <h6 class="title"><a href="sightseeing.php">Know More</a></h6>
                                         <a href="sightseeing.php" class="flex-five btn-view">
@@ -300,7 +299,7 @@
                                     <img src="./assets/images/destination/list3.jpg" alt="">
                                 </a>
                                 <div class="destination-content">
-                                    <span class="nation">Gopalgarh Fort</span>
+                                    <span class="nation">Forts</span>
                                     <div class="flex-two btn-destination">
                                         <h6 class="title"><a href="sightseeing.php">Know More</a></h6>
                                         <a href="sightseeing.php" class="flex-five btn-view">
@@ -315,7 +314,7 @@
                                     <img src="./assets/images/destination/list4.jpg" alt="">
                                 </a>
                                 <div class="destination-content">
-                                    <span class="nation">Bird Watching</span>
+                                    <span class="nation">Birds Watching</span>
                                     <div class="flex-two btn-destination">
                                         <h6 class="title"><a href="sightseeing.php">Know More</a></h6>
                                         <a href="sightseeing.php" class="flex-five btn-view">
@@ -329,7 +328,7 @@
                                     <img src="./assets/images/destination/list.jpg" alt="">
                                 </a>
                                 <div class="destination-content">
-                                    <span class="nation">Water Sports</span>
+                                    <span class="nation">Lake Boating</span>
                                     <div class="flex-two btn-destination">
                                         <h6 class="title"><a href="sightseeing.php">Know More</a></h6>
                                         <a href="sightseeing.php" class="flex-five btn-view">

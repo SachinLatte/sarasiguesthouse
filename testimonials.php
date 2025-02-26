@@ -34,7 +34,7 @@
                         <div class="row">
                             <div class="col-lg-12">
                             <div class="center m0-auto w-text-heading">
-                                    <h2 class="title-heading mb-4 fadeInUp wow" style="visibility: visible; animation-name: fadeInUp;">How to Reach <span class="text-gray font-yes">Sarasi Guest House</span></h2>
+                                    <h2 class="title-heading mb-4 fadeInUp wow" style="visibility: visible; animation-name: fadeInUp;">Memorable <span class="text-gray font-yes">Stays</span>, Happy <span class="text-gray font-yes">Guests</span> </h2>
                                     <p>Guhagar is well connected to the other parts of the state and is just about 40 Kms off the National Higway (NH 17)</p>
                                 </div>
                             </div>
@@ -130,7 +130,7 @@
                                 <div class="center m0-auto w-text-heading mb-40">
                                     <span class="sub-title-heading text-main mb-15 fadeInUp wow" style="visibility: visible; animation-name: fadeInUp;">Explore the
                                         Guhagar</span>
-                                    <h2 class="title-heading fadeInUp wow" style="visibility: visible; animation-name: fadeInUp;"><span class="font-yes">Sarsi Guest House</span> is surrounded by lots of sightseeings.</h2>
+                                    <h2 class="title-heading fadeInUp wow" style="visibility: visible; animation-name: fadeInUp;"><span class="font-yes">Sarsi Guest House</span> Where every turn is a sight to see</h2>
                                 </div>
                             </div>
                         </div>
@@ -168,7 +168,7 @@
                                     <img src="./assets/images/destination/list2.jpg" alt="">
                                 </a>
                                 <div class="destination-content">
-                                    <span class="nation">Bauman Ghal</span>
+                                    <span class="nation">Baman Ghal</span>
                                     <div class="flex-two btn-destination">
                                         <h6 class="title"><a href="sightseeing.php">Know More</a></h6>
                                         <a href="sightseeing.php" class="flex-five btn-view">
@@ -182,7 +182,7 @@
                                     <img src="./assets/images/destination/list3.jpg" alt="">
                                 </a>
                                 <div class="destination-content">
-                                    <span class="nation">Gopalgarh Fort</span>
+                                    <span class="nation">Forts</span>
                                     <div class="flex-two btn-destination">
                                         <h6 class="title"><a href="sightseeing.php">Know More</a></h6>
                                         <a href="sightseeing.php" class="flex-five btn-view">
@@ -196,7 +196,7 @@
                                     <img src="./assets/images/destination/list4.jpg" alt="">
                                 </a>
                                 <div class="destination-content">
-                                    <span class="nation">Bird Watching</span>
+                                    <span class="nation">Birds Watching</span>
                                     <div class="flex-two btn-destination">
                                         <h6 class="title"><a href="sightseeing.php">Know More</a></h6>
                                         <a href="sightseeing.php" class="flex-five btn-view">

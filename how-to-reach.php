@@ -34,8 +34,8 @@
                         <div class="row">
                             <div class="col-lg-12">
                                 <div class="center m0-auto w-text-heading">
-                                    <h2 class="title-heading mb-4 fadeInUp wow" style="visibility: visible; animation-name: fadeInUp;">How to Reach <span class="text-gray font-yes">Sarasi Guest House</span></h2>
-                                    <p>Guhagar is well connected to the other parts of the state and is just about 40 Kms off the National Higway (NH 17)</p>
+                                    <h2 class="title-heading mb-4 fadeInUp wow" style="visibility: visible; animation-name: fadeInUp;">How to Reach <br> <span class="text-gray font-yes">Sarasi Guest House</span></h2>
+                                    <p>Sarasi Guest House is an ideal place to stay in Guhagar to explore this region of Konkan. Located just minutes away from the pristine Guhagar beach, Sarasi Guest House has tastefully adorned cottages within a spacious 'wadi' with all amenities to ensure a comfortable stay during your holiday in Guhagar.</p>
                                 </div>
                                 <div class="row how-to-reach g-0" id="contact-form" >
                                     <div class="col-md-6">
@@ -78,9 +78,7 @@
                         <div class="row z-index3 relative">
                             <div class="col-lg-7 content-banner-contact">
                                 <div class="mb-32">
-                                    <h2 class="title-heading text-white wow fadeInUp  animated" style="visibility: visible; animation-name: fadeInUp;">Ready to travel with real
-                                        adventure &amp; enjoy
-                                        natural</h2>
+                                    <h2 class="title-heading text-white wow fadeInUp  animated" style="visibility: visible; animation-name: fadeInUp;">Pack your bags for an untamed <br>escape!</h2>
                                 </div>
                                 <div class="flex-three">
                                     <div class="video-wrap wow fadeInUp  animated" style="visibility: visible; animation-name: fadeInUp;">

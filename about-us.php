@@ -130,7 +130,7 @@
                                         </svg>
                                     </div>
                                     <div class="content">
-                                        <h4 class="title-icon"><a href="#">Birds Watching</a></h4>
+                                        <h4 class="title-icon"><a href="#">Birdss Watching</a></h4>
                                         <p class="des-icon">Pellentesque habitant morbi tristique senectus
                                             netus et
                                             malesuada fames ac</p>

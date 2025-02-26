@@ -36,7 +36,7 @@
                             <div class="center m0-auto w-text-heading mb-40">
                                 <span class="sub-title-heading text-main mb-15 fadeInUp wow" style="visibility: visible; animation-name: fadeInUp;">Explore the
                                     Guhagar</span>
-                                <h2 class="title-heading fadeInUp wow" style="visibility: visible; animation-name: fadeInUp;"><span class="font-yes">Sarsi Guest House</span> is surrounded by lots of sightseeings.</h2>
+                                <h2 class="title-heading fadeInUp wow" style="visibility: visible; animation-name: fadeInUp;"><span class="font-yes">Sarsi Guest House</span> Your gateway to Guhagar's hidden gems</h2>
                             </div>
                         </div>
                     </div>
@@ -117,28 +117,9 @@
                             </div>
                             <div class="col-md-6">
                                 <div class="contact-us-wrap bg-4">
-                                    <div class="inner-header mb-60">
+                                    <div class="inner-header mb-5">
                                         <h2 class="title">Enquiry Form</h2>
                                     </div>
-                                    <!-- <form action="/" id="form-contact-us">
-                                        <div class="input-wrap relative">
-                                            <input type="text" placeholder="Your Name*">
-                                        </div>
-                                        <div class="input-wrap relative">
-    
-                                            <input type="number" placeholder="Phone Number*">
-                                        </div>
-                                        <div class="input-wrap relative">
-    
-                                            <input type="email" placeholder="Email Address*">
-                                        </div>
-                                        <div class="input-wrap relative">
-                                            <textarea name="text-write" rows="7" cols="30"
-                                                placeholder="Enter Your Messege here"></textarea>
-                                        </div>
-                                        <button type="submit" class="btn-submit-contact"><i class="icon-Group-121"></i>
-                                            Submit</button>
-                                    </form> -->
                                     <?php include "enquiry-form.php"?>
                                 </div>
                             </div>
