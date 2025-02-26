@@ -3,7 +3,7 @@
                     <div class="footer-main">
                         <div class="footer-logo">
                             <div class="logo-footer">
-                                <img src="./assets/images/logo2.webp" alt="">
+                                <a href="index.php"><img src="./assets/images/logo2.webp" alt=""></a>
                             </div>
                             <p class="des-footer">Located alongside the 'Sagari Mahamarg' connecting Guhagar to Ganpatipule, Sarasi Guest House is an ideal place to stay to explore the Konkan beaches & attractions. 
                             </p>

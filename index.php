@@ -44,7 +44,7 @@
                                                     </h1>
                                                     <div class="btn-group">
                                                         <a href="contact-us.php#contactForm" class="btn-main fadeInDown wow">
-                                                            <p class="btn-main-text">Book Now</p>
+                                                            <p class="btn-main-text">Enquire Now</p>
                                                             <p class="iconer">
                                                                 <i class="icon-arrow-right"></i>
                                                             </p>
@@ -69,7 +69,8 @@
                                                         adventure
                                                         <span class="animationtext clip text-main">
                                                             <span class="cd-words-wrapper">
-                                                            <span class="item-text is-hidden">Trekking</span>
+                                                                <span class="item-text is-visible">Kayaking</span>
+                                                                <span class="item-text is-hidden">Trekking</span>
                                                                 <span class="item-text is-hidden">Bonfires</span>
                                                                 <span class="item-text is-hidden">Exploring</span>
                                                                 <span class="item-text is-hidden">Everything</span>
@@ -79,7 +80,7 @@
                                                     </h1>
                                                     <div class="btn-group">
                                                         <a href="contact-us.php#contactForm" class="btn-main fadeInDown wow">
-                                                            <p class="btn-main-text">Book Now</p>
+                                                            <p class="btn-main-text">Enquire Now</p>
                                                             <p class="iconer">
                                                                 <i class="icon-arrow-right"></i>
                                                             </p>
@@ -104,14 +105,18 @@
                                                         adventure
                                                         <span class="animationtext clip text-main">
                                                             <span class="cd-words-wrapper">
-                                                                <span class="item-text is-visible">Camping</span>
-                                                                <span class="item-text is-hidden">Camping</span>
+                                                                <span class="item-text is-visible">Kayaking</span>
+                                                                <span class="item-text is-hidden">Trekking</span>
+                                                                <span class="item-text is-hidden">Bonfires</span>
+                                                                <span class="item-text is-hidden">Exploring</span>
+                                                                <span class="item-text is-hidden">Everything</span>
+                                                                <span class="item-text is-hidden">Boating</span> 
                                                             </span>                                          
                                                         </span>
                                                     </h1>
                                                     <div class="btn-group">
                                                         <a href="contact-us.php#contactForm" class="btn-main fadeInDown wow">
-                                                            <p class="btn-main-text">Book Now</p>
+                                                            <p class="btn-main-text">Enquire Now</p>
                                                             <p class="iconer">
                                                                 <i class="icon-arrow-right"></i>
                                                             </p>
@@ -308,7 +313,7 @@
                                                                     <div class="cs-portfolio_bg cs-bg" data-src="./assets/images/gallery/non-ac-rooms/img1.webp" style="background-image: url(&quot;./assets/images/gallery/non-ac-rooms/img1.webp&quot;);"></div>
                                                                     <div class="cs-portfolio_info">
                                                                     <div class="cs-portfolio_info_bg cs-accent_bg"></div>
-                                                                    <h2 class="cs-portfolio_title">AC Rooms</h2>
+                                                                    <h2 class="cs-portfolio_title">Non-AC Rooms</h2>
                                                                     <div class="cs-portfolio_subtitle">View Large</div>
                                                                     </div>
                                                                 </a>
@@ -318,7 +323,7 @@
                                                                     <div class="cs-portfolio_bg cs-bg" data-src="./assets/images/gallery/non-ac-rooms/img2.webp" style="background-image: url(&quot;./assets/images/gallery/non-ac-rooms/img2.webp&quot;);"></div>
                                                                     <div class="cs-portfolio_info">
                                                                     <div class="cs-portfolio_info_bg cs-accent_bg"></div>
-                                                                    <h2 class="cs-portfolio_title">AC Rooms</h2>
+                                                                    <h2 class="cs-portfolio_title">Non-AC Rooms</h2>
                                                                     <div class="cs-portfolio_subtitle">View Large</div>
                                                                     </div>
                                                                 </a>
@@ -328,7 +333,7 @@
                                                                     <div class="cs-portfolio_bg cs-bg" data-src="./assets/images/gallery/non-ac-rooms/img3.webp" style="background-image: url(&quot;./assets/images/gallery/non-ac-rooms/img3.webp&quot;);"></div>
                                                                     <div class="cs-portfolio_info">
                                                                     <div class="cs-portfolio_info_bg cs-accent_bg"></div>
-                                                                        <h2 class="cs-portfolio_title">AC Rooms</h2>
+                                                                        <h2 class="cs-portfolio_title">Non-AC Rooms</h2>
                                                                     <div class="cs-portfolio_subtitle">View Large</div>
                                                                     </div>
                                                                 </a>
@@ -338,7 +343,7 @@
                                                                     <div class="cs-portfolio_bg cs-bg" data-src="./assets/images/gallery/non-ac-rooms/img4.webp" style="background-image: url(&quot;./assets/images/gallery/non-ac-rooms/img4.webp&quot;);"></div>
                                                                     <div class="cs-portfolio_info">
                                                                     <div class="cs-portfolio_info_bg cs-accent_bg"></div>
-                                                                        <h2 class="cs-portfolio_title">AC Rooms</h2>
+                                                                        <h2 class="cs-portfolio_title">Non-AC Rooms</h2>
                                                                     <div class="cs-portfolio_subtitle">View Large</div>
                                                                     </div>
                                                                 </a>
@@ -348,7 +353,7 @@
                                                                     <div class="cs-portfolio_bg cs-bg" data-src="./assets/images/gallery/non-ac-rooms/img5.webp" style="background-image: url(&quot;./assets/images/gallery/non-ac-rooms/img5.webp&quot;);"></div>
                                                                     <div class="cs-portfolio_info">
                                                                     <div class="cs-portfolio_info_bg cs-accent_bg"></div>
-                                                                        <h2 class="cs-portfolio_title">AC Rooms</h2>
+                                                                        <h2 class="cs-portfolio_title">Non-AC Rooms</h2>
                                                                     <div class="cs-portfolio_subtitle">View Large</div>
                                                                     </div>
                                                                 </a>
@@ -358,7 +363,7 @@
                                                                     <div class="cs-portfolio_bg cs-bg" data-src="./assets/images/gallery/non-ac-rooms/img6.webp" style="background-image: url(&quot;./assets/images/gallery/non-ac-rooms/img6.webp&quot;);"></div>
                                                                     <div class="cs-portfolio_info">
                                                                     <div class="cs-portfolio_info_bg cs-accent_bg"></div>
-                                                                        <h2 class="cs-portfolio_title">AC Rooms</h2>
+                                                                        <h2 class="cs-portfolio_title">Non-AC Rooms</h2>
                                                                     <div class="cs-portfolio_subtitle">View Large</div>
                                                                     </div>
                                                                 </a>
@@ -368,7 +373,7 @@
                                                                     <div class="cs-portfolio_bg cs-bg" data-src="./assets/images/gallery/non-ac-rooms/img7.webp" style="background-image: url(&quot;./assets/images/gallery/non-ac-rooms/img7.webp&quot;);"></div>
                                                                     <div class="cs-portfolio_info">
                                                                     <div class="cs-portfolio_info_bg cs-accent_bg"></div>
-                                                                        <h2 class="cs-portfolio_title">AC Rooms</h2>
+                                                                        <h2 class="cs-portfolio_title">Non-AC Rooms</h2>
                                                                     <div class="cs-portfolio_subtitle">View Large</div>
                                                                     </div>
                                                                 </a>
@@ -378,7 +383,7 @@
                                                                     <div class="cs-portfolio_bg cs-bg" data-src="./assets/images/gallery/non-ac-rooms/img8.webp" style="background-image: url(&quot;./assets/images/gallery/non-ac-rooms/img8.webp&quot;);"></div>
                                                                     <div class="cs-portfolio_info">
                                                                     <div class="cs-portfolio_info_bg cs-accent_bg"></div>
-                                                                        <h2 class="cs-portfolio_title">AC Rooms</h2>
+                                                                        <h2 class="cs-portfolio_title">Non-AC Rooms</h2>
                                                                     <div class="cs-portfolio_subtitle">View Large</div>
                                                                     </div>
                                                                 </a>
@@ -452,7 +457,7 @@
                             </div>
                             <div class="tf-widget-destination wow fadeInUp animated " data-wow-delay="0.4s">
                                 <a href="sightseeing.php" class="destination-imgae">
-                                    <img src="./assets/images/destination/list3.jpg" alt="">
+                                    <img src="./assets/images/destination/forts/fort-main-thumb.webp" alt="">
                                 </a>
                                 <div class="destination-content">
                                     <span class="nation">Forts</span>
@@ -466,7 +471,7 @@
                             </div>
                             <div class="tf-widget-destination wow fadeInUp animated " data-wow-delay="0.5s">
                                 <a href="sightseeing.php" class="destination-imgae">
-                                    <img src="./assets/images/destination/list4.jpg" alt="">
+                                    <img src="./assets/images/destination/birds-watching/birds-watching-main-thumb.webp" alt="">
                                 </a>
                                 <div class="destination-content">
                                     <span class="nation">Birds Watching</span>
@@ -480,7 +485,7 @@
                             </div>
                             <div class="tf-widget-destination wow fadeInUp animated " data-wow-delay="0.6s">
                                 <a href="sightseeing.php" class="destination-imgae">
-                                    <img src="./assets/images/destination/list.jpg" alt="">
+                                    <img src="./assets/images/destination/lake-boating/lake-boating-main-thumb.webp" alt="">
                                 </a>
                                 <div class="destination-content">
                                     <span class="nation">Lake Boating</span>
@@ -586,7 +591,6 @@
                                             </div>
                                             
                                         </div>
-
                                     </div>
                                     <div class="swiper testimonial-image">
                                         <div class="swiper-wrapper">

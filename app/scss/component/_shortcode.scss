@@ -863,6 +863,7 @@
         position: relative;
         overflow: hidden;
         display: block;
+        border-radius: 5px;
 
         &::before {
             background: linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 1));

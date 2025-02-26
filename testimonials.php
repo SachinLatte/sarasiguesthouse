@@ -35,7 +35,7 @@
                             <div class="col-lg-12">
                             <div class="center m0-auto w-text-heading">
                                     <h2 class="title-heading mb-4 fadeInUp wow" style="visibility: visible; animation-name: fadeInUp;">Memorable <span class="text-gray font-yes">Stays</span>, Happy <span class="text-gray font-yes">Guests</span> </h2>
-                                    <p>Guhagar is well connected to the other parts of the state and is just about 40 Kms off the National Higway (NH 17)</p>
+                                    <p>Located alongside the 'Sagari Mahamarg' connecting Guhagar to Ganpatipule, Sarasi Guest House is an ideal place to stay to explore the Konkan beaches & attractions.</p>
                                 </div>
                             </div>
                         </div>
@@ -55,13 +55,10 @@
                                             <div class="swiper-slide swiper-slide-active" role="group" aria-label="1 / 3" style="width: 682px; margin-right: 30px;">
                                                 <div class="testimonial-content relative">
                                                     <div class="profile mb-15">
-                                                        <h3 class="name">Piter Bowman</h3>
-                                                        <span class="job">Business CEO</span>
+                                                        <h3 class="name">Rohan Mehta</h3>
+                                                        <span class="job">Travel Blogger</span>
                                                     </div>
-                                                    <p class="tes">Leverage agile frameworks to provide a robust
-                                                        synopsis for high level overviews. Iterative in
-                                                        approaches to corporate strategy data foster go
-                                                        to collaborative thinking.
+                                                    <p class="tes">"Sarasi Guest House is a hidden gem! The rooms are cozy, the staff is welcoming, and the location is just perfect for a peaceful getaway. Highly recommend!"
                                                     </p>
                                                     <span class="line"></span>
                                                     <div class="icon-tes flex-five">
@@ -72,13 +69,10 @@
                                             <div class="swiper-slide swiper-slide-next" role="group" aria-label="2 / 3" style="width: 682px; margin-right: 30px;">
                                                 <div class="testimonial-content relative">
                                                     <div class="profile mb-15">
-                                                        <h3 class="name">Piter Bowman</h3>
-                                                        <span class="job">Business CEO</span>
+                                                        <h3 class="name">Ananya Iyer</h3>
+                                                        <span class="job">Graphic Designer</span>
                                                     </div>
-                                                    <p class="tes">Leverage agile frameworks to provide a robust
-                                                        synopsis for high level overviews. Iterative in
-                                                        approaches to corporate strategy data foster go
-                                                        to collaborative thinking.
+                                                    <p class="tes">"I loved waking up to the sound of waves and chirping Birdss. The place is serene, well-maintained, and gives you the perfect break from city life."
                                                     </p>
                                                     <span class="line"></span>
                                                     <div class="icon-tes flex-five">
@@ -89,13 +83,10 @@
                                             <div class="swiper-slide" role="group" aria-label="3 / 3" style="width: 682px; margin-right: 30px;">
                                                 <div class="testimonial-content relative">
                                                     <div class="profile mb-15">
-                                                        <h3 class="name">Piter Bowman</h3>
-                                                        <span class="job">Business CEO</span>
+                                                        <h3 class="name">Rahul Saxena</h3>
+                                                        <span class="job">Photographer</span>
                                                     </div>
-                                                    <p class="tes">Leverage agile frameworks to provide a robust
-                                                        synopsis for high level overviews. Iterative in
-                                                        approaches to corporate strategy data foster go
-                                                        to collaborative thinking.
+                                                    <p class="tes">"If you love capturing nature, this is the place to be! Stunning views, beautiful sunsets, and a calm environment. Will be back soon!"
                                                     </p>
                                                     <span class="line"></span>
                                                     <div class="icon-tes flex-five">
@@ -137,7 +128,7 @@
                         <div class="grid-three-destination">
                             <div class="tf-widget-destination wow fadeInUp   animated" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
                                 <a href="sightseeing.php" class="destination-imgae">
-                                    <img src="./assets/images/destination/list.jpg" alt="">
+                                    <img src="./assets/images/destination/beaches/beaches-main-thumb.webp" alt="">
                                 </a>
                                 <div class="destination-content">
                                     <span class="nation">Beautiful Beaches</span>
@@ -151,7 +142,7 @@
                             </div>
                             <div class="tf-widget-destination wow fadeInUp   animated" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
                                 <a href="sightseeing.php" class="destination-imgae">
-                                    <img src="./assets/images/destination/list1.jpg" alt="">
+                                    <img src="./assets/images/destination/temples/temples-main-thumb.webp" alt="">
                                 </a>
                                 <div class="destination-content">
                                     <span class="nation">Temples</span>
@@ -165,7 +156,7 @@
                             </div>
                             <div class="tf-widget-destination wow fadeInUp   animated" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
                                 <a href="sightseeing.php" class="destination-imgae">
-                                    <img src="./assets/images/destination/list2.jpg" alt="">
+                                    <img src="./assets/images/destination/Baman-ghal/Baman-ghal-main-thumb.webp" alt="">
                                 </a>
                                 <div class="destination-content">
                                     <span class="nation">Baman Ghal</span>
@@ -179,7 +170,7 @@
                             </div>
                             <div class="tf-widget-destination wow fadeInUp   animated" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
                                 <a href="sightseeing.php" class="destination-imgae">
-                                    <img src="./assets/images/destination/list3.jpg" alt="">
+                                    <img src="./assets/images/destination/forts/fort-main-thumb.webp" alt="">
                                 </a>
                                 <div class="destination-content">
                                     <span class="nation">Forts</span>
@@ -193,7 +184,7 @@
                             </div>
                             <div class="tf-widget-destination wow fadeInUp   animated" data-wow-delay="0.5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">
                                 <a href="sightseeing.php" class="destination-imgae">
-                                    <img src="./assets/images/destination/list4.jpg" alt="">
+                                    <img src="./assets/images/destination/birds-watching/birds-watching-main-thumb.webp" alt="">
                                 </a>
                                 <div class="destination-content">
                                     <span class="nation">Birds Watching</span>
@@ -207,7 +198,7 @@
                             </div>
                             <div class="tf-widget-destination wow fadeInUp   animated" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
                                 <a href="sightseeing.php" class="destination-imgae">
-                                    <img src="./assets/images/destination/list.jpg" alt="">
+                                    <img src="./assets/images/destination/lake-boating/lake-boating-main-thumb.webp" alt="">
                                 </a>
                                 <div class="destination-content">
                                     <span class="nation">Lake Boating</span>

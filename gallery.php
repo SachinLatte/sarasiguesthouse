@@ -136,82 +136,82 @@
                                     <div class="row">
                                     <div class="col-lg-12">
                                     <div class="grid-gallery" id="video-gallery">
-                                                <div class="item-1" data-src="https://www.youtube.com/watch?v=lXItSmPeYzQ">
+                                                <div class="item-1" data-src="https://www.youtube.com/watch?v=1LDgLfovNiE">
                                                     <div class="tf-gallery">
                                                     <img src="./assets/images/gallery/video-gallery/img1.webp" alt="">
-                                                        <a href="https://www.youtube.com/watch?v=lXItSmPeYzQ" class="btn-gallery flex-five" data-fancybox="gallery">
+                                                        <a href="https://www.youtube.com/watch?v=1LDgLfovNiE" class="btn-gallery flex-five" data-fancybox="gallery">
                                                         <i class="fa-solid fa-play"></i>
                                                         </a>
                                                     </div>
                                                 </div>
-                                                <div class="item-2 common-items" data-src="https://www.youtube.com/watch?v=lXItSmPeYzQ">
+                                                <div class="item-2 common-items" data-src="https://www.youtube.com/watch?v=1LDgLfovNiE">
                                                     <div class="tf-gallery">
                                                         <img src="./assets/images/gallery/video-gallery/img2.webp" alt="">
-                                                        <a href="https://www.youtube.com/watch?v=lXItSmPeYzQ" data-fancybox="gallery" class="btn-gallery flex-five">
+                                                        <a href="https://www.youtube.com/watch?v=1LDgLfovNiE" data-fancybox="gallery" class="btn-gallery flex-five">
                                                         <i class="fa-solid fa-play"></i>
                                                         </a>
                                                     </div>
                                                 </div>
-                                                <div class="item-3 common-items" data-src="https://www.youtube.com/watch?v=lXItSmPeYzQ" style="background-image: url(&quot;./assets/images/gallery/gallery11.jpg&quot;)";>
+                                                <div class="item-3 common-items" data-src="https://www.youtube.com/watch?v=1LDgLfovNiE" style="background-image: url(&quot;./assets/images/gallery/gallery11.jpg&quot;)";>
                                                     <div class="tf-gallery">
                                                         <img src="./assets/images/gallery/video-gallery/img3.webp" alt="">
-                                                        <a href="https://www.youtube.com/watch?v=lXItSmPeYzQ" class="btn-gallery flex-five " data-fancybox="gallery">
+                                                        <a href="https://www.youtube.com/watch?v=1LDgLfovNiE" class="btn-gallery flex-five " data-fancybox="gallery">
                                                         <i class="fa-solid fa-play"></i>
                                                         </a>
                                                     </div>
                                                 </div>
-                                                <div class="item-4 common-items" data-src="https://www.youtube.com/watch?v=lXItSmPeYzQ">
+                                                <div class="item-4 common-items" data-src="https://www.youtube.com/watch?v=1LDgLfovNiE">
                                                     <div class="tf-gallery">
                                                         <img src="./assets/images/gallery/video-gallery/img4.webp" alt="">
-                                                        <a href="https://www.youtube.com/watch?v=lXItSmPeYzQ" class="btn-gallery flex-five" data-fancybox="gallery">
+                                                        <a href="https://www.youtube.com/watch?v=1LDgLfovNiE" class="btn-gallery flex-five" data-fancybox="gallery">
                                                         <i class="fa-solid fa-play"></i>
                                                         </a>
                                                     </div>
                                                 </div>
-                                                <div class="item-5 common-items" data-src="https://www.youtube.com/watch?v=lXItSmPeYzQ">
+                                                <div class="item-5 common-items" data-src="https://www.youtube.com/watch?v=1LDgLfovNiE">
                                                     <div class="tf-gallery">
                                                     <img src="./assets/images/gallery/video-gallery/img5.webp" alt="">
-                                                        <a href="https://www.youtube.com/watch?v=lXItSmPeYzQ" class="btn-gallery flex-five" data-fancybox="gallery">
+                                                        <a href="https://www.youtube.com/watch?v=1LDgLfovNiE" class="btn-gallery flex-five" data-fancybox="gallery">
                                                         <i class="fa-solid fa-play"></i>
                                                         </a>
                                                     </div>
                                                 </div>
-                                                <div class="item-6 common-items" data-src="https://www.youtube.com/watch?v=lXItSmPeYzQ">
+                                                <div class="item-6 common-items" data-src="https://www.youtube.com/watch?v=1LDgLfovNiE">
                                                     <div class="tf-gallery">
                                                     <img src="./assets/images/gallery/video-gallery/img6.webp" alt="">
-                                                        <a href="https://www.youtube.com/watch?v=lXItSmPeYzQ" class="btn-gallery flex-five" data-fancybox="gallery">
+                                                        <a href="https://www.youtube.com/watch?v=1LDgLfovNiE" class="btn-gallery flex-five" data-fancybox="gallery">
                                                         <i class="fa-solid fa-play"></i>
                                                         </a>
                                                     </div>
                                                 </div>
-                                                <div class="item-7 common-items" data-src="https://www.youtube.com/watch?v=lXItSmPeYzQ">
+                                                <div class="item-7 common-items" data-src="https://www.youtube.com/watch?v=1LDgLfovNiE">
                                                     <div class="tf-gallery">
                                                     <img src="./assets/images/gallery/video-gallery/img7.webp" alt="">
-                                                        <a href="https://www.youtube.com/watch?v=lXItSmPeYzQ" class="btn-gallery flex-five" data-fancybox="gallery">
+                                                        <a href="https://www.youtube.com/watch?v=1LDgLfovNiE" class="btn-gallery flex-five" data-fancybox="gallery">
                                                         <i class="fa-solid fa-play"></i>
                                                         </a>
                                                     </div>
                                                 </div>
-                                                <div class="item-8 common-items" data-src="https://www.youtube.com/watch?v=lXItSmPeYzQ">
+                                                <div class="item-8 common-items" data-src="https://www.youtube.com/watch?v=1LDgLfovNiE">
                                                     <div class="tf-gallery">
                                                         <img src="./assets/images/gallery/video-gallery/img8.webp" alt="">
-                                                        <a href="https://www.youtube.com/watch?v=lXItSmPeYzQ" data-fancybox="gallery" class="btn-gallery flex-five">
+                                                        <a href="https://www.youtube.com/watch?v=1LDgLfovNiE" data-fancybox="gallery" class="btn-gallery flex-five">
                                                         <i class="fa-solid fa-play"></i>
                                                         </a>
                                                     </div>
                                                 </div>
-                                                <div class="item-9 common-items" data-src="https://www.youtube.com/watch?v=lXItSmPeYzQ">
+                                                <div class="item-9 common-items" data-src="https://www.youtube.com/watch?v=1LDgLfovNiE">
                                                     <div class="tf-gallery">
                                                     <img src="./assets/images/gallery/video-gallery/img9.webp" alt="">
-                                                        <a href="https://www.youtube.com/watch?v=lXItSmPeYzQ" class="btn-gallery flex-five " data-fancybox="gallery">
+                                                        <a href="https://www.youtube.com/watch?v=1LDgLfovNiE" class="btn-gallery flex-five " data-fancybox="gallery">
                                                         <i class="fa-solid fa-play"></i>
                                                         </a>
                                                     </div>
                                                 </div>
-                                                <div class="item-10 common-items" data-src="https://www.youtube.com/watch?v=lXItSmPeYzQ">
+                                                <div class="item-10 common-items" data-src="https://www.youtube.com/watch?v=1LDgLfovNiE">
                                                     <div class="tf-gallery">
                                                     <img src="./assets/images/gallery/video-gallery/img10.webp" alt="">
-                                                        <a href="https://www.youtube.com/watch?v=lXItSmPeYzQ" class="btn-gallery flex-five" data-fancybox="gallery">
+                                                        <a href="https://www.youtube.com/watch?v=1LDgLfovNiE" class="btn-gallery flex-five" data-fancybox="gallery">
                                                         <i class="fa-solid fa-play"></i>
                                                         </a>
                                                     </div>

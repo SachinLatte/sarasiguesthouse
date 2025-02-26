@@ -41,69 +41,69 @@
                         </div>
                         <div class="row mt-5">
                             <div class="col-md-5 mb-37 photo-lightgallery">
-                            <a href="./assets/images/tour/1.jpg" class="destination-style relative">
-                                <img src="./assets/images/tour/1.jpg" alt="">
+                            <a href="./assets/images/tour/beaches/beaches-thumb.webp" class="destination-style relative">
+                                <img src="./assets/images/tour/beaches/beaches-thumb.webp" alt="">
                                 <div class="destination-content">
                                     <p class="text-white">Beaches</p>
                                 </div>
                             </a>
-                            <a style="display:none;" href="./assets/images/tour/2.jpg">
-                                <img src="./assets/images/tour/2.jpg" />
+                            <a style="display:none;" href="./assets/images/tour/beaches/beaches-thumb.webp">
+                                <img src="./assets/images/tour/beaches/beaches-thumb.webp" />
                             </a>
                             </div>
                             <div class="col-md-4 mb-37 photo-lightgallery">
-                                <a href="./assets/images/tour/2.jpg" class="destination-style relative">
-                                    <img src="./assets/images/tour/2.jpg" alt="">
+                                <a href="./assets/images/tour/temples/temples-thumb.webp" class="destination-style relative">
+                                    <img src="./assets/images/tour/temples/temples-thumb.webp" alt="">
                                     <div class="destination-content">
                                         <p class="text-white">Temples</p>
                                     </div>
                                 </a>
-                            <a style="display:none;" href="./assets/images/tour/1.jpg">
-                                <img src="./assets/images/tour/1.jpg" />
+                            <a style="display:none;" href="./assets/images/tour/temples/temples-thumb.webp">
+                                <img src="./assets/images/tour/temples/temples-thumb.webp" />
                             </a>
                             </div>
                             <div class="col-md-3 mb-37 photo-lightgallery">
-                                <a href="./assets/images/tour/3.jpg" class="destination-style relative">
-                                    <img src="./assets/images/tour/3.jpg" alt="">
+                                <a href="./assets/images/tour/forts/forts-thumb.webp" class="destination-style relative">
+                                    <img src="./assets/images/tour/forts/forts-thumb.webp" alt="">
                                     <div class="destination-content">
                                         <p class="text-white">Forts</p>
                                     </div>
                                 </a>
-                                <a style="display:none;" href="./assets/images/tour/1.jpg">
-                                <img src="./assets/images/tour/1.jpg" />
+                                <a style="display:none;" href="./assets/images/tour/forts/forts-thumb.webp">
+                                <img src="./assets/images/tour/forts/forts-thumb.webp" />
                             </a>
                             </div>
                             <div class="col-md-3 mb-37 photo-lightgallery">
-                                <a href="./assets/images/tour/4.jpg" class="destination-style relative">
-                                    <img src="./assets/images/tour/4.jpg" alt="">
+                                <a href="./assets/images/tour/lake-boating/lake-boating-thumb.webp" class="destination-style relative">
+                                    <img src="./assets/images/tour/lake-boating/lake-boating-thumb.webp" alt="">
                                     <div class="destination-content">
                                         <p class="text-white">Lake Boating</p>
                                     </div>
                                 </a>
-                                <a style="display:none;" href="./assets/images/tour/1.jpg">
-                                <img src="./assets/images/tour/1.jpg" />
+                                <a style="display:none;" href="./assets/images/tour/lake-boating/lake-boating-thumb.webp">
+                                <img src="./assets/images/tour/lake-boating/lake-boating-thumb.webp" />
                             </a>
                             </div>
                             <div class="col-md-5 mb-37 photo-lightgallery">
-                                <a href="./assets/images/tour/5.jpg" class="destination-style relative">
-                                    <img src="./assets/images/tour/5.jpg" alt="">
+                                <a href="./assets/images/tour/birds-watching/birds-watching-thumb.webp" class="destination-style relative">
+                                    <img src="./assets/images/tour/birds-watching/birds-watching-thumb.webp" alt="">
                                     <div class="destination-content">
                                         <p class="text-white">Birds Watching</p>
                                     </div>
                                 </a>
-                                <a style="display:none;" href="./assets/images/tour/1.jpg">
-                                <img src="./assets/images/tour/1.jpg" />
+                                <a style="display:none;" href="./assets/images/tour/birds-watching/birds-watching-thumb.webp">
+                                <img src="./assets/images/tour/birds-watching/birds-watching-thumb.webp" />
                             </a>
                             </div>
                             <div class="col-md-4 mb-37 photo-lightgallery">
-                                <a href="./assets/images/tour/6.jpg" class="destination-style relative">
-                                    <img src="./assets/images/tour/6.jpg" alt="">
+                                <a href="./assets/images/tour/baman-ghal/baman-ghal-thumb.webp" class="destination-style relative">
+                                    <img src="./assets/images/tour/baman-ghal/baman-ghal-thumb.webp" alt="">
                                     <div class="destination-content">
                                         <p class="text-white">Baman Ghal</p>
                                     </div>
                                 </a>
-                                <a style="display:none;" href="./assets/images/tour/1.jpg">
-                                <img src="./assets/images/tour/1.jpg" />
+                                <a style="display:none;" href="./assets/images/tour/baman-ghal/baman-ghal-thumb.webp">
+                                <img src="./assets/images/tour/baman-ghal/baman-ghal-thumb.webp" />
                             </a>
                             </div>
                         </div>

@@ -608,8 +608,7 @@
 .video-h4-widget {
     padding-top: 168px;
     padding-bottom: 65px;
-    background-image: url(../../assets/images/page/video1.jpg);
-    background-position: center;
+    background-image: url(../../assets/images/page/video1.webp);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -800,6 +799,7 @@
             font-weight: 500;
             line-height: 30px;
             font-style: italic;
+            color: $primary !important;
         }
     }
 }

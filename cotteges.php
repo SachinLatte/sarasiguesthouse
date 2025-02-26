@@ -154,7 +154,7 @@
                                                                     <div class="cs-portfolio_bg cs-bg" data-src="./assets/images/gallery/non-ac-rooms/img1.webp" style="background-image: url(&quot;./assets/images/gallery/non-ac-rooms/img1.webp&quot;);"></div>
                                                                     <div class="cs-portfolio_info">
                                                                     <div class="cs-portfolio_info_bg cs-accent_bg"></div>
-                                                                    <h2 class="cs-portfolio_title">AC Rooms</h2>
+                                                                    <h2 class="cs-portfolio_title">Non-AC Rooms</h2>
                                                                     <div class="cs-portfolio_subtitle">View Large</div>
                                                                     </div>
                                                                 </a>
@@ -164,7 +164,7 @@
                                                                     <div class="cs-portfolio_bg cs-bg" data-src="./assets/images/gallery/non-ac-rooms/img2.webp" style="background-image: url(&quot;./assets/images/gallery/non-ac-rooms/img2.webp&quot;);"></div>
                                                                     <div class="cs-portfolio_info">
                                                                     <div class="cs-portfolio_info_bg cs-accent_bg"></div>
-                                                                    <h2 class="cs-portfolio_title">AC Rooms</h2>
+                                                                    <h2 class="cs-portfolio_title">Non-AC Rooms</h2>
                                                                     <div class="cs-portfolio_subtitle">View Large</div>
                                                                     </div>
                                                                 </a>
@@ -174,7 +174,7 @@
                                                                     <div class="cs-portfolio_bg cs-bg" data-src="./assets/images/gallery/non-ac-rooms/img3.webp" style="background-image: url(&quot;./assets/images/gallery/non-ac-rooms/img3.webp&quot;);"></div>
                                                                     <div class="cs-portfolio_info">
                                                                     <div class="cs-portfolio_info_bg cs-accent_bg"></div>
-                                                                        <h2 class="cs-portfolio_title">AC Rooms</h2>
+                                                                        <h2 class="cs-portfolio_title">Non-AC Rooms</h2>
                                                                     <div class="cs-portfolio_subtitle">View Large</div>
                                                                     </div>
                                                                 </a>
@@ -184,7 +184,7 @@
                                                                     <div class="cs-portfolio_bg cs-bg" data-src="./assets/images/gallery/non-ac-rooms/img4.webp" style="background-image: url(&quot;./assets/images/gallery/non-ac-rooms/img4.webp&quot;);"></div>
                                                                     <div class="cs-portfolio_info">
                                                                     <div class="cs-portfolio_info_bg cs-accent_bg"></div>
-                                                                        <h2 class="cs-portfolio_title">AC Rooms</h2>
+                                                                        <h2 class="cs-portfolio_title">Non-AC Rooms</h2>
                                                                     <div class="cs-portfolio_subtitle">View Large</div>
                                                                     </div>
                                                                 </a>
@@ -194,7 +194,7 @@
                                                                     <div class="cs-portfolio_bg cs-bg" data-src="./assets/images/gallery/non-ac-rooms/img5.webp" style="background-image: url(&quot;./assets/images/gallery/non-ac-rooms/img5.webp&quot;);"></div>
                                                                     <div class="cs-portfolio_info">
                                                                     <div class="cs-portfolio_info_bg cs-accent_bg"></div>
-                                                                        <h2 class="cs-portfolio_title">AC Rooms</h2>
+                                                                        <h2 class="cs-portfolio_title">Non-AC Rooms</h2>
                                                                     <div class="cs-portfolio_subtitle">View Large</div>
                                                                     </div>
                                                                 </a>
@@ -204,7 +204,7 @@
                                                                     <div class="cs-portfolio_bg cs-bg" data-src="./assets/images/gallery/non-ac-rooms/img6.webp" style="background-image: url(&quot;./assets/images/gallery/non-ac-rooms/img6.webp&quot;);"></div>
                                                                     <div class="cs-portfolio_info">
                                                                     <div class="cs-portfolio_info_bg cs-accent_bg"></div>
-                                                                        <h2 class="cs-portfolio_title">AC Rooms</h2>
+                                                                        <h2 class="cs-portfolio_title">Non-AC Rooms</h2>
                                                                     <div class="cs-portfolio_subtitle">View Large</div>
                                                                     </div>
                                                                 </a>
@@ -214,7 +214,7 @@
                                                                     <div class="cs-portfolio_bg cs-bg" data-src="./assets/images/gallery/non-ac-rooms/img7.webp" style="background-image: url(&quot;./assets/images/gallery/non-ac-rooms/img7.webp&quot;);"></div>
                                                                     <div class="cs-portfolio_info">
                                                                     <div class="cs-portfolio_info_bg cs-accent_bg"></div>
-                                                                        <h2 class="cs-portfolio_title">AC Rooms</h2>
+                                                                        <h2 class="cs-portfolio_title">Non-AC Rooms</h2>
                                                                     <div class="cs-portfolio_subtitle">View Large</div>
                                                                     </div>
                                                                 </a>
@@ -224,7 +224,7 @@
                                                                     <div class="cs-portfolio_bg cs-bg" data-src="./assets/images/gallery/non-ac-rooms/img8.webp" style="background-image: url(&quot;./assets/images/gallery/non-ac-rooms/img8.webp&quot;);"></div>
                                                                     <div class="cs-portfolio_info">
                                                                     <div class="cs-portfolio_info_bg cs-accent_bg"></div>
-                                                                        <h2 class="cs-portfolio_title">AC Rooms</h2>
+                                                                        <h2 class="cs-portfolio_title">Non-AC Rooms</h2>
                                                                     <div class="cs-portfolio_subtitle">View Large</div>
                                                                     </div>
                                                                 </a>
@@ -254,7 +254,7 @@
                         <div class="grid-three-destination">
                             <div class="tf-widget-destination wow fadeInUp   animated" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
                                 <a href="sightseeing.php" class="destination-imgae">
-                                    <img src="./assets/images/destination/list.jpg" alt="">
+                                    <img src="./assets/images/destination/beaches/beaches-main-thumb.webp" alt="">
                                 </a>
                                 <div class="destination-content">
                                     <span class="nation">Beautiful Beaches</span>
@@ -268,7 +268,7 @@
                             </div>
                             <div class="tf-widget-destination wow fadeInUp   animated" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
                                 <a href="sightseeing.php" class="destination-imgae">
-                                    <img src="./assets/images/destination/list1.jpg" alt="">
+                                    <img src="./assets/images/destination/temples/temples-main-thumb.webp" alt="">
                                 </a>
                                 <div class="destination-content">
                                     <span class="nation">Temples</span>
@@ -282,7 +282,7 @@
                             </div>
                             <div class="tf-widget-destination wow fadeInUp   animated" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
                                 <a href="sightseeing.php" class="destination-imgae">
-                                    <img src="./assets/images/destination/list2.jpg" alt="">
+                                    <img src="./assets/images/destination/Baman-ghal/Baman-ghal-main-thumb.webp" alt="">
                                 </a>
                                 <div class="destination-content">
                                     <span class="nation">Baman Ghal</span>
@@ -296,7 +296,7 @@
                             </div>
                             <div class="tf-widget-destination wow fadeInUp   animated" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
                                 <a href="sightseeing.php" class="destination-imgae">
-                                    <img src="./assets/images/destination/list3.jpg" alt="">
+                                    <img src="./assets/images/destination/forts/fort-main-thumb.webp" alt="">
                                 </a>
                                 <div class="destination-content">
                                     <span class="nation">Forts</span>
@@ -306,12 +306,11 @@
                                             <i class="icon-Vector-32"></i>
                                         </a>
                                     </div>
-
                                 </div>
                             </div>
                             <div class="tf-widget-destination wow fadeInUp   animated" data-wow-delay="0.5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">
                                 <a href="sightseeing.php" class="destination-imgae">
-                                    <img src="./assets/images/destination/list4.jpg" alt="">
+                                    <img src="./assets/images/destination/birds-watching/birds-watching-main-thumb.webp" alt="">
                                 </a>
                                 <div class="destination-content">
                                     <span class="nation">Birds Watching</span>
@@ -325,7 +324,7 @@
                             </div>
                             <div class="tf-widget-destination wow fadeInUp   animated" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
                                 <a href="sightseeing.php" class="destination-imgae">
-                                    <img src="./assets/images/destination/list.jpg" alt="">
+                                    <img src="./assets/images/destination/lake-boating/lake-boating-main-thumb.webp" alt="">
                                 </a>
                                 <div class="destination-content">
                                     <span class="nation">Lake Boating</span>
